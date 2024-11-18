@@ -2,19 +2,3 @@
 layout: archive
 title: "The Artists"
 ---
-
-
-<p> IGSA is an organization of Northern Arizona University graduate students in the School of Informatics, Computing & Cyber Systems (SICCS) who aim to: <strong>(1)</strong> promote participation from SICCS graduate students in the form of scientific outreach, workshops, and community building, <strong>(2)</strong> advocate for SICCS graduate student rights and create an environment of outreach, support, and inclusion, <strong>(3)</strong> provide leadership in developing, implementing, and organizing events and activities that are designed to increase awareness of pathways to success in science and encourage broad participation in science, and <strong>(4)</strong> foster a space for community building and camaraderie among graduate students in SICCS.<br><br>
-
-<strong>Structure:</strong><br>
-IGSA seeks to build a non-hierarchical organizational culture that consists of an organizing committee to help facilitate club activities, outreach, and meeting structure. This means trying to make decisions together, letting people start projects that excite them, welcoming new people and ideas, and promoting active leadership roles from all members of the organization.<br><br>
-
-<strong>Broadening Participation Committee:</strong><br>
-IGSA nests a Broadening Participation outreach group that aims to foster participation from underrepresented groups in SICCS and in the scientific community in general, through scientific outreach, workshops, and community building.<br><br>
-
-<strong>Our Broadening Participation mission statement is:</strong><br>
-1) To provide support, retention services, and informational resources to underrepresented groups in SICCS, and to ensure critical information is easily accessible by everyone in the department.<br>
-2) To provide leadership in developing, implementing, and organizing events and activities that are designed to increase awareness of pathways to success in science and encourage broad participation in science.<br>
-3) To foster a community in SICCS that welcomes scientists from all backgrounds and demographics.<br><br>
-
-</p>
