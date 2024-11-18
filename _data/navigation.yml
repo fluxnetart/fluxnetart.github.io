@@ -1,0 +1,19 @@
+# Site navigation links
+- title: Artists
+  url: /artists/
+
+- title: Program
+  url: /program/
+  excerpt:
+  image:
+
+
+- title: News and events
+  url: /newsandevents/
+  excerpt:
+  image:
+
+- title: Contact
+  url: /contact/
+  excerpt:
+  image:
