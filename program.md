@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Contact
+title: Program
 ---
 
 FLUXNET is blending art and science to empower society to feel and understand environmental change.

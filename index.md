@@ -4,4 +4,4 @@ permalink: /
 image:
   feature: group.jpg
 ---
-<h1>News and Events</h1>
+Blending art and science to empower society
