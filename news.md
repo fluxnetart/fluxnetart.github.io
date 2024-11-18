@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Contact
+title: News and Events
 ---
 
 <ul>
