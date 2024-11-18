@@ -3,21 +3,17 @@ layout: archive
 title: News and Events
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+{% for post in site.posts %}
+<div class="post-preview">
+ <img class="post-preview__left" src="{{ post.image }}" alt="{{ page.image_alt }}">
+ <div class="post-preview__right">
+   <a class="preview-title" href="{{ post.url }}">{{ post.title }}</a>
+   <span>{{ post.date | date: "%b %d, %Y" }}</span>
+   <div class="tag-group">
+     {% for tag in post.tags %}
+       <div class="tag"><span class="tag-text">{{ tag }}</span></div>
+     {% endfor %}
+   </div>
+ </div>
 </div>
+{% endfor %}
