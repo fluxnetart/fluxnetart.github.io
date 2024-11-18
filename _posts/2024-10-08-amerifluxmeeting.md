@@ -5,6 +5,6 @@ excerpt: Fostering creative spaces for art and science to interact is of particu
 author: Emma Reich
 image:
   feature: ameriflux.jpg
-  teaser: ameriflux.jpg
+  teaser:
   thumb:
 ---
