@@ -9,6 +9,9 @@ url:
 feed:
   path: atom.xml
 
+# For newer "GA4" analytics
+google_analytics_ga4: G-BZ7FX1WQPT
+
 # Jekyll configuration
 
 sass:
