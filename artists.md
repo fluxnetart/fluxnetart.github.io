@@ -19,7 +19,7 @@ Working in a range of digital media, Julia Oldham visualizes the uneasy collisio
 
 <figure class="half">
 	<img src="https://fluxnetair.github.io/images/Mallery.png">
-	<img src="https://fluxnetair.github.io/images/Marcy.jpg">
+	<img src="https://fluxnetair.github.io/images/Marcy.png">
 	<figcaption>Mallery Quetawki (Pueblo of Zuni, NM) is working on the Drylands Gradient Cluster of flux towers and collaborating with Marcy Litvak, Professor of Biology at University of New Mexico.</figcaption>
 </figure>
 
