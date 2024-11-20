@@ -12,5 +12,7 @@ title: News and Events
   gtag('config', 'G-BZ7FX1WQPT');
 </script>
 {% for post in site.posts %}
+{% if post.categories contains 'news' %}
 {% include post-grid.html %}
+{% endif %}
 {% endfor %}

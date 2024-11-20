@@ -11,6 +11,8 @@ title: The Artists
 
   gtag('config', 'G-BZ7FX1WQPT');
 </script>
-{% for post in site.artistposts %}
+{% for post in site.posts %}
+{% if post.categories contains 'artistpage' %}
 {% include post-grid.html %}
+{% endif %}
 {% endfor %}
