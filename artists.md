@@ -13,6 +13,6 @@ title: The Artists
 </script>
 {% for post in site.posts %}
 {% if post.categories contains 'artistpage' %}
-{% include post-grid.html %}
+{% include artistpost-grid.html %}
 {% endif %}
 {% endfor %}
