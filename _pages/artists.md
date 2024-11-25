@@ -5,7 +5,7 @@ permalink: /artists/
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     <article class="post">
     {% if post.categories contains 'artistpage' %}
     {% include artistpost-grid.html %}
