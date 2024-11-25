@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Program
+permalink: /program/
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BZ7FX1WQPT"></script>
