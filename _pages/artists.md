@@ -19,22 +19,25 @@ permalink: /artists/
     <div class="col-1-2">
        <div class="content">
            <img src="https://fluxnetair.github.io/images/Julia.jpg">
-           	<figcaption>Julia Oldham (Eugene, OR) is working on the Metolius Cluster of flux towers and collaborating with Chris Still, Professor of Forest Ecosystems and Society at Oregon State University.</figcaption>
+           	<figcaption>Julia Oldham</figcaption>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-           <p>...insert content right side...</p>
+          <img src="https://fluxnetair.github.io/images/Mallery.png">
+          <figcaption>Mallery Quetawki</figcaption>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-           <p>...insert content right side...</p>
+          <img src="https://fluxnetair.github.io/images/Dave.jpg">
+          <figcaption>David Glowacki</figcaption>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-           <p>...insert content right side...</p>
+          <img src="https://fluxnetair.github.io/images/Sara.jpg">
+          <figcaption>Sara Bouchard</figcaption>
        </div>
     </div>
 </div>
