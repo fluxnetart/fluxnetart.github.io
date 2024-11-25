@@ -10,3 +10,4 @@ permalink: /artists/
     <div class="col">2</div>
     <div class="col">3</div>
   </div>
+</div>
