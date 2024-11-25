@@ -4,11 +4,10 @@ title: The Artists
 permalink: /artists/
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-    {% if post.categories contains 'artistpage' %}
-    {% include artistpost-grid.html %}
-    {% endif %}
-    </article>
-  {% endfor %}
+<div class="container">
+  <div class="row">
+    <div class="col">1</div>
+    <img src="https://fluxnetair.github.io/images/Julia.jpg">
+    <div class="col">2</div>
+    <div class="col">3</div>
+  </div>
