@@ -4,8 +4,11 @@ title: The Artists
 permalink: /artists/
 ---
 
-{% for post in site.posts %}
-{% if post.categories contains 'artistpage' %}
-{% include artistpost-grid.html %}
-{% endif %}
-{% endfor %}
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+    {% if post.categories contains 'artistpage' %}
+    {% include artistpost-grid.html %}
+    {% endif %}
+    </article>
+  {% endfor %}
