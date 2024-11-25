@@ -3,11 +3,27 @@ layout: page
 title: The Artists
 permalink: /artists/
 ---
+<style>
+ .grid {
+  display: flex;
+ }
+.col-1-2 {
+  flex: 1;
+}
+.cole-1-2:last-child {
+  margin-left: 20px;
+}
+</style>
 
-<div class="container">
-  <div class="row">
-    <div class="col">1</div>
-    <div class="col">2</div>
-    <div class="col">3</div>
-  </div>
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           <p>...insert content left side...</p>
+       </div>
+    </div>
+    <div class="col-1-2">
+       <div class="content">
+           <p>...insert content right side...</p>
+       </div>
+    </div>
 </div>
