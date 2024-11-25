@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Contact
 ---
 <!-- Google tag (gtag.js) -->

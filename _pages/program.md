@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Program
 ---
 <!-- Google tag (gtag.js) -->

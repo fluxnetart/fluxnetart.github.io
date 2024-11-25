@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: News and Events
 ---
 <!-- Google tag (gtag.js) -->
