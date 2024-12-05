@@ -6,5 +6,5 @@ layout: default
 
 
 <figure>
-  <img src="https://fluxnetair.github.io/images/logos.png" class="center" height="150" width="631">
+  <img src="https://fluxnetart.github.io/images/logos.png" class="center" height="150" width="631">
 </figure>
