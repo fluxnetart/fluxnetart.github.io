@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <figure>
-  <img src="https://fluxnetair.github.io/images/headshots.png" class="center">
+  <img src="https://fluxnetart.github.io/images/headshots.png" class="center">
 </figure>
 
 **Maoya Bassiouni** (Residency Director, Outreach Working Group Chair, UC Berkeley, maoya@berkeley.edu)
