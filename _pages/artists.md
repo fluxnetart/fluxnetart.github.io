@@ -18,25 +18,25 @@ permalink: /artists/
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
-           <img src="https://fluxnetair.github.io/images/Julia.jpg">
+           <img src="https://fluxnetart.github.io/images/Julia.jpg">
            	<figcaption>Julia Oldham</figcaption>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-          <img src="https://fluxnetair.github.io/images/Mallery.png">
+          <img src="https://fluxnetart.github.io/images/Mallery.png">
           <figcaption>Mallery Quetawki</figcaption>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-          <img src="https://fluxnetair.github.io/images/Dave.jpg">
+          <img src="https://fluxnetart.github.io/images/Dave.jpg">
           <figcaption>David Glowacki</figcaption>
        </div>
     </div>
     <div class="col-1-2">
        <div class="content">
-          <img src="https://fluxnetair.github.io/images/Sara.jpg">
+          <img src="https://fluxnetart.github.io/images/Sara.jpg">
           <figcaption>Sara Bouchard</figcaption>
        </div>
     </div>
