@@ -278,12 +278,12 @@ p > img {
 }
 
 .site-avatar {
+  display: block;
   width: 410px;
   height: 410px;
-  margin-right: 0px;
+  margin: 0 auto;
 
   @include mobile {
-    float: none;
     display: block;
     margin: 0 auto;
   }
