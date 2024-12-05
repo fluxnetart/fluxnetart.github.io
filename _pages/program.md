@@ -33,5 +33,5 @@ To break these barriers and reimagine transformative engagement with the public 
 For a period of one year, flux scientists and artists will engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a> and their shared interests. This NSF-funded pilot program is being offered for the first time in 2024 and will lead to an exibit at <a href = "https://prax.oregonstate.edu/">PRAx</a> in Corvallis OR in January 2025.
 
 <figure>
-  <img src="https://fluxnetart.github.io/images/metolius.png" class="center">
+  <img src="https://fluxnetart.github.io/images/metolius.jpg" class="center">
 </figure>
