@@ -18,7 +18,9 @@ permalink: /artists/
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
+         <a href="https://fluxnetart.github.io/Julia">
            <img src="https://fluxnetart.github.io/images/Julia.jpg">
+           </a>
            	<figcaption>Julia Oldham</figcaption>
        </div>
     </div>
