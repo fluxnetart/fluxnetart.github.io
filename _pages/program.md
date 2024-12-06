@@ -37,3 +37,7 @@ The intricate nature of our planet’s future and the uncertainties it carries o
 
 To break these barriers and reimagine transformative engagement with the public we are piloting <i>flux</i><b>Art</b>, an artist in residency program in partnership with <a href = "https://prax.oregonstate.edu/">PRAx</a>. This novel outreach initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
 
+<figure>
+  <img src="https://fluxnetart.github.io/images/logos.png" class="center" height="150" width="auto">
+</figure>
+
