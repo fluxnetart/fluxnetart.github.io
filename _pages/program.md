@@ -18,7 +18,7 @@ permalink: /program/
 This NSF-funded pilot program is being offered for the first time in 2024 and will lead to an exibit at the Patricia Valian Reser Center for the Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), Corvallis OR in January 2025.
 
 <figure>
-  <img src="https://fluxnetart.github.io/images/metolius.JPG"  style="height: 400px; width: auto;">
+  <img src="https://fluxnetart.github.io/images/metolius.JPG" style="height: 400px; width: auto;">
   <figcaption>image by Alexander Irving</figcaption>
 </figure>
 
