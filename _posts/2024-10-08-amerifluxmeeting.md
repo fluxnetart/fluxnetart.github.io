@@ -20,32 +20,32 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 “<i>The Ameriflux meeting was a fantastic and immersive introduction to global FLUXNET research, rounding out my understanding of the work being done with eddy covariance. I participated in the poster session, sharing new work I've been making as a FLUXNET artist in residence in collaboration with Christopher Still at Oregon State University, and the amount of enthusiasm and support I received was very energizing. I made many meaningful connections with scientists while talking about the complementary nature of scientific and artistic pursuits, and these connections have led to further conversations and collaborative plans for this coming year. Meeting my fellow artists in residence was fun and inspiring, and I look forward to seeing how our projects intersect.</i>” – Julia Oldham
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-1536x864.jpg" style="height: 300px; width: auto;">
+<figure>
+	<img src="https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-1536x864.jpg" style="height: 300px; width: auto; text-align: center;">
   <figcaption>Image from Julia Oldham. Julia is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon. You can view Julia’s <a href="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/view?usp=sharing">presentation here</a>.</figcaption>
 </figure>
 
 
 “<i>This was such a great experience learning about the work that happens in this area of climate science.  I appreciate the work being done in this network in two different ways. I appreciate learning about the science it takes to investigate climate change, we as a society are needing to have climate change/climate effect discussions.  I am also deeply moved to see the undertaking of this work as I feel that Indigenous communities are some of the first sets of people that are directly impacted from climate change due to our close lived relationship with the land.  I feel our concerns are being justified by technologies such as Ameriflux and others.  This has been eye opening and I cannot wait to translate these studies through the lens of an artist.</i>” – Mallery Quetawki
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/2_artist_res_blog.png" style="height: 300px; width: auto;">
+<figure>
+	<img src="https://fluxnetart.github.io/images/2_artist_res_blog.png" style="height: 300px; width: auto; text-align: center;">
   <figcaption>Image from Mallery Quetawki. Mallery is collaborating with Marcy Litvak on the flux tower sites in the New Mexico Elevation Gradient. You can view Mallery’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a>.</figcaption>
 </figure>
 
 
 “<i>It was such a unique experience to be immersed in this close-knit community of scientists. Everyone was so welcoming and open-minded! I had some great conversations - particularly about data sonification - that challenged me to see things from the point of view of the scientist. The presentations were fascinating and the overall experience helped propel me forward in my collaboration with Chris!</i>” – Sara Bouchard
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/3_artist_res_blog-768x567.png" style="height: 300px; width: auto;">
+<figure>
+	<img src="https://fluxnetart.github.io/images/3_artist_res_blog-768x567.png" style="height: 300px; width: auto; text-align: center;">
   <figcaption>Image from Sara Bouchard. Sara is collaborating with Chris Gough on the experimental flux sites at the Rice Rivers Center and the University of Michigan Biological Station. You can view Sara’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a> and her <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop here</a>.</figcaption>
 </figure>
 
 
 “<i>In these collaborations both artists and scientists are contemplating the biosphere’s breath. Breath, not only as the flux of energy, water, and carbon, but also the spirit fostering exchange of community, data, hard work in the field, and knowledge so that we can tackle local to global questions together. Flux and breath are so fundamental, everything is giving and receiving. I hope that through this program, we can all better connect with the concept of flux not as something scary but as a manifestation of the pure radiant compassion exemplified by ecosystems to advance science and be whole as a society in the face of environmental change. This is a call for us to recognize the significance of our international flux community, the work we do and truly live up to it.</i>” – Maoya Bassiouni
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/4_artist_res_blog-768x745.png" style="height: 300px; width: auto;">
+<figure>
+	<img src="https://fluxnetart.github.io/images/4_artist_res_blog-768x745.png" style="height: 300px; width: auto; text-align: center;">
   <figcaption>Image from Maoya Bassiouni. Maoya presented on behalf of the FLUXNET art residency program at the meeting and is also collaborating with an artist, David Glowacki. David Glowacki and Maoya Bassiouni are focusing their art on FLUXNET as an international network. You can view David’s <a href="https://github.com/davidglo/dyantra">digital art software here</a> and <a href="https://drive.google.com/file/d/1tjLMrXRytWiVGHKwYh0ezPfprxZpVp0U/view?usp=sharing">demo using flux tower data here</a>.</figcaption>
 </figure>
 
