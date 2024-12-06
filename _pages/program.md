@@ -13,7 +13,9 @@ permalink: /program/
   gtag('config', 'G-BZ7FX1WQPT');
 </script>
 
-<b>For a period of one year, flux scientists and artists will engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a> and their shared interests. This NSF-funded pilot program is being offered for the first time in 2024 and will lead to an exibit at <a href = "https://prax.oregonstate.edu/">PRAx</a>, Corvallis OR in January 2025.</b>
+<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand environmental change.</b>
+
+For a period of one year, flux scientists and artists will engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a> and their shared interests. This NSF-funded pilot program is being offered for the first time in 2024 and will lead to an exibit at <a href = "https://prax.oregonstate.edu/">PRAx</a>, Corvallis OR in January 2025.
 
 
 <h4>What is FLUXNET?</h4>
@@ -24,9 +26,7 @@ Scientists around the world have set up nearly 1,000 towers instrumented to cons
 
 <a href = "https://fluxnet.org/">FLUXNET</a> is much more than its datasets. It is a scientific community dedicated to understanding and communicating how ecosystems function and how Earth systems are changing. Having flux data in one place allows scientists to do big-picture thinking about climate change and develop Earth systems models and climate models. Scientists also partner and engage with stakeholders to address applied environmental challenges with more local societal benefits. <a href = "https://fluxnet.org/">FLUXNET</a> data and models are used to inform local and international ecosystem management efforts and climate change adaptation and mitigation strategies.
 
-<h4>Why <i>flux</i><b>ART</b>?</h4>
-
-<a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand environmental change.
+<h4>Why <i>flux</i><b>Art</b>?</h4>
 
 The intricate nature of our planet’s future and the uncertainties it carries offers countless opportunities for us to promote climate action and nurture healthy ecosystems. The bridge between the scientific achievements necessary for these goals and actual global change is constructed by our collective imagination. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
 
