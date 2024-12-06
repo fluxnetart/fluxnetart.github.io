@@ -34,4 +34,6 @@ To break these barriers and reimagine transformative engagement with the public 
 
 <figure>
   <img src="https://fluxnetart.github.io/images/metolius.JPG" class="center">
+  <figcaption>image by Alexander Irving</figcaption>
 </figure>
+
