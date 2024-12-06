@@ -17,7 +17,7 @@ Below are quotes from each participating artist about their experience of creati
 
 <figure>
 	<img src="https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-1536x864.jpg">
-  <figcaption font-size:10>Image from Julia Oldham. Julia is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon. You can view Julia’s <a href="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/view?usp=sharing">presentation here<a/>.</figcaption>
+  <figcaption style="font-size: 10">Image from Julia Oldham. Julia is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon. You can view Julia’s <a href="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/view?usp=sharing">presentation here<a/>.</figcaption>
 </figure>
 
 “<i>This was such a great experience learning about the work that happens in this area of climate science.  I appreciate the work being done in this network in two different ways. I appreciate learning about the science it takes to investigate climate change, we as a society are needing to have climate change/climate effect discussions.  I am also deeply moved to see the undertaking of this work as I feel that Indigenous communities are some of the first sets of people that are directly impacted from climate change due to our close lived relationship with the land.  I feel our concerns are being justified by technologies such as Ameriflux and others.  This has been eye opening and I cannot wait to translate these studies through the lens of an artist.<.i>” – Mallery Quetawki
