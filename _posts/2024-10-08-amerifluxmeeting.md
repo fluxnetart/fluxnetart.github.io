@@ -23,7 +23,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 <figure style="text-align: center;">
 	<img src="https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-300.jpg">
   <figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network. 
-  	You can view Julia’s <a href="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/view?usp=sharing">presentation here</a>.</figcaption>
+  	<br>You can view Julia’s <a href="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/view?usp=sharing">presentation here</a>.</figcaption>
 </figure>
 
 
@@ -32,7 +32,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 <figure style="text-align: center;">
 	<img src="https://fluxnetart.github.io/images/2_artist_res_blog-300.png">
   <figcaption>Mallery Quetawki is collaborating with Marcy Litvak on the flux tower sites in the New Mexico Elevation Gradient. 
-  	You can view Mallery’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a>.</figcaption>
+  	<br>You can view Mallery’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a>.</figcaption>
 </figure>
 
 
@@ -41,7 +41,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 <figure style="text-align: center;">
 	<img src="https://fluxnetart.github.io/images/3_artist_res_blog-300.png">
   <figcaption>Sara Bouchard is collaborating with Chris Gough on the experimental flux sites at the Rice Rivers Center. 
-  	You can view Sara’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a> and her <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop here</a>.</figcaption>
+  	<br>You can view Sara’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a> and her <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop here</a>.</figcaption>
 </figure>
 
 
@@ -50,7 +50,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 <figure style="text-align: center;">
 	<img src="https://fluxnetart.github.io/images/4_artist_res_blog-300.png">
   <figcaption>Maoya Bassiouni presented on behalf of the fluxArt program and is also collaborating with artist David Glowacki. David Glowacki and Maoya Bassiouni are focusing their art on FLUXNET as an international network. 
-  	You can view David’s <a href="https://github.com/davidglo/dyantra">digital art software here</a> and Maoya's <a href="https://drive.google.com/file/d/1tjLMrXRytWiVGHKwYh0ezPfprxZpVp0U/view?usp=sharing">demo using flux tower data here</a>.</figcaption>
+  	<br>You can view David’s <a href="https://github.com/davidglo/dyantra">digital art software here</a> and Maoya's <a href="https://drive.google.com/file/d/1tjLMrXRytWiVGHKwYh0ezPfprxZpVp0U/view?usp=sharing">demo using flux tower data here</a>.</figcaption>
 </figure>
 
 
