@@ -9,6 +9,6 @@ layout: default
 <i>flux</i><b>Art</b> is supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and partnered with the Patricia Valian Reser Center for Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>). 
 
 
-<figure>
-  <img src="https://fluxnetart.github.io/images/logos.png" class="center" height="150" width="auto">
+<figure style="text-align: center;">
+  <img src="https://fluxnetart.github.io/images/logos.png">
 </figure>

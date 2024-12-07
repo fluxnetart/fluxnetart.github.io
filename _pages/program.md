@@ -17,7 +17,7 @@ permalink: /program/
 
 This NSF-funded pilot program is being offered for the first time in 2024 and will lead to an exibit at the Patricia Valian Reser Center for the Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), Corvallis OR in January 2026.
 
-<figure>
+<figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/metolius.JPG">
   <figcaption>image by Alexander Irving</figcaption>
 </figure>
@@ -37,7 +37,7 @@ The intricate nature of our planet’s future and the uncertainties it carries o
 
 To break these barriers and reimagine transformative engagement with the public we are piloting <i>flux</i><b>Art</b>, an artist in residency program in partnership with <a href = "https://prax.oregonstate.edu/">PRAx</a>. This novel outreach initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
 
-<figure>
-  <img src="https://fluxnetart.github.io/images/logos.png" class="center" height="150" width="auto">
+<figure style="text-align: center;">
+  <img src="https://fluxnetart.github.io/images/logos.png">
 </figure>
 
