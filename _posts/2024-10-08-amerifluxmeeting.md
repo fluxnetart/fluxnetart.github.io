@@ -22,7 +22,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 <figure style="text-align: center;">
 	<img src="https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-300.jpg">
-  <figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon. 
+  <figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network. 
   	You can view Julia’s <a href="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/view?usp=sharing">presentation here</a>.</figcaption>
 </figure>
 
