@@ -16,7 +16,7 @@ With presentations in sessions across multiple events, Maoya Bassiouni reached a
   <figcaption> 18// Flux by artist-in-residence Julia Oldham at the Google booth</figcaption>
 </figure>
 
-Another highlight was the session <i>Acknowledging and Sharing Our Climate Grief</i>. Maoya shared a meditation video and invited the audience to consider how the climate crisis is an opportunity to reveal new ways of understanding and being and how unexpected beauty and awe can emerge from the concept of <i>Flux</i>. 
+Another highlight was the session <i>Acknowledging and Sharing Our Climate Grief</i>. Maoya shared a meditation video and invited the audience to consider how the climate crisis is an opportunity that reveals new ways of understanding and being and how unexpected beauty and awe can emerge from the concept of <i>Flux</i>. 
 
 Through the metaphor of the ecosystem’s breath – the constant exchange of energy, water, and carbon – participants contemplated how ecosystems manifest pure radiant compassion. The invitation was to dissolve the boundary of self and the biosphere and experience <i>Breath</i>, the constant giving and receiving that sustains life on Earth and brings us together.
 
