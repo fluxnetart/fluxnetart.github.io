@@ -22,5 +22,5 @@ Through the metaphor of the ecosystem’s breath – the constant exchange of en
 
 <figure>
 	<img src="https://fluxnetart.github.io/images/agu_maoya.png">
-  <figcaption>Maoya Bassiouni presenting in the session <i>Acknowledging and Sharing Our Climate Grief</i></figcaption>
+  <figcaption>Maoya Bassiouni, fluxArt Director, presenting in the session <i>Acknowledging and Sharing Our Climate Grief</i></figcaption>
 </figure>
