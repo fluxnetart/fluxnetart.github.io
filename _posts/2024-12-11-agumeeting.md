@@ -11,11 +11,11 @@ With presentations in sessions across multiple scientific disciplines, Maoya Bas
 
 These FluxART pieces revealed how creative inquiry and expression can transform environmental data into felt experiences of our living Earth, exemplifying the richness of information captured at flux towers sites and Earth observations and the challenges of bridging scales of understanding and applications.
 
-Another highlight was the session "Acknowledging and Sharing Our Climate Grief". Maoya shared a meditation video titled "Contemplating the Biosphere's Breath to Dissolve Climate Anxiety".  She invited the audience to consider how the climate crisis is an opportunity to reveal new ways of understanding and being and how unexpected beauty and awe can emerge from the concept of ‘flux’. 
+Another highlight was the session "Acknowledging and Sharing Our Climate Grief". Maoya shared a meditation video and invited the audience to consider how the climate crisis is an opportunity to reveal new ways of understanding and being and how unexpected beauty and awe can emerge from the concept of ‘flux’. 
 
 Through the metaphor of the ecosystem’s breath – the constant exchange of energy, water, and carbon – participants contemplated how ecosystems manifest pure radiant compassion. The invitation was to dissolve the boundary of self and the biosphere and experience breath, the constantl giving and receiving that sustains life on earth and brings us together.
 
 <figure>
-	<img src="https://fluxnetart.github.io/images/google_1f8flux.png">
-  <figcaption> 18// Flux by artist-in-residence Julia Oldham at the Google booth</figcaption>
+	<img src="https://fluxnetart.github.io/images/agu.png">
+  <figcaption> 18// Flux by artist-in-residence Julia Oldham at the Google booth and Maoya presenting in the session "Acknowledging and Sharing Our Climate Grief"</figcaption>
 </figure>
