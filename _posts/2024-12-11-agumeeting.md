@@ -19,18 +19,18 @@ At the Google exhibit booth, AGU attendees experienced [18 // Flux](https://www.
 <i>flux</i><b>Art</b> pieces at AGU revealed how creative expression can transform environmental data into felt experiences of our living Earth, exemplifying the richness of information captured at flux towers sites and in Earth observations and the challenges of bridging scales of understanding and applications.
 
 
-Another highlight was the session [<i>Acknowledging and Sharing Our Climate Grief</i>](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/238595) organized the Scientist Rebellion. Maoya shared a meditation video and invited the audience to consider how the climate crisis is an opportunity that reveals new ways of understanding and being and how unexpected beauty and awe can emerge from the concept of <i>Flux</i>. 
+Another highlight was the session [<i>Acknowledging and Sharing Our Climate Grief</i>](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/238595) organized the Scientist Rebellion. Maoya shared a meditation video and invited the audience to consider how the climate crisis is an opportunity that reveals new ways of understanding and being and how unexpected beauty and awe can emerge from the concept of <i>Flux</i>. The session ended with climate grief circles moderated by the Climate Psychology Alliance of North America and this powerful quote:
+
+<figure>
+	<img src="https://fluxnetart.github.io/images/agu_speth.png" width="60%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+  <figcaption>Quote by Gus Speth</figcaption>
+</figure>
+
+
+Through the metaphor of the biosphere’s breath – the constant exchange of energy, water, and carbon – participants contemplated how ecosystems manifest pure radiant compassion. The invitation was to dissolve the boundary of self and the biosphere and experience <i>Breath</i>, the constant giving and receiving that sustains life on Earth and brings us together.
 
 <figure>
 	<img src="https://fluxnetart.github.io/images/agu_maoya.png">
   <figcaption>Maoya Bassiouni, fluxArt Director, presenting in the session <i>Acknowledging and Sharing Our Climate Grief</i></figcaption>
 </figure>
 
-Through the metaphor of the biosphere’s breath – the constant exchange of energy, water, and carbon – participants contemplated how ecosystems manifest pure radiant compassion. The invitation was to dissolve the boundary of self and the biosphere and experience <i>Breath</i>, the constant giving and receiving that sustains life on Earth and brings us together.
-
-The session ended with climate grief circles moderated by the Climate Psychology Alliance of North America and this powerful quote.
-
-<figure>
-	<img src="https://fluxnetart.github.io/images/agu_speth.png" width="60%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
-  <figcaption>Quote by Gus Speth</figcaption>
-</figure>
