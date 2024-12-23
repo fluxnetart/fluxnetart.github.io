@@ -28,9 +28,9 @@ Another highlight was the session [<i>Acknowledging and Sharing Our Climate Grie
 
 Through the metaphor of the biosphere’s breath – the constant exchange of energy, water, and carbon – participants contemplated how ecosystems manifest pure radiant compassion. The invitation was to dissolve the boundary of self and the biosphere and experience <i>Breath</i>, the constant giving and receiving that sustains life on Earth and brings us together.
 
-The session ended with climate grief circles moderated by the Climate Psychology Alliance of North America andd this powerful quote by Gus Speth.
+The session ended with climate grief circles moderated by the Climate Psychology Alliance of North America and this powerful quote.
 
 <figure>
-	<img src="https://fluxnetart.github.io/images/agu_speth.png" width="60%" height="auto">
+	<img src="https://fluxnetart.github.io/images/agu_speth.png" width="60%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
   <figcaption>Quote by Gus Speth</figcaption>
 </figure>
