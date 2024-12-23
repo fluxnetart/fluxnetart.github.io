@@ -29,6 +29,6 @@ Through the metaphor of the biosphere’s breath – the constant exchange of en
 The session ended with climate grief circles moderated by the Climate Psychology Alliance of North America andd this powerful quote by Gus Speth.
 
 <figure>
-	<img src="https://fluxnetart.github.io/images/agu_speth.png">
+	<img src="https://fluxnetart.github.io/images/agu_speth.png" width="60%" height="auto">
   <figcaption>Quote by Gus Speth</figcaption>
 </figure>
