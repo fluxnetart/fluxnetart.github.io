@@ -21,7 +21,7 @@ At the Google exhibit booth, AGU attendees experienced [18 // Flux](https://www.
 
 Another highlight was the session [<i>Acknowledging and Sharing Our Climate Grief</i>](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/238595) organized the Scientist Rebellion. Maoya shared a meditation video and invited the audience to consider how the climate crisis is an opportunity that reveals new ways of understanding and being and how unexpected beauty and awe can emerge from the concept of <i>Flux</i>. The session ended with climate grief circles moderated by the Climate Psychology Alliance of North America and this powerful quote:
 
-<figure>
+<figure style="text-align: center>
 	<img src="https://fluxnetart.github.io/images/agu_speth.png" width="60%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
   <figcaption>Quote by Gus Speth</figcaption>
 </figure>
