@@ -23,7 +23,7 @@ Returning to Berkeley, Maoya demoed the Dyantra software brought to life with da
 
 <div style="display: flex; align-items: center; justify-content: center">
     <img src="https://fluxnetart.github.io/images/1_dutchslough.png" style="width: 20%;">
-    <div style="width: 50%; position: relative; padding-bottom: 20%;">
+    <div style="width: 60%; position: relative; padding-bottom: 0%;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
             src="https://drive.google.com/drive/u/0/folders/1zyyly6ekSgXjPkTMqLspDUq2ze_dYOsc/preview"
             frameborder="0" 
