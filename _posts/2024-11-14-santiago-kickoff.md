@@ -20,14 +20,11 @@ During this visit, the team prototyped the digital art software Dyantra and data
 
 Returning to Berkeley, Maoya demoed the Dyantra software brought to life with data from the Mayberry wetland site in the Sacremento delta. She presented "Tonglen with the Biosphere’s Breath" at the Berkeley Alembic Equinox event, an installation and visual mediation of ecosystem-atmosphere interactions, inviting us to practice dissolving boundaries of self and the biosphere and exchanging self with other. Later in September, David continued discussions with a range of flux researchers at UC Berkeley and visited the Dutch Slough Marsh Gilbert Tract flux tower, a site maintained by the Baldocchi Biometeorology lab. 
 
-<div style="width: 60%; position: relative; padding-bottom: 0%;">
-        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-            src="https://drive.google.com/file/d/1f3amv1SkLwRlS8XmLoIQXa244PEWMTH2/preview"
-            frameborder="0" 
-            allowfullscreen>
-        </iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        src="https://drive.google.com/file/d/1f3amv1SkLwRlS8XmLoIQXa244PEWMTH2/preview"
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
 </div>
-
-
 <figcaption>David at Dutch Slough and fluxArt installation at the Berkeley Alembic.</figcaption>
-
