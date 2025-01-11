@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Prototyping digital art software in Galicia
-excerpt: In August 2024, artist David Glowacki invited Maoya Bassiouni to Santiago de Compostella, Spain to kicked off their collaboration and visit the Intangible Realities Laboratory (IRL)...
+excerpt: In August 2024, artist David Glowacki invited Maoya Bassiouni to Santiago de Compostella, Spain to kick off their collaboration and visit the Intangible Realities Laboratory (IRL)...
 categories: news
 ---
 
 
-In August 2024, artist David Glowacki invited Maoya Bassiouni to Santiago de Compostella, Spain to kicked off their collaboration and visit the <a href="https://www.intangiblerealitieslab.org/">Intangible Realities Laboratory (IRL)</a> at CiTIUS, David's research group that explores the immersive frontiers of science, technology, aesthetics, and contemplative practice .
+In August 2024, artist David Glowacki invited researcher Maoya Bassiouni to Santiago de Compostella, Spain to kick off their collaboration and visit the <a href="https://www.intangiblerealitieslab.org/">Intangible Realities Laboratory (IRL)</a> at CiTIUS, David's research group that explores the immersive frontiers of science, technology, aesthetics, and contemplative practice .
 
 
-During this visit, the team prototyped the digital art software Dyantra and data vizualizations of thousands of FLUXNET site-years - all while soaking in Galicia's coastal magic. They drew inspiration from the metaphore of the biosphere's breath and diety meditation and brainstormed how to leverage flux science and immersive art to create embodied contemplative experiences that aim to dissolve climate anxiety into awareness, insight, interconnectedness, and peace. 
+During this visit, the team prototyped the digital art software Dyantra and data vizualizations of thousands of FLUXNET site-years, all while soaking in Galicia's coastal magic. They drew inspiration from the metaphore of the biosphere's breath and diety meditation from Vajrayana buddhism and brainstormed how to leverage flux science and immersive art to create embodied contemplative experiences that aim to dissolve climate anxiety into awareness, insight, interconnectedness, and peace. 
 
 
 <figure>
@@ -22,7 +22,7 @@ Returning to Berkeley, Maoya demoed the Dyantra software brought to life with da
 
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="1_dutchslough.png" style="width: 20%;">
+    <img src="https://fluxnetart.github.io/images/1_dutchslough.png" style="width: 20%;">
     <div style="width: 50%; position: relative; padding-bottom: 20%;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
             src="https://drive.google.com/file/d/19evol2iJZgeG6NQHTcM2nJC6IbIBNgZf/preview"
@@ -30,7 +30,7 @@ Returning to Berkeley, Maoya demoed the Dyantra software brought to life with da
             allowfullscreen>
         </iframe>
     </div>
-    <img src="1_alembic.png" style="width: 20%;">
+    <img src="https://fluxnetart.github.io/images/1_alembic.png" style="width: 20%;">
 </div>
 <figcaption>David at Dutch Slough and fluxArt installation at the Berkeley Alembic.</figcaption>
 
