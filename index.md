@@ -13,7 +13,8 @@ layout: default
   <img src="https://fluxnetart.github.io/images/logos.png">
 </figure>
 
-<div style="display: flex; align-items: center;">
-    <img src="https://fluxnetart.github.io/images/insta.gif" style="margin-right: 10px;">
-    <p>follow @fluxnet.art in instagram</p>
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">
+    <p style="margin: 0;">follow <a href="https://www.instagram.com/">@fluxnet.art</a> in instagram</p>
 </div>
