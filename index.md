@@ -12,3 +12,8 @@ layout: default
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/logos.png">
 </figure>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://fluxnetart.github.io/images/insta.gif" style="margin-right: 10px;">
+    <p>follow @fluxnet.art in instagram</p>
+</div>
