@@ -15,7 +15,7 @@ permalink: /program/
 
 <b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand environmental change.</b> For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a>.
 
-This NSF-funded pilot artist in residence program is being offered for the first time in 2024 and will lead to an exibit at the Patricia Valian Reser Center for the Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), Corvallis OR in January 2026.
+This NSF-funded pilot artist in residence program is being offered for the first time in 2024-25 and will lead to an exibit at the Patricia Valian Reser Center for the Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), Corvallis OR in January 2026.
 
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/metolius.JPG">
