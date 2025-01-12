@@ -18,7 +18,7 @@ During this visit, the fluxArt team prototyped the digital art software Dyantra 
 </figure>
 
 
-In September, David traveled to California and continued discussions with a range of flux researchers at UC Berkeley. He also visited the Dutch Slough Marsh Gilbert Tract flux tower, a site maintained by the Baldocchi Biometeorology lab. Maoya also demoed the Dyantra software bringing it to life with data from the Mayberry restored wetland flux tower in the Sacramento-San Joaquin River Delta. She created "Tonglen with the Biosphere’s Breath" for the Berkeley Alembic Equinox event, an installation and visual mediation of ecosystem-atmosphere interactions, inviting us to practice dissolving boundaries and exchanging self with other. 
+In September, David traveled to California and continued discussions with a range of flux researchers at UC Berkeley. He also visited the Dutch Slough Marsh Gilbert Tract flux tower, a site maintained by the Baldocchi Biometeorology lab. Maoya demoed the Dyantra software bringing it to life with data from the Mayberry restored wetland flux tower in the Sacramento-San Joaquin River Delta. She created "Tonglen with the Biosphere’s Breath" for the Berkeley Alembic Equinox event, an installation and visual mediation of ecosystem-atmosphere interactions, inviting us to practice dissolving boundaries and exchanging self with other. 
 
 
 <div style="display: flex; align-items: center; justify-content: center">
@@ -33,5 +33,3 @@ In September, David traveled to California and continued discussions with a rang
     <img src="https://fluxnetart.github.io/images/1_alembic.png" style="width: 30%;">
 </div>
 <figcaption>David visiting Dutch Slough flux tower and fluxArt installation at the Berkeley Alembic.</figcaption>
-
-modemfestival.com
