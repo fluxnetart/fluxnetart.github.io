@@ -9,7 +9,7 @@ categories: news
 In July 2024, artist David Glowacki invited researcher Maoya Bassiouni to Santiago de Compostella, Spain to kick off their collaboration and visit the <a href="https://www.intangiblerealitieslab.org/">Intangible Realities Laboratory (IRL)</a> at CiTIUS, David's research group that explores the immersive frontiers of science, technology, aesthetics, and contemplative practice .
 
 
-During this visit, the fluxArt team prototyped the digital art software Dyantra and explored data vizualizations of thousands of FLUXNET site-years, all while soaking in Galicia's coastal magic. They drew inspiration from the metaphore of the biosphere's breath and diety meditation from Vajrayana buddhism and brainstormed how to merge flux science and immersive art to create embodied contemplative experiences that can dissolve climate anxiety into awareness, insight, interconnectedness, and peace. David showed the Dyantra protoype at the MO:DEM festival in Croatia later in August.
+During this visit, the fluxArt team prototyped the digital art software <a href="https://github.com/davidglo/dyantra">Dyantra</a> and explored data vizualizations of thousands of FLUXNET site-years, all while soaking in Galicia's coastal magic. They drew inspiration from the metaphore of the biosphere's breath and diety meditation from Vajrayana buddhism and brainstormed how to merge flux science and immersive art to create embodied contemplative experiences that can dissolve climate anxiety into awareness, insight, interconnectedness, and peace. David showed the Dyantra protoype at the MO:DEM festival in Croatia later in August.
 
 
 <figure>
