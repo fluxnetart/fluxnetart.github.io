@@ -9,7 +9,7 @@ categories: news
 In August 2024, artist David Glowacki invited researcher Maoya Bassiouni to Santiago de Compostella, Spain to kick off their collaboration and visit the <a href="https://www.intangiblerealitieslab.org/">Intangible Realities Laboratory (IRL)</a> at CiTIUS, David's research group that explores the immersive frontiers of science, technology, aesthetics, and contemplative practice .
 
 
-During this visit, the team prototyped the digital art software Dyantra and data vizualizations of thousands of FLUXNET site-years, all while soaking in Galicia's coastal magic. They drew inspiration from the metaphore of the biosphere's breath and diety meditation from Vajrayana buddhism and brainstormed how to leverage flux science and immersive art to create embodied contemplative experiences that aim to dissolve climate anxiety into awareness, insight, interconnectedness, and peace. 
+During this visit, the team prototyped the digital art software Dyantra and data vizualizations of thousands of FLUXNET site-years, all while soaking in Galicia's coastal magic. They drew inspiration from the metaphore of the biosphere's breath and diety meditation from Vajrayana buddhism and brainstormed how to merge flux science and immersive art to create embodied contemplative experiences that can dissolve climate anxiety into awareness, insight, interconnectedness, and peace. 
 
 
 <figure>
@@ -18,7 +18,8 @@ During this visit, the team prototyped the digital art software Dyantra and data
 </figure>
 
 
-Returning to Berkeley, Maoya demoed the Dyantra software brought to life with data from the Mayberry wetland site in the Sacremento delta. She presented "Tonglen with the Biosphere’s Breath" at the Berkeley Alembic Equinox event, an installation and visual mediation of ecosystem-atmosphere interactions, inviting us to practice dissolving boundaries of self and the biosphere and exchanging self with other. Later in September, David continued discussions with a range of flux researchers at UC Berkeley and visited the Dutch Slough Marsh Gilbert Tract flux tower, a site maintained by the Baldocchi Biometeorology lab. 
+Returning to Berkeley, Maoya demoed the Dyantra software bringing it to life with data from the Mayberry retored wetland site in the Sacramento-San Joaquin River Delta. She created "Tonglen with the Biosphere’s Breath" for the Berkeley Alembic Equinox event, an installation and visual mediation of ecosystem-atmosphere interactions, inviting us to practice dissolving boundaries and exchanging self with other through breath. Later in September, David continued discussions with a range of flux researchers at UC Berkeley and visited the Dutch Slough Marsh Gilbert Tract flux tower, a site maintained by the Baldocchi Biometeorology lab. 
+
 
 <div style="display: flex; align-items: center; justify-content: center">
     <img src="https://fluxnetart.github.io/images/1_dutchslough.png" style="width: 30%;">
@@ -31,4 +32,4 @@ Returning to Berkeley, Maoya demoed the Dyantra software brought to life with da
     </div>
     <img src="https://fluxnetart.github.io/images/1_alembic.png" style="width: 30%;">
 </div>
-<figcaption>David at Dutch Slough and fluxArt installation at the Berkeley Alembic.</figcaption>
+<figcaption>David visiting Dutch Slough flux tower and fluxArt installation at the Berkeley Alembic.</figcaption>
