@@ -5,6 +5,19 @@ excerpt: Fostering creative spaces for art and science to interact is of particu
 categories: news
 ---
 
+<script>
+document.querySelectorAll('.video-container').forEach(container => {
+    const thumbnail = container.querySelector('.video-thumbnail');
+    const iframe = container.querySelector('.video-iframe');
+    
+    thumbnail.addEventListener('click', function() {
+        this.style.display = 'none';
+        iframe.style.display = 'block';
+    });
+});
+</script>
+
+
 by [Emma Reich](https://egreich.github.io/), Nothern Arizona University (egr65@nau.edu)
 
 Fostering creative spaces for art and science to interact is of particular importance, because it generates conditions for novel ideas and meaningful impact beyond each discipline. Following this, in early September the FLUXNET Outreach Working Group took to the 2024 Ameriflux Annual Meeting to promote a dialogue between the FLUXNET artists in residence and the greater flux tower community.
@@ -38,13 +51,6 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
         </iframe>
     </div>
 </div>
-
-<script>
-document.querySelector('.video-thumbnail').addEventListener('click', function() {
-    this.style.display = 'none';
-    document.querySelector('.video-iframe').style.display = 'block';
-});
-</script>
 
 <figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network.</figcaption>
 
@@ -80,12 +86,6 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
     </div>
 </div>
 
-<script>
-document.querySelector('.video-thumbnail').addEventListener('click', function() {
-    this.style.display = 'none';
-    document.querySelector('.video-iframe').style.display = 'block';
-});
-</script>
 
 <figcaption>Sara Bouchard is collaborating with Chris Gough on the experimental flux sites at the Rice Rivers Center. 
   	<br>You can also view Sara’s <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop here</a>.</figcaption>
@@ -107,24 +107,12 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
     <div class="video-iframe" style="display: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
         <iframe style="width: 100%; height: 100%;" 
             src="https://drive.google.com/file/d/1tjLMrXRytWiVGHKwYh0ezPfprxZpVp0U/preview"
-            allow="autoplay"
             frameborder="0" 
             allowfullscreen>
         </iframe>
     </div>
 </div>
 
-<script>
-document.querySelector('.video-thumbnail').addEventListener('click', function() {
-    this.style.display = 'none';
-    const videoFrame = document.querySelector('.video-iframe');
-    videoFrame.style.display = 'block';
-    // Reload the iframe to force video play
-    const iframe = videoFrame.querySelector('iframe');
-    const currentSrc = iframe.src;
-    iframe.src = currentSrc;
-});
-</script>
 
 <figcaption>David Glowacki and Maoya Bassiouni are collaborating on FLUXNET as an international network. Maoya presented on behalf of the fluxArt program and also shared a prototype of David’s <a href="https://github.com/davidglo/dyantra">digital art software</a> using flux tower data.</figcaption>
 
