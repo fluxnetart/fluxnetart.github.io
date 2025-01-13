@@ -20,11 +20,14 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 “<i>The Ameriflux meeting was a fantastic and immersive introduction to global FLUXNET research, rounding out my understanding of the work being done with eddy covariance. I participated in the poster session, sharing new work I've been making as a FLUXNET artist in residence in collaboration with Christopher Still at Oregon State University, and the amount of enthusiasm and support I received was very energizing. I made many meaningful connections with scientists while talking about the complementary nature of scientific and artistic pursuits, and these connections have led to further conversations and collaborative plans for this coming year. Meeting my fellow artists in residence was fun and inspiring, and I look forward to seeing how our projects intersect.</i>” – Julia Oldham
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-300.jpg">
-  <figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network. 
-  	<br>You can view Julia’s <a href="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/view?usp=sharing">presentation here</a>.</figcaption>
-</figure>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        src="https://https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/preview"
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</div>
+<figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network.</figcaption>
 
 
 “<i>This was such a great experience learning about the work that happens in this area of climate science.  I appreciate the work being done in this network in two different ways. I appreciate learning about the science it takes to investigate climate change, we as a society are needing to have climate change/climate effect discussions.  I am also deeply moved to see the undertaking of this work as I feel that Indigenous communities are some of the first sets of people that are directly impacted from climate change due to our close lived relationship with the land.  I feel our concerns are being justified by technologies such as Ameriflux and others.  This has been eye opening and I cannot wait to translate these studies through the lens of an artist.</i>” – Mallery Quetawki
