@@ -33,7 +33,8 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 “<i>The Ameriflux meeting was a fantastic and immersive introduction to global FLUXNET research, rounding out my understanding of the work being done with eddy covariance. I participated in the poster session, sharing new work I've been making as a FLUXNET artist in residence in collaboration with Christopher Still at Oregon State University, and the amount of enthusiasm and support I received was very energizing. I made many meaningful connections with scientists while talking about the complementary nature of scientific and artistic pursuits, and these connections have led to further conversations and collaborative plans for this coming year. Meeting my fellow artists in residence was fun and inspiring, and I look forward to seeing how our projects intersect.</i>” – Julia Oldham
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0;">
+
+<div class="video-container" id="video1" style="position: relative; padding-bottom: 56.25%; height: 0;">
     <div class="video-thumbnail" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-300.jpg'); background-size: cover; background-position: center;">
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
@@ -67,7 +68,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 “<i>It was such a unique experience to be immersed in this close-knit community of scientists. Everyone was so welcoming and open-minded! I had some great conversations - particularly about data sonification - that challenged me to see things from the point of view of the scientist. The presentations were fascinating and the overall experience helped propel me forward in my collaboration with Chris!</i>” – Sara Bouchard
 
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0;">
+<div class="video-container" id="video2" style="position: relative; padding-bottom: 56.25%; height: 0;">
     <div class="video-thumbnail" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://fluxnetart.github.io/images/3_artist_res_blog-300.png'); background-size: cover; background-position: center;">
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
@@ -94,7 +95,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 “<i>In these collaborations both artists and scientists are contemplating the biosphere’s breath. Breath, not only as the flux of energy, water, and carbon, but also the spirit fostering exchange of community, data, hard work in the field, and knowledge so that we can tackle local to global questions together. Flux and breath are so fundamental, everything is giving and receiving. I hope that through this program, we can all better connect with the concept of flux not as something scary but as a manifestation of the pure radiant compassion exemplified by ecosystems to advance science and be whole as a society in the face of environmental change. This is a call for us to recognize the significance of our flux community, the work we do and truly live up to it.</i>” – Maoya Bassiouni
 
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0;">
+<div class="video-container" id="video2" style="position: relative; padding-bottom: 56.25%; height: 0;">
     <div class="video-thumbnail" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://fluxnetart.github.io/images/4_artist_res_blog-300.png'); background-size: cover; background-position: center;">
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
