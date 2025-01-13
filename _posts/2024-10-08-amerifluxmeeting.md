@@ -60,6 +60,7 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
 
 “<i>It was such a unique experience to be immersed in this close-knit community of scientists. Everyone was so welcoming and open-minded! I had some great conversations - particularly about data sonification - that challenged me to see things from the point of view of the scientist. The presentations were fascinating and the overall experience helped propel me forward in my collaboration with Chris!</i>” – Sara Bouchard
 
+
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0;">
     <div class="video-thumbnail" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://fluxnetart.github.io/images/3_artist_res_blog-300.png'); background-size: cover; background-position: center;">
