@@ -46,7 +46,7 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
 });
 </script>
 
-<figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network. View Julia's presentation here</figcaption>
+<figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network.</figcaption>
 
 
 “<i>This was such a great experience learning about the work that happens in this area of climate science.  I appreciate the work being done in this network in two different ways. I appreciate learning about the science it takes to investigate climate change, we as a society are needing to have climate change/climate effect discussions.  I am also deeply moved to see the undertaking of this work as I feel that Indigenous communities are some of the first sets of people that are directly impacted from climate change due to our close lived relationship with the land.  I feel our concerns are being justified by technologies such as Ameriflux and others.  This has been eye opening and I cannot wait to translate these studies through the lens of an artist.</i>” – Mallery Quetawki
@@ -60,11 +60,34 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
 
 “<i>It was such a unique experience to be immersed in this close-knit community of scientists. Everyone was so welcoming and open-minded! I had some great conversations - particularly about data sonification - that challenged me to see things from the point of view of the scientist. The presentations were fascinating and the overall experience helped propel me forward in my collaboration with Chris!</i>” – Sara Bouchard
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/3_artist_res_blog-300.png">
-  <figcaption>Sara Bouchard is collaborating with Chris Gough on the experimental flux sites at the Rice Rivers Center. 
-  	<br>You can view Sara’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a> and her <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop here</a>.</figcaption>
-</figure>
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <div class="video-thumbnail" 
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://fluxnetart.github.io/images/3_artist_res_blog-300.png'); background-size: cover; background-position: center;">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+            <!-- Play button overlay -->
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="white" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.5));">
+                <path d="M8 5v14l11-7z"/>
+            </svg>
+        </div>
+    </div>
+    <div class="video-iframe" style="display: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <iframe style="width: 100%; height: 100%;" 
+            src="https://drive.google.com/file/d/1YeSQdDUDU5CoinZ_EBcnNSwjK_ETieyd/preview"
+            frameborder="0" 
+            allowfullscreen>
+        </iframe>
+    </div>
+</div>
+
+<script>
+document.querySelector('.video-thumbnail').addEventListener('click', function() {
+    this.style.display = 'none';
+    document.querySelector('.video-iframe').style.display = 'block';
+});
+</script>
+
+<figcaption>Sara Bouchard is collaborating with Chris Gough on the experimental flux sites at the Rice Rivers Center. 
+  	<br>You can also view Sara’s <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop here</a>.</figcaption>
 
 
 “<i>In these collaborations both artists and scientists are contemplating the biosphere’s breath. Breath, not only as the flux of energy, water, and carbon, but also the spirit fostering exchange of community, data, hard work in the field, and knowledge so that we can tackle local to global questions together. Flux and breath are so fundamental, everything is giving and receiving. I hope that through this program, we can all better connect with the concept of flux not as something scary but as a manifestation of the pure radiant compassion exemplified by ecosystems to advance science and be whole as a society in the face of environmental change. This is a call for us to recognize the significance of our flux community, the work we do and truly live up to it.</i>” – Maoya Bassiouni
