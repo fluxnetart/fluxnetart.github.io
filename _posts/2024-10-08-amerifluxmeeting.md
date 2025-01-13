@@ -20,14 +20,31 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 “<i>The Ameriflux meeting was a fantastic and immersive introduction to global FLUXNET research, rounding out my understanding of the work being done with eddy covariance. I participated in the poster session, sharing new work I've been making as a FLUXNET artist in residence in collaboration with Christopher Still at Oregon State University, and the amount of enthusiasm and support I received was very energizing. I made many meaningful connections with scientists while talking about the complementary nature of scientific and artistic pursuits, and these connections have led to further conversations and collaborative plans for this coming year. Meeting my fellow artists in residence was fun and inspiring, and I look forward to seeing how our projects intersect.</i>” – Julia Oldham
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-        controls
-        poster="https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-300.jpg">
-        <source src="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/preview" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <div class="video-thumbnail" 
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://fluxnetart.github.io/images/22-phenocam-hourly-columns-still005-300.jpg'); background-size: cover; background-position: center;">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+            <!-- Play button overlay -->
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="white" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.5));">
+                <path d="M8 5v14l11-7z"/>
+            </svg>
+        </div>
+    </div>
+    <div class="video-iframe" style="display: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <iframe style="width: 100%; height: 100%;" 
+            src="https://drive.google.com/file/d/1NEG8dFlICuVGLSCXVpgAD85cmc_zYjOd/preview"
+            frameborder="0" 
+            allowfullscreen>
+        </iframe>
+    </div>
 </div>
+
+<script>
+document.querySelector('.video-thumbnail').addEventListener('click', function() {
+    this.style.display = 'none';
+    document.querySelector('.video-iframe').style.display = 'block';
+});
+</script>
 
 <figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network. View Julia's presentation here</figcaption>
 
