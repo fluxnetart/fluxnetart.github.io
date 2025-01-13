@@ -93,11 +93,34 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
 
 “<i>In these collaborations both artists and scientists are contemplating the biosphere’s breath. Breath, not only as the flux of energy, water, and carbon, but also the spirit fostering exchange of community, data, hard work in the field, and knowledge so that we can tackle local to global questions together. Flux and breath are so fundamental, everything is giving and receiving. I hope that through this program, we can all better connect with the concept of flux not as something scary but as a manifestation of the pure radiant compassion exemplified by ecosystems to advance science and be whole as a society in the face of environmental change. This is a call for us to recognize the significance of our flux community, the work we do and truly live up to it.</i>” – Maoya Bassiouni
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/4_artist_res_blog-300.png">
-  <figcaption>Maoya Bassiouni presented on behalf of the fluxArt program and is also collaborating with artist David Glowacki. David Glowacki and Maoya Bassiouni are focusing their art on FLUXNET as an international network. 
-  	<br>You can view David’s <a href="https://github.com/davidglo/dyantra">digital art software here</a> and Maoya's <a href="https://drive.google.com/file/d/1tjLMrXRytWiVGHKwYh0ezPfprxZpVp0U/view?usp=sharing">demo using flux tower data here</a>.</figcaption>
-</figure>
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <div class="video-thumbnail" 
+         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://fluxnetart.github.io/images/4_artist_res_blog-300.png'); background-size: cover; background-position: center;">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+            <!-- Play button overlay -->
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="white" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.5));">
+                <path d="M8 5v14l11-7z"/>
+            </svg>
+        </div>
+    </div>
+    <div class="video-iframe" style="display: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <iframe style="width: 100%; height: 100%;" 
+            src="https://drive.google.com/file/d/1tjLMrXRytWiVGHKwYh0ezPfprxZpVp0U/preview"
+            frameborder="0" 
+            allowfullscreen>
+        </iframe>
+    </div>
+</div>
+
+<script>
+document.querySelector('.video-thumbnail').addEventListener('click', function() {
+    this.style.display = 'none';
+    document.querySelector('.video-iframe').style.display = 'block';
+});
+</script>
+
+<figcaption>David Glowacki and Maoya Bassiouni are collaborating on FLUXNET as an international network. Maoya presented on behalf of the fluxArt program and also shared a prototype of David’s <a href="https://github.com/davidglo/dyantra">digital art software</a> using flux tower data.</figcaption>
 
 
 Over the next year, the artists will continue collaborating to produce flux-relevant art with their artist-scientist pairs. In January 2026, an exhibit and performance showing will be held at the Patricia Valian Reser Center for the Creative Arts (PRAx) in Corvallis OR to highlight the art created during the residencies. To learn more, see the FLUXNET Artist Residency page or contact the FLUXNET Outreach Committee.
