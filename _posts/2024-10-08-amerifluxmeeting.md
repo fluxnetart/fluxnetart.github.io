@@ -61,11 +61,20 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 “<i>This was such a great experience learning about the work that happens in this area of climate science.  I appreciate the work being done in this network in two different ways. I appreciate learning about the science it takes to investigate climate change, we as a society are needing to have climate change/climate effect discussions.  I am also deeply moved to see the undertaking of this work as I feel that Indigenous communities are some of the first sets of people that are directly impacted from climate change due to our close lived relationship with the land.  I feel our concerns are being justified by technologies such as Ameriflux and others.  This has been eye opening and I cannot wait to translate these studies through the lens of an artist.</i>” – Mallery Quetawki
 
-<figure style="text-align: center;">
-	<img src="https://fluxnetart.github.io/images/2_artist_res_blog-300.png">
-  <figcaption>Mallery Quetawki is collaborating with Marcy Litvak on the flux tower sites in the New Mexico Elevation Gradient. 
-  	<br>You can view Mallery’s <a href="https://drive.google.com/file/d/1Tr6lQpIzNTfi_GlLzs2ud49nA8cDtihK/view">presentation here</a>.</figcaption>
-</figure>
+<div class="video-container" id="video2">
+    <div class="video-thumbnail" style="background-image: url('https://fluxnetart.github.io/images/2_artist_res_blog-300.png');">
+        <div class="play-button">
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="white">
+                <path d="M8 5v14l11-7z"/>
+            </svg>
+        </div>
+    </div>
+    <div class="video-iframe" style="display: none;">
+        <iframe src="https://drive.google.com/file/d/138SV7MHRqEGttzpr0hFUvSXTis1ITiD-/preview" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+  <figcaption>Mallery Quetawki is collaborating with Marcy Litvak on the flux tower sites in the New Mexico Elevation Gradient.</figcaption>
 
 
 “<i>It was such a unique experience to be immersed in this close-knit community of scientists. Everyone was so welcoming and open-minded! I had some great conversations - particularly about data sonification - that challenged me to see things from the point of view of the scientist. The presentations were fascinating and the overall experience helped propel me forward in my collaboration with Chris!</i>” – Sara Bouchard
@@ -86,7 +95,7 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 
 <figcaption>Sara Bouchard is collaborating with Chris Gough on the experimental flux sites at the Rice Rivers Center. 
-  	<br>You can also view Sara’s <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop here</a>.</figcaption>
+  	<br>You can also view Sara’s <a href = "https://drive.google.com/file/d/1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm/view?usp=sharing">data sonification workshop slides here</a>.</figcaption>
 
 
 “<i>In these collaborations both artists and scientists are contemplating the biosphere’s breath. Breath, not only as the flux of energy, water, and carbon, but also the spirit fostering exchange of community, data, hard work in the field, and knowledge so that we can tackle local to global questions together. Flux and breath are so fundamental, everything is giving and receiving. I hope that through this program, we can all better connect with the concept of flux not as something scary but as a manifestation of the pure radiant compassion exemplified by ecosystems to advance science and be whole as a society in the face of environmental change. This is a call for us to recognize the significance of our flux community, the work we do and truly live up to it.</i>” – Maoya Bassiouni
