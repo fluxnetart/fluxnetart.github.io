@@ -107,6 +107,7 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
     <div class="video-iframe" style="display: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
         <iframe style="width: 100%; height: 100%;" 
             src="https://drive.google.com/file/d/1tjLMrXRytWiVGHKwYh0ezPfprxZpVp0U/preview"
+            allow="autoplay"
             frameborder="0" 
             allowfullscreen>
         </iframe>
@@ -116,7 +117,12 @@ document.querySelector('.video-thumbnail').addEventListener('click', function() 
 <script>
 document.querySelector('.video-thumbnail').addEventListener('click', function() {
     this.style.display = 'none';
-    document.querySelector('.video-iframe').style.display = 'block';
+    const videoFrame = document.querySelector('.video-iframe');
+    videoFrame.style.display = 'block';
+    // Reload the iframe to force video play
+    const iframe = videoFrame.querySelector('iframe');
+    const currentSrc = iframe.src;
+    iframe.src = currentSrc;
 });
 </script>
 
