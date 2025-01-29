@@ -25,7 +25,7 @@ This NSF-funded pilot artist in residence program is being offered for the first
 
 <h4>What is FLUXNET?</h4>
 
-Our understanding of climate change depends on our understanding of ecosystem fluxes—how things like carbon, water, and energy move between the biosphere and the atmosphere. These fluxes are regulated by ecosystem processes including photosynthesis and evapotranspiration and are also affected by human activities and natural disturbances. 
+Our understanding of climate change depends on our understanding of ecosystem fluxes—how things like carbon, water, and energy move between the biosphere and the atmosphere. These fluxes are regulated by ecosystem processes including turbulent transport of mass and energy, evapotranspiration, photosynthesis and soil respiration, and are also affected by human activities and natural disturbances.
 
 Scientists around the world have set up nearly 1,000 towers instrumented to constantly collect data about carbon, water, and energy fluxes – they are observing how the biosphere breathes. The key measurement technique used to collect these flux data is called <a href = "https://www.youtube.com-/watch?v=CR4Anc8Mkas">eddy covariance</a>. It is the gold standard to measure total fluxes at the ecosystem scale without probing every plant and inch of soil on the landscape. All of this data is shared through a global ‘network of networks’ called <a href = "https://fluxnet.org/">FLUXNET</a> with a mission to facilitate collaboration and data sharing.
 
