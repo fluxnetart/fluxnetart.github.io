@@ -24,6 +24,8 @@ permalink: /artists/
 }
 </style>
 
+<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand environmental dyanmics and change.</b> For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a>.
+
 
 <div class="row">
   <div class="column">
