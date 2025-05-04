@@ -7,16 +7,16 @@ permalink: /artists/
 .row {
   display: flex;
   flex-wrap: wrap;
-  max-width: 1200px;xs
+  max-width: 1200px;
   margin: 0 auto;
+  align-items: center;
 }
 
 .column {
   flex: 44.44%;
   padding: 10px;
-  text-align: center;
-  align-items: center; 
 }
+
 
 img {
   max-width: 200px;
@@ -53,12 +53,12 @@ img {
 <div class="row">
   <div class="column">
   <figure>
-      <img src="https://fluxnetart.github.io/Mallery.jpg">
+      <img src="https://fluxnetart.github.io/Mallery.png">
     </figure>
   </div>
 
   <div class="column">
-    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) is working on the Drylands Gradient Cluster of flux towers and collaborating with Marcy Litvak, Professor of Biology at University of New Mexico <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) is working on the Drylands Gradient Cluster of flux towers and collaborating with Marcy Litvak, Professor of Biology at University of New Mexico <a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></figcaption>
   </div>
 </div>
 
@@ -71,7 +71,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is working with FLUXNET as an international network and collaborating with Maoya Bassiouni, Researcher Fellow in Quantitative Ecosystem Dynamics at University of California, Berkeley <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is working with FLUXNET as an international network and collaborating with Maoya Bassiouni, Researcher Fellow in Quantitative Ecosystem Dynamics at University of California, Berkeley <a href="https://fluxnetart.github.io/Dave/">(see more ...)</a></figcaption>
   </div>
 </div>
 
