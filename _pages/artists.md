@@ -35,7 +35,7 @@ img {
 }
 </style>
 
-<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand environmental dyanmics and change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
+<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand ecosystem dyanmics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
 
 
 <div class="row">
@@ -55,7 +55,7 @@ img {
 <div class="row">
   <div class="column">
   <figure>
-      <img src="https://fluxnetart.github.io/Mallery.jpg">
+      <img src="https://fluxnetart.github.io/images/Mallery.jpg">
     </figure>
   </div>
 

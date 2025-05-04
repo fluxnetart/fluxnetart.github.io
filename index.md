@@ -4,7 +4,7 @@ layout: default
 
 <a href = "https://fluxnet.org/">FLUXNET</a> is a global network of micrometeorological tower sites that measure the exchanges of carbon dioxide, water vapor, and energy between the land surface and atmosphere, they are tracking the biosphere's breath. 
 
- <i>flux</i><b>Art</b> science-art collaborations use creative inquiry to reveal how unexpected beauty and aw can emerge from the concept of <i>flux</i> and transform our relationship with the biosphere, the host of infinite intricate relationships that sustain life on Earth. 
+ <i>flux</i><b>Art</b> collaborations use creative inquiry to explore and experience how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with the biosphere, the infinite interconnections that sustain life on Earth. 
 
 This pilot artist in residence program is supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and partnered with the Patricia Valian Reser Center for Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), which will host a <i>flux</i><b>Art</b> exhibit and symposium in January 2026.
 
