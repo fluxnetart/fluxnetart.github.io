@@ -35,7 +35,7 @@ img {
 }
 </style>
 
-<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand environmental dyanmics and change. For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET</b>.
+<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand environmental dyanmics and change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET</b>.
 
 
 <div class="row">
@@ -71,7 +71,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is working with FLUXNET as an international network and collaborating with Maoya Bassiouni, Researcher Fellow in Quantitative Ecosystem Dynamics at University of California, Berkeley <a href="https://fluxnetart.github.io/Dave/">(see more ...)</a></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is working with FLUXNET as an international network and collaborating with Maoya Bassiouni, Researcher Fellow in Quantitative Ecosystem Dynamics at University of California, Berkeley <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
   </div>
 </div>
 
