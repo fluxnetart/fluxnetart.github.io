@@ -4,48 +4,73 @@ title: Artists
 permalink: /artists/
 ---
 <style>
- .grid {
+.row {
   display: flex;
- }
-.col-1-2 {
-  flex: 1;
+  flex-wrap: wrap;
+  max-width: 1200px;xs
+  margin: 0 auto;
 }
-.cole-1-2:last-child {
-  margin-left: 20px;
+
+.column {
+  flex: 44.44%;
+  padding: 10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+  }
 }
 </style>
 
-<div class="grid">
-    <div class="col-1-2">
-       <div class="content">
-         <a href="https://fluxnetart.github.io/Julia">
-           <img src="https://fluxnetart.github.io/images/Julia.jpg">
-           </a>
-           	<figcaption>Julia Oldham</figcaption>
-       </div>
-    </div>
-    <div class="col-1-2">
-       <div class="content">
-         <a href="https://fluxnetart.github.io/Mallery">
-          <img src="https://fluxnetart.github.io/images/Mallery.png">
-           </a>
-          <figcaption>Mallery Quetawki</figcaption>
-       </div>
-    </div>
-    <div class="col-1-2">
-       <div class="content">
-         <a href="https://fluxnetart.github.io/David">
-          <img src="https://fluxnetart.github.io/images/Dave.jpg">
-         </a>
-          <figcaption>David Glowacki</figcaption>
-       </div>
-    </div>
-    <div class="col-1-2">
-       <div class="content">
-         <a href="https://fluxnetart.github.io/Sara">
-          <img src="https://fluxnetart.github.io/images/Sara.jpg">
-         </a>
-          <figcaption>Sara Bouchard</figcaption>
-       </div>
-    </div>
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/images/Julia.jpg">
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>Julia Oldham</b> (Eugene, OR) is working on the Metolius Cluster of flux towers and collaborating with Chris Still, Professor of Forest Ecosystems and Society at Oregon State University <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+  </div>
 </div>
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/Malleryjpg">
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) is working on the Drylands Gradient Cluster of flux towers and collaborating with Marcy Litvak, Professor of Biology at University of New Mexico <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/images/Dave.jpg">
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is working with FLUXNET as an international network and collaborating with Maoya Bassiouni, Researcher Fellow in Quantitative Ecosystem Dynamics at University of California, Berkeley <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/images/Sara.jpg">
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>Sara Bouchard</b> (Richmond, VA) is working with experimental flux sites at the Rice Rivers Center and the University of Michigan Biological Station and collaborating with Chris Gough, Professor of Biology at Virginia Commonwealth University <a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></figcaption>
+  </div>
+</div>
+
