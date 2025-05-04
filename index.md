@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<i>flux</i><b>Art</b> aims to empower society to feel and understand ecosystem dynamics.</b> 
+<i>flux</i><b>Art</b> <b>aims to empower society to feel and understand ecosystem dynamics.</b> 
 
 FLUXNET is a global network of micrometeorological tower sites that measure the exchanges of carbon dioxide, water vapor, and energy between the land surface and atmosphere, they are tracking the biosphere's breath. 
 
