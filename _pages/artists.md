@@ -15,6 +15,17 @@ permalink: /artists/
   flex: 44.44%;
   padding: 10px;
   text-align: center;
+  align-items: center; 
+}
+
+img {
+  max-width: 200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media screen and (max-width: 600px) {
@@ -24,7 +35,7 @@ permalink: /artists/
 }
 </style>
 
-<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand environmental dyanmics and change.</b> For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a>.
+<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand environmental dyanmics and change. For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET</b>.
 
 
 <div class="row">
@@ -42,7 +53,7 @@ permalink: /artists/
 <div class="row">
   <div class="column">
   <figure>
-      <img src="https://fluxnetart.github.io/Malleryjpg">
+      <img src="https://fluxnetart.github.io/Mallery.jpg">
     </figure>
   </div>
 
