@@ -35,7 +35,7 @@ img {
 }
 </style>
 
-<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand ecosystem dyanmics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
+<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand ecosystem dynamics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
 
 
 <div class="row">
@@ -73,7 +73,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive meditative installation that uses laser-cut sculpture and generative visuals from physics simulations in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). By offering a space to dissolve into the Biosphere's breath, David’s artwork invites us to experience interconnectedness and cycles in nature <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive meditative installation that uses laser-cut sculpture and generative visuals from physics simulations in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). By offering a space to dissolve into the Biosphere's breath, David’s artwork invites us to experience interconnectedness and cycles in nature. <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
 
 
   </div>
