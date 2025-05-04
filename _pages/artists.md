@@ -46,7 +46,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating a multi-channel video installation that explores ecological cycles through color data using a range of lens-based technologies in collaboration with Chris Still, Professor of Forest Ecosystems and Society at Oregon State University. By transforming scientific imagery and field data into immersive visual experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest. <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating a multi-channel video installation that explores ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive visual experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest. <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
 
 
   </div>
@@ -60,7 +60,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) is creating paintings and ceramic works using natural pigments and materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in collaboration with Marcy Litvak, Professor of Biology at University of New Mexico. By integrating scientific data patterns and Indigenous knowledge, Mallery's art conveys ecological and cultural stories of dryland ecosystems. <a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></figcaption>
+    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) is creating paintings and ceramic works using natural pigments and materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in collaboration with <b> Marcy Litvak</b> (University of New Mexico). By integrating scientific data patterns and Indigenous knowledge, Mallery's art conveys ecological and cultural stories of dryland ecosystems. <a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></figcaption>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive meditative installation that uses laser-cut sculpture and generative visuals from physics simulations in collaboration with Maoya Bassiouni, Researcher Fellow in Quantitative Ecosystem Dynamics at University of California, Berkeley. By offering a space to dissolve into the Biosphere's breath, David’s artwork invites us to experience interconnectedness and cycles in nature and to contemplate our essential nature as stardust <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive meditative installation that uses laser-cut sculpture and generative visuals from physics simulations in collaboration with <b>Maoya Bassiouni<b> (University of California, Berkeley). By offering a space to dissolve into the Biosphere's breath, David’s artwork invites us to experience interconnectedness and cycles in nature <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
 
 
   </div>
@@ -87,7 +87,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Sara Bouchard</b> (Richmond, VA) is creating an electroacoustic composition and visual artwork that sonifies ecosystem flux data and community climate stories in collaboration with Chris Gough, Professor of Biology at Virginia Commonwealth University. Through music, textiles, and field recordings, Sara’s artwork bridges scientific data with personal and collective experiences of climate change. <a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></figcaption>
+    <figcaption><b>Sara Bouchard</b> (Richmond, VA) is creating an electroacoustic composition and visual artwork that sonifies ecosystem flux data and community climate stories in collaboration with <b>Chris Gough</b> (Virginia Commonwealth University). Through music, textiles, and field recordings, Sara’s artwork bridges scientific data with personal and collective experiences of climate change. <a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></figcaption>
   </div>
 </div>
 
