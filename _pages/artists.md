@@ -35,7 +35,7 @@ img {
 }
 </style>
 
-<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand environmental dyanmics and change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET</b>.
+<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand environmental dyanmics and change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
 
 
 <div class="row">
