@@ -19,8 +19,8 @@ permalink: /artists/
 
 
 img {
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 222px;
+  max-height: 222px;
   width: auto;
   height: auto;
   display: block;
@@ -73,7 +73,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive meditative installation that uses laser-cut sculpture and generative visuals from physics simulations in collaboration with <b>Maoya Bassiouni<b> (University of California, Berkeley). By offering a space to dissolve into the Biosphere's breath, David’s artwork invites us to experience interconnectedness and cycles in nature <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive meditative installation that uses laser-cut sculpture and generative visuals from physics simulations in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). By offering a space to dissolve into the Biosphere's breath, David’s artwork invites us to experience interconnectedness and cycles in nature <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
 
 
   </div>
