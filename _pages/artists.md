@@ -55,7 +55,7 @@ img {
 <div class="row">
   <div class="column">
   <figure>
-      <img src="https://fluxnetart.github.io/Mallery.png">
+      <img src="https://fluxnetart.github.io/Mallery.jpg">
     </figure>
   </div>
 
