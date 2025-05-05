@@ -48,7 +48,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating a multi-channel video installation that explores ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive visual experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest. <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating a multi-channel video installation that explores ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive visual experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest USA. <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
 
 
   </div>
