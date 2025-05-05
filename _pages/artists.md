@@ -41,7 +41,9 @@ img {
 <div class="row">
   <div class="column">
   <figure>
+    <a href="https://fluxnetart.github.io/Julia/">
       <img src="https://fluxnetart.github.io/images/Julia.jpg">
+    </a>
     </figure>
   </div>
 
@@ -55,7 +57,9 @@ img {
 <div class="row">
   <div class="column">
   <figure>
+    <a href="https://fluxnetart.github.io/Mallery/">
       <img src="https://fluxnetart.github.io/images/Mallery.jpg">
+    </a>
     </figure>
   </div>
 
@@ -68,7 +72,9 @@ img {
 <div class="row">
   <div class="column">
   <figure>
+    <a href="https://fluxnetart.github.io/David/">
       <img src="https://fluxnetart.github.io/images/Dave.jpg">
+    </a>
     </figure>
   </div>
 
@@ -82,7 +88,9 @@ img {
 <div class="row">
   <div class="column">
   <figure>
+    <a href="https://fluxnetart.github.io/Sara/">
       <img src="https://fluxnetart.github.io/images/Sara.jpg">
+    </a>
     </figure>
   </div>
 
