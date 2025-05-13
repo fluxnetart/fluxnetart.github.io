@@ -110,7 +110,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to dissolve their boundaries with nature by feeling ecosystem fluxes. Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork help people connect to a sense of interdependence and fundamental goodness, including in the face of fear, climate grief. <a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></figcaption>
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to dissolve their boundaries with nature by feeling ecosystem fluxes. Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of interdependence and fundamental goodness, including in the face of fear, climate grief. <a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></figcaption>
   </div>
 </div>
 
