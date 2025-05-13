@@ -79,7 +79,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive meditative installation that uses laser-cut sculpture and generative visuals from physics simulations in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). By offering a space to dissolve into the Biosphere's breath, David’s artwork invites us to experience interconnectedness and cycles in nature. <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture and generative physics simulations in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). By offering a space to contemplate Tara, who appears in a green body that represents nature’s infinitely varied forms of life, David’s artwork invites us to experience interconnectedness and cycles in nature.  <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
 
 
   </div>
@@ -96,6 +96,21 @@ img {
 
   <div class="column">
     <figcaption><b>Sara Bouchard</b> (Richmond, VA) is creating an electroacoustic composition and visual artwork that sonifies ecosystem flux data and community climate stories in collaboration with <b>Chris Gough</b> (Virginia Commonwealth University). Through music, textiles, and field recordings, Sara’s artwork bridges scientific data with personal and collective experiences of climate change. <a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></figcaption>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <a href="https://fluxnetart.github.io/Rosa/">
+      <img src="https://fluxnetart.github.io/images/Rosa.png">
+      </a>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to feel what it’s like to dissolve their boundaries with nature, feel ecosystem fluxes and cycles and, through that process, reimagine their relationship with the world. Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s imaginal and embodied practices help people connect to a sense of interdependence and fundamental goodness, including in the face of fear, climate grief, or other challenging emotions. <a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></figcaption>
   </div>
 </div>
 
