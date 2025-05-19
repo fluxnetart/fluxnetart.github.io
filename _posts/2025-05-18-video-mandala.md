@@ -41,16 +41,11 @@ As part of this project, we are creating a video mandala by collating clips of p
 </figure>
 
 <h4>We are inviting everyone to embrace the feeling of being a part of the biosphere.</h4>
-Individually and collectively stitching together moments of presence and connection to the ecosystem can create a quiet revolution that both inspires and resources people. 
+Individually and collectively stitching together moments of presence and connection to ecosystems can create a quiet revolution that both inspires and resources people. 
 
-We invite you to connect to nature in a contemplative way and capture a short video clip of your experience to submit to the project. Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you in some way.
+We invite you to connect to nature in a contemplative way and capture a short video clip of your experience to submit to the project. Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you in some way. <b>We look forward to receiving your <a href = "https://bit.ly/fluxart-submit-video-mandala">submissions at this link</a> and see video specs below.</b> 
 
-We’d also like to invite you to feel the full range of your emotional experience — to support you with this, you can tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. If you would like to explore your sense of connection to the biosphere, there is a short exercise for you to be able to do this below.
-
-We hope that the video that we create together becomes a collective mandala that represents the beauty of humans across the world being interconnected with the ecosystem.
-
-We really look forward to receiving your <a href = "https://bit.ly/fluxart-submit-video-mandala">submissions at this link</a> – see description for the video spec and reflection exercise below. 
-
+We’d also like to invite you to feel the full range of your emotional experience — to support you with this, you can tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. If you would like to explore your sense of connection to the biosphere, <b>try the short reflection exercise below.</b>
 
 <div class="video-container" id="video1">
     <div class="video-thumbnail" style="background-image: url('https://fluxnetart.github.io/images/mandala_examples.png');">
@@ -64,7 +59,7 @@ We really look forward to receiving your <a href = "https://bit.ly/fluxart-submi
         <iframe src="https://drive.google.com/file/d/1MCijbiDhSBNlDYdRJEaATgirR2w8SMmQ/preview" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
-<figcaption>Example video clips for the Breathing with the Biosphere Mandala</figcaption>
+<figcaption>Example video clips for the Breathing with the Biosphere Mandala. We hope that the video that we create together becomes a collective mandala that represents the beauty of humans across the world being interconnected with ecosystems.</figcaption>
 
 “<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – Rosa Lewis
 
