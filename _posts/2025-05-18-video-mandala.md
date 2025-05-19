@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-The ‘Breathing as the Bisophere’ project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace – we are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
+<a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis'</a> ‘Breathing as the Bisophere’ project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace – we are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
 
 As part of the project, we are creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
 
@@ -65,7 +65,7 @@ We’d also like to invite you to feel the full range of your emotional experien
 * Provide short description and location of your video
 * Submit your video here: <a href = "https://bit.ly/fluxart-submit-video-mandala">https://bit.ly/fluxart-submit-video-mandala</a>
 
-“<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – Rosa Lewis
+“<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis</a>
 
 <h4>Reflection Exercise</h4>
 
