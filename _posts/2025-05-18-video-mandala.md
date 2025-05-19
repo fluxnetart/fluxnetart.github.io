@@ -32,7 +32,7 @@ As part of the project, we are creating a video mandala by collating clips of pe
 
 <figure>
   <img src="https://fluxnetart.github.io/images/nature_moment_1.png">
-  <figcaption>A moment of connecting to nature in Central Amsterdam, in the Sun Tunnels, Utah, and in the Front Range, Colorado. </figcaption>
+  <figcaption>A moment of connecting to nature in Central Amsterdam, in the Sun Tunnels, Utah, and at the Flatirons, Colorado. </figcaption>
 </figure>
 
 <h4>We are inviting everyone to embrace the feeling of being a part of the biosphere.</h4>
