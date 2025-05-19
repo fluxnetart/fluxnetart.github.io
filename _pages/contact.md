@@ -8,11 +8,11 @@ permalink: /contact/
   <img src="https://fluxnetart.github.io/images/headshots.png" class="center">
 </figure>
 
-**Maoya Bassiouni** (Residency Director, Outreach Working Group Chair, UC Berkeley, maoya@berkeley.edu)
+**Maoya Bassiouni** (<i>flux</i><b>Art</b> Residency Director, FLUXNET Outreach Working Group Chair, UC Berkeley, maoya@berkeley.edu)
 
-**Emma Reich** (Outreach Working Group Member, Northern Arizona University)
+**Emma Reich** (FLUXNET Outreach Working Group Member, Northern Arizona University)
 
-**Robert Shortt** (Outreach Working Group Member, UC Berkeley)
+**Robert Shortt** (FLUXNET Outreach Working Group Member, UC Berkeley)
 
 **Carly Lettero** (Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx, Carly.Lettero@oregonstate.edu)
 
