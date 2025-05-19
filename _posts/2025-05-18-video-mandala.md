@@ -26,9 +26,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-The ‘Breathing as the Bisophere’ project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace. We are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
+The ‘Breathing as the Bisophere’ project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace – we are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
 
-As part of this project, we are creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. <b>We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a></b>
+As part of the project, we are creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
 
 <figure>
   <img src="https://fluxnetart.github.io/images/nature_moment_1.png">
@@ -36,11 +36,12 @@ As part of this project, we are creating a video mandala by collating clips of p
 </figure>
 
 <h4>We are inviting everyone to embrace the feeling of being a part of the biosphere.</h4>
+
 Individually and collectively stitching together moments of presence and connection to ecosystems can create a quiet revolution that both inspires and resources people. 
 
-We invite you to connect to nature in a contemplative way and capture a short video clip of your experience to submit to the project. Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you in some way. <b>We look forward to receiving your <a href = "https://bit.ly/fluxart-submit-video-mandala">submissions at this link</a> and see video specs below.</b> 
+We invite you to connect to nature in a contemplative way and capture a short video clip of your experience to submit to the project. Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you in some way. <b>We look forward to receiving your <a href = "https://bit.ly/fluxart-submit-video-mandala">submissions at this link</a>, see video specs below.</b> 
 
-We’d also like to invite you to feel the full range of your emotional experience — to support you with this, you can tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. If you would like to explore your sense of connection to the biosphere, <b>try the short reflection exercise below.</b>
+We’d also like to invite you to feel the full range of your emotional experience. To support you with this, you can tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. <b>Try the short reflection exercise we offer below.</b> 
 
 <div class="video-container" id="video1">
     <div class="video-thumbnail" style="background-image: url('https://fluxnetart.github.io/images/mandala_examples.png');">
