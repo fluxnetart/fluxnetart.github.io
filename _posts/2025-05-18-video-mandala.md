@@ -57,16 +57,15 @@ We’d also like to invite you to feel the full range of your emotional experien
 </div>
 <figcaption>Example video clips for Breathing with the Biosphere. We hope that the video that we create together becomes a collective mandala that represents the beauty of humans and ecosystems across the world being interconnected.</figcaption>
 
-“<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – Rosa Lewis
-
 <h4>Video Specs</h4>
 
 * 10 - 60 seconds of video
 * Capture a moment of resonance with nature
-* Film portrait mode with a phone
-* Provide short description and location of your video.
+* Film with a phone in landscape format
+* Provide short description and location of your video
 * Submit your video here: <a href = "https://bit.ly/fluxart-submit-video-mandala">https://bit.ly/fluxart-submit-video-mandala</a>
 
+“<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – Rosa Lewis
 
 <h4>Reflection Exercise</h4>
 
