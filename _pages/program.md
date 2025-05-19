@@ -13,7 +13,7 @@ permalink: /program/
   gtag('config', 'G-BZ7FX1WQPT');
 </script>
 
-<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel and understand ecosystem dynamics and environmental change.</b> For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
+<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel ecosystem dynamics and environmental change.</b> For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
 
 This NSF-funded pilot artist in residence program is being offered for the first time in 2024-25 and will lead to an exhibit at the Patricia Valian Reser Center for the Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), Corvallis OR in January 2026.
 
@@ -33,7 +33,7 @@ Scientists around the world have set up nearly 1,000 towers instrumented to cons
 
 <h4>Why <i>flux</i><b>Art</b>?</h4>
 
-The intricate nature of our planet’s future and the uncertainties it carries, offers countless opportunities for us to promote climate action and nurture healthy ecosystems. The bridge between the scientific achievements necessary for these goals and actual global change is constructed by our collective imagination. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
+The intricate nature of our planet’s future and the uncertainties it carries, offers countless opportunities for us to promote climate action and nurture healthy ecosystems. The bridge between the scientific achievements necessary for these goals and actual global change is constructed by our collective imagination and calls for collective healing. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
 
 To break these barriers and reimagine transformative engagement with the public we are piloting <i>flux</i><b>Art</b>, an artist in residency program in partnership with <a href = "https://prax.oregonstate.edu/">PRAx</a>. This novel outreach initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
 

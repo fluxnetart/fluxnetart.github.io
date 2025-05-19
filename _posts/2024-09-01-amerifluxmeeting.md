@@ -55,7 +55,6 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
     </div>
 </div>
 
-
 <figcaption>Julia Oldham is collaborating with Chris Still on the Metolius Cluster of flux towers in Oregon and using images from the PhenoCam Network.</figcaption>
 
 
