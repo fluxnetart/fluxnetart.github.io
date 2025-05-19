@@ -55,7 +55,7 @@ We’d also like to invite you to feel the full range of your emotional experien
         <iframe src="https://drive.google.com/file/d/1MCijbiDhSBNlDYdRJEaATgirR2w8SMmQ/preview" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
-<figcaption>Example video clips for the Breathing with the Biosphere. We hope that the video that we create together becomes a collective mandala that represents the beauty of humans and ecosystemsacross the world being interconnected.</figcaption>
+<figcaption>Example video clips for Breathing with the Biosphere. We hope that the video that we create together becomes a collective mandala that represents the beauty of humans and ecosystems across the world being interconnected.</figcaption>
 
 “<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – Rosa Lewis
 
