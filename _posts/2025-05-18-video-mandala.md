@@ -71,9 +71,9 @@ We really look forward to receiving your <a href = "https://bit.ly/fluxart-submi
 <h4>Video Specs</h4>
 
 * 10 - 60 seconds of video
-* That captures a moment of resonance with nature
-* Filmed portrait mode with a phone
-* A short description and the location of your video.
+* Capture a moment of resonance with nature
+* Film portrait mode with a phone
+* Provide short description and location of your video.
 * Submit your video here: <a href = "https://bit.ly/fluxart-submit-video-mandala">https://bit.ly/fluxart-submit-video-mandala</a>
 
 
