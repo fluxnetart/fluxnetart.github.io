@@ -35,7 +35,7 @@ img {
 }
 </style>
 
-<i>flux</i><b>Art</b> is blending art and science to empower society to feel and understand ecosystem dynamics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
+<i>flux</i><b>Art</b> is blending art and science to empower society to feel ecosystem dynamics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
 
 
 <div class="row">
@@ -48,7 +48,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating a multi-channel video installation that explores ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive visual experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest USA. <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
+    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating a multi-channel video installation that explores ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest USA. <a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></figcaption>
 
 
   </div>
