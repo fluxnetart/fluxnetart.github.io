@@ -10,9 +10,9 @@ permalink: /contact/
 
 **Maoya Bassiouni** (Residency Director, Outreach Working Group Chair, UC Berkeley, maoya@berkeley.edu)
 
-**Emma Reich** (Residency Coordinator, Outreach Working Group Member, Northern Arizona University, egr65@nau.edu)
+**Emma Reich** (Outreach Working Group Member, Northern Arizona University)
 
-**Robert Shortt** (Residency Coordinator, Outreach Working Group Member, UC Berkeley, robert_shortt@berkeley.edu)
+**Robert Shortt** (Outreach Working Group Member, UC Berkeley)
 
 **Carly Lettero** (Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx, Carly.Lettero@oregonstate.edu)
 
