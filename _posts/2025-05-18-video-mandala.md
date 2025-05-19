@@ -26,11 +26,14 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-The ‘Breathing as the Bisophere’ project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of the ecosystem can create a sense of belonging and peace. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
 
-We are all an expression of nature in its constant change. As part of this project, we are creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. 
 
-We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
+The ‘Breathing as the Bisophere’ project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
+
+As part of this project, we are creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
+
+<i>We are all an expression of nature in its constant change.</i>
+
 
 <figure>
   <img src="https://fluxnetart.github.io/images/nature_moment_1.png">
@@ -46,7 +49,7 @@ We’d also like to invite you to feel the full range of your emotional experien
 
 We hope that the video that we create together becomes a collective mandala that represents the beauty of humans across the world being interconnected with the ecosystem.
 
-We really look forward to seeing your <a href = "https://bit.ly/fluxart-submit-video-mandala">submissions at this link</a> – see description for the video spec and reflection exercise below. 
+We really look forward to receiving your <a href = "https://bit.ly/fluxart-submit-video-mandala">submissions at this link</a> – see description for the video spec and reflection exercise below. 
 
 
 <div class="video-container" id="video1">
