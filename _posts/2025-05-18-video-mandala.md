@@ -26,9 +26,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-<a href="https://fluxnetart.github.io/Rosa/">‘Breathing as the Bisophere’</a> project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace – we are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
+'Breathing as the Bisophere’ is an imaginal meditation project by <a href="https://fluxnetart.github.io/Rosa/">‘Rosa Lewis and Maoya Bassiouni</a> that offers insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace. We are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
 
-As part of the project, we are creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
+As part of the project, we are developing a series of guided meditations and creating a crowd-sourced video mandala featuring clips of people connecting with nature in contemplative ways from around the world. We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
 
 <figure>
   <img src="https://fluxnetart.github.io/images/nature_moment_1.png">
