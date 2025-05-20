@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Submissions Wanted - Breathing as the Biosphere
+title: Video submissions Wanted - Breathing as the Biosphere
 excerpt: Rosa Lewis, as part of her project, is creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. 
 categories: news
 ---
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-<a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis'</a> ‘Breathing as the Bisophere’ project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace – we are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
+<a href="https://fluxnetart.github.io/Rosa/">‘Breathing as the Bisophere’</a> project is creating guided imaginal meditations and media content that offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace – we are all an expression of nature in its constant change. This project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
 
 As part of the project, we are creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
 
