@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video submissions Wanted - Breathing as the Biosphere
+title: Video submissions wanted - Breathing as the Biosphere Project
 excerpt: Rosa Lewis, as part of her project, is creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. 
 categories: news
 ---
