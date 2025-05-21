@@ -58,7 +58,7 @@ As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis 
 * Provide short description and location of your video
 * Submit your video here: <a href = "https://bit.ly/fluxart-submit-video-mandala">https://bit.ly/fluxart-submit-video-mandala</a>
 
-<p></p>
+<p> <br></p>
 
 <figure>
   <img src="https://fluxnetart.github.io/images/nature_moment_1.png">
@@ -74,7 +74,6 @@ As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis 
     Your browser does not support the audio element.
 </audio>
 </div>
-
 
 
 <b>Try this short relfection exercise to feel the full emotional range of your experience. </b>
