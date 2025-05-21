@@ -32,7 +32,7 @@ We are all an expression of nature in its constant change. As such, this project
 
 As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis and Maoya Bassiouni</a> are developing a series of guided meditations and creating a crowd-sourced video mandala featuring clips of people connecting with nature in contemplative ways from around the world. 
 
-<b>We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a></b>
+<h4>We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a></h4>
 
 <div class="video-container" id="video1">
     <div class="video-thumbnail" style="background-image: url('https://fluxnetart.github.io/images/mandala_examples.png');">
@@ -48,7 +48,7 @@ As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis 
 </div>
 <figcaption>We invite you to embrace the feeling of being a part of the biosphere. Individually and collectively stitching together moments of presence and connection to ecosystems can create a quiet revolution that both inspires and resources people. We hope that the video that we create together becomes a collective mandala that represents the beauty of humans and ecosystems across the world being interconnected.</figcaption>
 
-<b>We invite you to connect with nature and capture a short video clip of your experience to submit to the project.</b> Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you. We look forward to receiving your submissions
+<b>We invite you to connect with nature and capture a video clip of your experience to submit to the project.</b> Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you. We look forward to receiving your submissions.
 
 <b>Video Specs</b>
 
@@ -76,6 +76,6 @@ You can do this reflection exercise while you are out in nature or imagine a spe
 4. Set a final two minute timer. Describe what you think the Universe is and how you fit into it. There is no right or wrong answer, just let yourself express what feels most resonant to you in this moment.
 
 <audio controls>
-  <source src="https://docs.google.com/uc?export=download&id=1_0MHKjO3FScNxgrpig8GZoz6P1-uZKzl" type="audio/mpeg">
+  <source src="https://drive.google.com/uc?export=preview&id=1_0MHKjO3FScNxgrpig8GZoz6P1-uZKzl" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
