@@ -79,7 +79,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture and generative physics simulations in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). By offering a space to contemplate Tara, who appears in a green body that represents nature’s infinitely varied forms of life, David’s artwork invites us to experience interconnectedness and cycles in nature.  <a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers us a space to breathe, to rest, and to contemplate Tara, who appears in a green body that represents nature’s infinitely varied forms of life, awareness, and beauty.<a href="https://fluxnetart.github.io/David/">(see more ...)</a></figcaption>
 
 
   </div>
