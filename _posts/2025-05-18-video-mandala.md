@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video submissions wanted - Breathing as the Biosphere Project
-excerpt: Rosa Lewis, as part of her project, is creating a video mandala by collating clips of people, in locations around the world, connecting with nature in contemplative ways. 
+excerpt: We are creating a crowd-sourced video mandala featuring clips of people connecting with nature in contemplative ways from around the world.  
 categories: news
 ---
 
@@ -26,22 +26,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-'Breathing as the Bisophere’ is an imaginal meditation project that offers insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace. We are all an expression of nature in its constant change. As such, this project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes. 
+‘Breathing as the Bisophere’ is an imaginal meditation project that offers insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace. 
+
+We are all an expression of nature in its constant change. As such, this project aims to empower people to feel a sense of beauty, nourishment and love by embodying the biosphere’s breath and contemplating their interconnection with ecosystem energy, water, and carbon fluxes.
 
 As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis and Maoya Bassiouni</a> are developing a series of guided meditations and creating a crowd-sourced video mandala featuring clips of people connecting with nature in contemplative ways from around the world. We would be delighted to include <a href = "https://bit.ly/fluxart-submit-video-mandala">your submissions!</a>
-
-<figure>
-  <img src="https://fluxnetart.github.io/images/nature_moment_1.png">
-  <figcaption>A moment of connecting to nature in Central Amsterdam, in the Sun Tunnels, Utah, and at the Flatirons, Colorado. </figcaption>
-</figure>
-
-<h4>We are inviting everyone to embrace the feeling of being a part of the biosphere.</h4>
-
-Individually and collectively stitching together moments of presence and connection to ecosystems can create a quiet revolution that both inspires and resources people. 
-
-We invite you to connect with nature in a contemplative way and capture a short video clip of your experience to submit to the project. Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you in some way. <b>We look forward to receiving your <a href = "https://bit.ly/fluxart-submit-video-mandala">submissions at this link</a>, see video specs below.</b> 
-
-We’d also like to invite you to feel the full range of your emotional experience. To support you with this, you can tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. <b>Try the short reflection exercise we offer below.</b> 
 
 <div class="video-container" id="video1">
     <div class="video-thumbnail" style="background-image: url('https://fluxnetart.github.io/images/mandala_examples.png');">
@@ -55,7 +44,9 @@ We’d also like to invite you to feel the full range of your emotional experien
         <iframe src="https://drive.google.com/file/d/1MCijbiDhSBNlDYdRJEaATgirR2w8SMmQ/preview" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
-<figcaption>Example video clips for Breathing with the Biosphere. We hope that the video that we create together becomes a collective mandala that represents the beauty of humans and ecosystems across the world being interconnected.</figcaption>
+<figcaption>We invite you to embrace the feeling of being a part of the biosphere. Individually and collectively stitching together moments of presence and connection to ecosystems can create a quiet revolution that both inspires and resources people. We hope that the video that we create together becomes a collective mandala that represents the beauty of humans and ecosystems across the world being interconnected.</figcaption>
+
+<b>We invite you to connect with nature and capture a short video clip of your experience to submit to the project.</b> Your contemplation could be a walk, a sitting meditation or something more interactive. It could include some singing, spoken words, the sounds of nature, or be in silence. The purpose is for you to be present and feel a sense of belonging in the biosphere, in a way that is supportive, evocative, playful or inspiring for you. We look forward to <a href = "https://bit.ly/fluxart-submit-video-mandala">receiving submissions</a>
 
 <h4>Video Specs</h4>
 
@@ -65,9 +56,15 @@ We’d also like to invite you to feel the full range of your emotional experien
 * Provide short description and location of your video
 * Submit your video here: <a href = "https://bit.ly/fluxart-submit-video-mandala">https://bit.ly/fluxart-submit-video-mandala</a>
 
+<figure>
+  <img src="https://fluxnetart.github.io/images/nature_moment_1.png">
+  <figcaption>A moment of connecting to nature in Central Amsterdam, in the Sun Tunnels, Utah, and at the Flatirons, Colorado. </figcaption>
+</figure>
+
 “<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis</a>
 
-<h4>Reflection Exercise</h4>
+<b>Try this short relfection exercise to feel the full emotional range of your experience. </b>
+We invite you to tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. 
 
 You can either do this reflection exercise while you are out in nature or imagine a specific moment in time when you have felt most connected to nature.
 
