@@ -6,7 +6,7 @@ FLUXNET is a global network of micrometeorological tower sites that measure the 
 
  <i>flux</i><b>Art</b> collaborations use creative inquiry to explore and experience how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with the biosphere, the infinite interconnections that sustain life on Earth. 
 
-This pilot artist in residence program is supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and partnered with the Patricia Valian Reser Center for Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), which will host a <i>flux</i><b>Art</b> exhibit and symposium in January 2026.
+This pilot artist in residence program is supported and made possible by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978), the U.S. Department of Agriculture (NIFA Award 2023-67012-40086) and partnered with the Patricia Valian Reser Center for Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), which will host a <i>flux</i><b>Art</b> exhibit and symposium in January 2026.
 
 
 <figure style="text-align: center;">
