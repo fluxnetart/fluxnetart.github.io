@@ -65,6 +65,18 @@ As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis 
   <figcaption>A moment of connecting to nature in Central Amsterdam, in the Sun Tunnels, Utah, and at the Flatirons, Colorado. “<i>There are many ways of understanding what reality is and some ways of experiencing the Universe have the potential to open up both more aliveness and more peace. Experiencing yourself as an intrinsic part of the unfolding Universe, and feeling the benevolence and beauty in that unfolding, is a way of feeling nourished and supported, while also expanding your remit of care towards the worlds and others.” </i> – <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis</a></figcaption>
 </figure>
 
+<div style="text-align: center;">
+  <div style="font-size: 1.1em; margin-bottom: 8px;">
+    <strong>Reflection Exercise</strong>
+  </div>
+  <audio controls style="display: block; margin: 0 auto; transform: scale(2);">
+    <source src="https://drive.google.com/uc?export=preview&id=1_0MHKjO3FScNxgrpig8GZoz6P1-uZKzl" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+</div>
+
+
+
 <b>Try this short relfection exercise to feel the full emotional range of your experience. </b>
 We invite you to tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. 
 
@@ -75,7 +87,4 @@ You can do this reflection exercise while you are out in nature or imagine a spe
 3. Feel into the vastness and beauty of the nature that you are connected to. Notice the ways that the ecosystem around you is always in an exchange of giving and receiving and a constant state of flux. Imagine that nature is there to support you with the thing you find challenging. What would it offer to you to allow things to flow more freely and lovingly?
 4. Set a final two minute timer. Describe what you think the Universe is and how you fit into it. There is no right or wrong answer, just let yourself express what feels most resonant to you in this moment.
 
-<audio controls>
-  <source src="https://drive.google.com/uc?export=preview&id=1_0MHKjO3FScNxgrpig8GZoz6P1-uZKzl" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+
