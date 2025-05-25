@@ -65,18 +65,18 @@ As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis 
 </figure>
 
 
-<div class="audio-player" style="width:320px; margin:40px auto; background:#222; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); padding:16px; text-align:center;">
-  <audio controls style="width:100%; outline:none;">
-    <source src="https://fluxnetart.github.io/audio/Reflection-esv2-26p-bg-27p.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-
 
 <b>Try this short relfection exercise to feel the full emotional range of your experience. </b>
 We invite you to tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. 
 
 You can do this reflection exercise while you are out in nature or imagine a specific moment in time when you have felt most connected to nature.
+
+<div class="audio-player" style="width:320px; margin:40px auto; background:#222; padding:16px; text-align:center;">
+  <audio controls style="width:100%; outline:none;">
+    <source src="https://fluxnetart.github.io/audio/Reflection-esv2-26p-bg-27p.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 
 1. Set a timer for 2 mins, then write a list of all the best things you feel from this connection to nature. Don’t filter, just let it flow. The timer is to help you avoid overthinking.
 2. Set another two minute timer, this time list some emotions or experiences that feel like they are usually hard for you to feel or acknowledge. These could be any type of thoughts, energies or emotions. They could be positive or negative. Again, don’t overthink, just let it all flow.
