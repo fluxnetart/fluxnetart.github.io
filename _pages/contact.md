@@ -8,7 +8,7 @@ permalink: /contact/
   <img src="https://fluxnetart.github.io/images/headshots.png" class="center">
 </figure>
 
-**Maoya Bassiouni** (<i>flux</i><b>Art</b> Residency Director, FLUXNET Outreach Working Group Chair, UC Berkeley, maoya@berkeley.edu)
+**Maoya Bassiouni** (<i>flux</i><b>Art</b> Director, FLUXNET Outreach Working Group Chair, UC Berkeley, maoya@berkeley.edu)
 
 **Emma Reich** (FLUXNET Outreach Working Group Member, Northern Arizona University)
 
