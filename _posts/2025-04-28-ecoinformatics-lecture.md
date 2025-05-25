@@ -33,7 +33,7 @@ In April 2025, artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldh
 
 
 <div class="video-container" id="video1">
-    <div class="video-thumbnail" style="background-image: url('https://fluxnetart.github.io/images/julia_lecture_preview.png');">
+    <div class="video-thumbnail" style="background-image: url('https://fluxnetart.github.io/images/thumbnail_ulia_lecture.png');">
         <div class="play-button">
             <svg width="64" height="64" viewBox="0 0 24 24" fill="white">
                 <path d="M8 5v14l11-7z"/>
@@ -45,5 +45,5 @@ In April 2025, artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldh
     </div>
 </div>
 
-<figcaption>Recording of Julia Oldham's lecture the Center for Ecosystem Science and Society, Northern Arizona University.</figcaption>
+<figcaption>Recording of Julia Oldham's lecture at the Center for Ecosystem Science and Society, Northern Arizona University.</figcaption>
 
