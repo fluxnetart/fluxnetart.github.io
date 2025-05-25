@@ -65,6 +65,14 @@ As part of the project, <a href="https://fluxnetart.github.io/Rosa/">Rosa Lewis 
 </figure>
 
 
+<div class="audio-player" style="width:320px; margin:40px auto; background:#222; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); padding:16px; text-align:center;">
+  <audio controls style="width:100%; outline:none;">
+    <source src="https://fluxnetart.github.io/audio/Reflection-esv2-26p-bg-27p.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+
 <b>Try this short relfection exercise to feel the full emotional range of your experience. </b>
 We invite you to tune into the vastness of nature and its capacity to meet you in any form of expression in the present moment. Meeting and being met by nature in its constant state of flux opens up the possibility for a deep sense of resonance and radical acceptance, where the full range of experience can flow more freely. 
 
