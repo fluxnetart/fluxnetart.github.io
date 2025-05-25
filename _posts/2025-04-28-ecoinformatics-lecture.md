@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sharing a new perspective on ecosystem data at Northern Arizona University
-excerpt: In April 2025, Artist Julia Oldham was invited to give a talk in the Ecoinformatice Lecture series at Northern Arizona University.
+title: Sharing a new perspective on ecosystem data
+excerpt: In April 2025, artist Julia Oldham was invited to give a talk in the Ecoinformatice Lecture series at Northern Arizona University.
 categories: news
 ---
 
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-In April 2025, Artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a> was invited by Prof. <a href="https://richardson-lab.nau.edu/">Andrew Richardson</a> to give a talk in the Ecoinformatics Lecture series at Northern Arizona University, Flagstaff. Julia had the chance to share her artistic works and creative approach, as well as engage in discussions about a wide range of ecosystem science topics with faculty and students. 
+In April 2025, artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a> was invited by Prof. <a href="https://richardson-lab.nau.edu/">Andrew Richardson</a> to give a talk in the Ecoinformatics Lecture series at Northern Arizona University, Flagstaff. Julia had the chance to share her artistic works and creative approach, as well as engage in discussions about a wide range of ecosystem science topics with faculty and students. 
 
 “<i>I knew that Julia had been working a bit with PhenoCam images from several different sites, but until she gave her presentation and showed some of her work, I really had no idea just how creatively and imaginatively she was using these photographs in her art. I always knew that there had to be so many different ways PhenoCam images could be used for different applications, but I never quite expected to see the kinds of things Julia has been working on.</i>
 
@@ -44,4 +44,6 @@ In April 2025, Artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldh
         <iframe src="https://drive.google.com/file/d/1XSLdTlUhHdyAX138aVACi0mzQXZMTNWk/preview" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
+
+<figcaption>Recording of Julia Oldham's lecture the Center for Ecosystem Science and Society, Northern Arizona University.</figcaption>
 
