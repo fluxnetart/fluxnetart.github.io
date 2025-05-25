@@ -6,7 +6,7 @@ FLUXNET is a global network of micrometeorological tower sites that measure the 
 
  <i>flux</i><b>Art</b> collaborations use creative inquiry to explore and experience how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with the biosphere, the infinite interconnections that sustain life on Earth. 
 
- In partnership with the Patricia Valian Reser Center for Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), we are excited to present the <i>flux</i><b>Art</b> exhibit and symposium, January 2026 in Corvallis OR.
+ In partnership with the <a href = "https://prax.oregonstate.edu/"> Patricia Valian Reser Center for Creative Arts (PRAx</a>), we are delighted to present the <i>flux</i><b>Art</b> exhibit and symposium, opening 22 January 2026 in Corvallis OR.
 
 
 <figure style="text-align: center;">
