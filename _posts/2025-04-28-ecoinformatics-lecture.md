@@ -62,5 +62,5 @@ In April 2025, artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldh
     </div>
 </div>
 
-<figcaption>Recording of Julia Oldham's complete lecture at the Center for Ecosystem Science and Society, Northern Arizona University.</figcaption>
+<figcaption>Recording of Julia Oldham's complete lecture and Q&A session at the Center for Ecosystem Science and Society, Northern Arizona University, Flagstaff.</figcaption>
 
