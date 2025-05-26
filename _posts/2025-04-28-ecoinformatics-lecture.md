@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 In April 2025, artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a> was invited by Prof. <a href="https://richardson-lab.nau.edu/">Andrew Richardson</a> to give a talk in the Ecoinformatics Lecture series at Northern Arizona University, Flagstaff. Julia had the chance to share her artistic works and creative approach, as well as engage in discussions about a wide range of ecosystem science topics with faculty and students. 
 
-<i>Using canopy greeness as a way to learn about the forest is really facinating to me. This translation of landscape into a color field is the thing that I am so excited about right now because it is this perfect, beautiful point of overlap for both artistic and scientific inquiry. Artists have been translating landscapes into color fields for a very long time and scientists do that too. While scientists and artists have very different goals and agendas, we have certain really beautiful overlaps of our process</i> –  <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a>
+<i>"Using canopy greeness as a way to learn about the forest is really facinating to me. This translation of landscape into a color field is the thing that I am so excited about right now because it is this perfect, beautiful point of overlap for both artistic and scientific inquiry. Artists have been translating landscapes into color fields for a very long time and scientists do that too. While scientists and artists have very different goals and agendas, we have certain really beautiful overlaps of our process"</i> –  <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a>
 
 
 <div class="video-container" id="video1">
