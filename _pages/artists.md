@@ -95,7 +95,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Sara Bouchard</b> (Richmond, VA) is creating an electroacoustic composition for 12-voice choir and percussion which explores the role of community and networks in locating one’s own voice within a shifting landscape in collaboration with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecosystem science with personal and collective experiences of climate change, interweaving musical performance, field recordings, crowd-sourced text, and flux data. <a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></figcaption>a.
+    <figcaption><b>Sara Bouchard</b> (Richmond, VA) is creating an electroacoustic composition for 12-voice choir and percussion which explores the role of community and networks in locating one’s own voice within a shifting landscape in collaboration with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecosystem science with personal and collective experiences of climate change, interweaving musical performance, field recordings, crowd-sourced text, and flux data. <a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></figcaption>
   </div>
 </div>
 
