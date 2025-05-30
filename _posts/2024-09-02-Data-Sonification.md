@@ -10,10 +10,11 @@ In September 2024, artist <a href = "https://fluxnetart.github.io/Sara/">Sara Bo
 Sara also shared her own creative journey with data sonification, from hand-analyzing data to leveraging environmental sensors and live coding for real-time interactive experiences. Sara’s work, rooted in environmental data, demonstrates how sonification can foster emotional resonance and community connection, helping audiences not only understand but truly feel the story behind the science.
 
 <iframe 
-  src="https://docs.google.com/viewer?url=https://drive.google.com/uc?export=download&id=1ZekDRaROA4vqq6ljKUutOz_1JHRIM_zm&embedded=true" 
+  src="https://docs.google.com/viewer?url=https://fluxnetart.github.io/images/Bouchard_sonification.pdf&embedded=true" 
   style="width:100%; height:600px;" 
   frameborder="0">
 </iframe>
+
 <figcaption>Prensentation slide from Sara Bouchards Ameriflux Data Sonification workshop</figcaption>
 
 Discussions sparked lively conversations about the unique strengths of sound: our ears often detect subtle patterns that our eyes might miss, making sonification a powerful tool for revealing changes and variability in dense datasets, such as those from flux towers. Combining sonification with visualization can present rich, complex information in a way that’s both engaging and effective for education and communication. 
