@@ -19,7 +19,7 @@ Sara also shared her own creative journey with data sonification, from hand-anal
 
 Discussions sparked lively conversations about the unique strengths of sound: our ears often detect subtle patterns that our eyes might miss, making sonification a powerful tool for revealing changes and variability in dense datasets, such as those from flux towers. Combining sonification with visualization can present rich, complex information in a way that’s both engaging and effective for education and communication. 
 
-“<i>My interest in sonification arose from “seeing sound” in the environment around me - lifting melody from the landscape. I originally sourced and analyzed data by hand! My early sonifications were low-tech, rooted in folk music and conveyed intimacy.</i>” – <a href = "https://fluxnetart.github.io/Sara/">Sara Bouchard</a>
+“<i>My interest in sonification arose from “seeing sound” in the environment around me - lifting melody from the landscape. I originally sourced and analyzed data by hand! My early sonifications were low-tech, rooted in folk music and conveyed intimacy.</i>” <br>– <a href = "https://fluxnetart.github.io/Sara/">Sara Bouchard</a>
 
 <figure>
     <img src="https://fluxnetart.github.io/images/sing_landscape.png">
