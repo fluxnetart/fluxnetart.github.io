@@ -6,6 +6,6 @@
     {% else %}
     {% endif %}
   </a>
-  <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+  <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}<a href="{{ site.url }}{{ post.url }}"> (Read More)</a></p>
 </article><!-- /.tile -->
