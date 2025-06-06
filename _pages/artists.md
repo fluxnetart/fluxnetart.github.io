@@ -35,7 +35,7 @@ img {
 }
 </style>
 
-<i>flux</i><b>Art</b> is blending art and science to empower society to feel ecosystem dynamics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
+<i>flux</i><b>Art</b> is blending art and science to empower society to feel ecosystem dynamics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a> .
 
 
 <div class="row">
@@ -110,7 +110,7 @@ img {
   </div>
 
   <div class="column">
-    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to dissolve their boundaries with nature by feeling ecosystem fluxes in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of interdependence and fundamental goodness. <b><br><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to feel ecosystem fluxes and dissolve their boundaries with nature in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of interdependence and fundamental goodness. <b><br><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
