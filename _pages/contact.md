@@ -84,16 +84,8 @@ img {
   <div class="column">
     <figcaption><b>Kyle Delwiche</b><br>
                  Deputy Director, FLUXNET Community Council, UC Berkeley<br>
-                 kdelwiche@berkeley.edu</figcaption>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-  </div>
-
-  <div class="column">
-    <figcaption>Special thanks to <b>Emma Reich and Robert Shortt</b> and FLUXNET Outreach Working Group</figcaption>
+                 kdelwiche@berkeley.edu<br></figcaption>
+     <figcaption>Special thanks to <b>Emma Reich and Robert Shortt</b> and the FLUXNET Outreach Working Group</figcaption>
   </div>
 </div>
 
