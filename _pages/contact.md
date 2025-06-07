@@ -44,7 +44,7 @@ img {
   </div>
   <div class="column">
     <figcaption><b>Maoya Bassiouni</b><br>
-                <i>flux</i><b>Art</b> Director and FLUXNET Outreach Working Group Chair, UC Berkeley<br>
+                Director, <i>flux</i><b>Art</b> and Chair, FLUXNET Outreach Working Group, UC Berkeley<br>
                  maoya@berkeley.edu</figcaption>
   </div>
 </div>
