@@ -106,7 +106,7 @@ img {
   </div>
 </div>
 
-<div style="max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: center; padding-top: 10px; gap: 10px;">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: center; padding-top: 10px;">
   <img src="https://fluxnetart.github.io/images/insta.png" style="display: block;">
   <p style="margin: 0;">follow us <a href="https://www.instagram.com/fluxnet.art/">@fluxnet.art</a></p>
 </div>
