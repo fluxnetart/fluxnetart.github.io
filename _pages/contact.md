@@ -48,7 +48,8 @@ img {
   </div>
   <div class="column-caption">
     <figcaption><b>Maoya Bassiouni</b><br>
-      Director, <i>flux</i><b>Art</b> and Chair, FLUXNET Outreach Working Group, UC Berkeley<br>
+      Director, <i>flux</i><b>Art</b><br>
+      Chair, FLUXNET Outreach Working Group, UC Berkeley<br>
       maoya@berkeley.edu</figcaption>
   </div>
 </div>
@@ -61,7 +62,8 @@ img {
   </div>
   <div class="column-caption">
     <figcaption><b>Carly Lettero</b><br>
-      Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx and Program Manager, Spring Creek Project<br>
+      Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx<br>
+      Program Manager, Spring Creek Project<br>
       carly.lettero@oregonstate.edu</figcaption>
   </div>
 </div>
@@ -95,11 +97,12 @@ img {
 <div class="row">
   <div class="column-image">
     <figure>
+      <img src="https://fluxnetart.github.io/images/emma_robert.png">
     </figure>
   </div>
   <div class="column-caption">
-    <figcaption>Special thanks to <b>Emma Reich and Robert Shortt</b> <br>
-                and the FLUXNET Outreach Working Group</figcaption>
+    <figcaption><b>Emma Reich and Robert Shortt</b> <br>
+                   FLUXNET Outreach Working Group</figcaption>
   </div>
 </div>
 
