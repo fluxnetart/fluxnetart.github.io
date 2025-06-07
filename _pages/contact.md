@@ -3,22 +3,99 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+<style>
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: center;
+}
 
-<figure>
-  <img src="https://fluxnetart.github.io/images/headshots.png" class="center">
-</figure>
+.column {
+  flex: 44.44%;
+  padding: 10px;
+}
 
-**Maoya Bassiouni** (<i>flux</i><b>Art</b> Director, FLUXNET Outreach Working Group Chair, UC Berkeley, maoya@berkeley.edu)
 
-**Emma Reich** (FLUXNET Outreach Working Group Member, Northern Arizona University)
+img {
+  max-width: 111px;
+  max-height: 111px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
-**Robert Shortt** (FLUXNET Outreach Working Group Member, UC Berkeley)
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+  }
+}
+</style>
 
-**Carly Lettero** (Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx, Carly.Lettero@oregonstate.edu)
 
-**Ashley Stull Meyers** (Horning Chief Curator of Art, Science, and Technology, PRAx, ashley.stullmeyers@oregonstate.edu)
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/images/Maoya.png">
+    </figure>
+  </div>
 
-**Kyle Delwiche** (Deputy Director, FLUXNET Community Council, UC Berkeley, kdelwiche@berkeley.edu)
+  <div class="column">
+    <figcaption><b>Maoya Bassiouni</b><br>
+                <i>flux</i><b>Art</b> Director and FLUXNET Outreach Working Group Chair, UC Berkeley<br>
+                 maoya@berkeley.edu</figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/images/Carly.jpg">
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>Carly Lettero</b><br>
+                Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx and Program Manager, Spring Creek Project<br>
+                carly.lettero@oregonstate.edu</figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/images/Ashley.jpg">
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>Ashley Stull Meyers</b><br>
+                Horning Chief Curator of Art, Science, and Technology, PRAx<br>
+                ashley.stullmeyers@oregonstate.edu</figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+  <figure>
+      <img src="https://fluxnetart.github.io/images/Kyle.png">
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>Kyle Delwiche</b><br>
+                 Deputy Director, FLUXNET Community Council, UC Berkeley<br>
+                 kdelwiche@berkeley.edu</figcaption>
+  </div>
+</div>
+
+<div class="row">
+    <figcaption>Special thanks to Emma Reich, Robert Short and FLUXNET Outreach Working Group</figcaption>
+</div>
+
 
 <div style="display: flex; align-items: center; justify-content: center; padding-top: 10px;">
     <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">
