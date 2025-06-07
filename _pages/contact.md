@@ -13,7 +13,7 @@
 }
 
 .column-caption {
-  flex: 2;
+  flex: 3;
   padding: 10px;
 }
 
