@@ -18,7 +18,7 @@ permalink: /artists/
 }
 
 
-.column-image img {
+.column img {
   max-width: 150px;
   max-height: 150px;
   width: auto;
