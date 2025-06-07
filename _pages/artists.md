@@ -18,9 +18,9 @@ permalink: /artists/
 }
 
 
-img {
-  max-width: 222px;
-  max-height: 222px;
+.column-image img {
+  max-width: 150px;
+  max-height: 150px;
   width: auto;
   height: auto;
   display: block;

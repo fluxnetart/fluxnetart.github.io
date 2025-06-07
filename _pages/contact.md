@@ -22,7 +22,7 @@ permalink: /contact/
   padding: 10px;
 }
 
-img {
+.column-image img {
   max-width: 150px;
   max-height: 150px;
   width: auto;
