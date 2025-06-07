@@ -106,9 +106,7 @@ permalink: /contact/
   </div>
 </div>
 
-<div style="width: 100%; display: flex; justify-content: center; padding-top: 10px;">
-  <div style="display: inline-flex; align-items: center;">
-    <img src="https://fluxnetart.github.io/images/insta.png" style="display: block;">
+<div style="display: flex; align-items: center; justify-content: center; padding-top: 10px;">
+    <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">
     <p style="margin: 0;">follow us <a href="https://www.instagram.com/fluxnet.art/">@fluxnet.art</a></p>
-  </div>
 </div>
