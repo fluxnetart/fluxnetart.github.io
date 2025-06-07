@@ -42,7 +42,6 @@ img {
       <img src="https://fluxnetart.github.io/images/Maoya.png">
     </figure>
   </div>
-
   <div class="column">
     <figcaption><b>Maoya Bassiouni</b><br>
                 <i>flux</i><b>Art</b> Director and FLUXNET Outreach Working Group Chair, UC Berkeley<br>
@@ -56,7 +55,6 @@ img {
       <img src="https://fluxnetart.github.io/images/Carly.jpg">
     </figure>
   </div>
-
   <div class="column">
     <figcaption><b>Carly Lettero</b><br>
                 Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx and Program Manager, Spring Creek Project<br>
@@ -70,7 +68,6 @@ img {
       <img src="https://fluxnetart.github.io/images/Ashley.jpg">
     </figure>
   </div>
-
   <div class="column">
     <figcaption><b>Ashley Stull Meyers</b><br>
                 Horning Chief Curator of Art, Science, and Technology, PRAx<br>
@@ -84,7 +81,6 @@ img {
       <img src="https://fluxnetart.github.io/images/Kyle.png">
     </figure>
   </div>
-
   <div class="column">
     <figcaption><b>Kyle Delwiche</b><br>
                  Deputy Director, FLUXNET Community Council, UC Berkeley<br>
@@ -93,7 +89,12 @@ img {
 </div>
 
 <div class="row">
-    <figcaption>Special thanks to Emma Reich, Robert Short and FLUXNET Outreach Working Group</figcaption>
+  <div class="column">
+  </div>
+
+  <div class="column">
+    <figcaption>Special thanks to <b>Emma Reich and Robert Shortt</b> and FLUXNET Outreach Working Group</figcaption>
+  </div>
 </div>
 
 
