@@ -18,8 +18,8 @@
 }
 
 img {
-  max-width: 111px;
-  max-height: 111px;
+  max-width: 150px;
+  max-height: 150px;
   width: auto;
   height: auto;
   display: block;
