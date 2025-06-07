@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
 <style>
 .row {
   display: flex;
