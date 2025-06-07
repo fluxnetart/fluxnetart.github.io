@@ -101,7 +101,7 @@ img {
     </figure>
   </div>
   <div class="column-caption">
-    <figcaption><b>Emma Reich and Robert Shortt</b> <br>
+    <figcaption><b>Emma Reich</b> and <b>Robert Shortt</b> <br>
                    FLUXNET Outreach Working Group</figcaption>
   </div>
 </div>
@@ -110,3 +110,5 @@ img {
   <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">
   <p style="margin: 0;">follow us <a href="https://www.instagram.com/fluxnet.art/">@fluxnet.art</a></p>
 </div>
+
+
