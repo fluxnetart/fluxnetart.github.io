@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breathing as the Biosphere YouTube Channel
-excerpt: What does it feel like to dissolve your experience into the fluxes?
+excerpt: Rosa Lewis takes you on imaginal journeys to explore the ever-changing nature of ecosystems in flux.
 categories: news
 ---
 
