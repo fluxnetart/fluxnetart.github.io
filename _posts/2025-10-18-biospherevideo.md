@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breathing as the Biosphere YouTube Channel
-excerpt: Julia Oldham translates phenocam data into a color and sound portrait of cascadia’s changing landscapes
+excerpt: What does it feel like to dissolve your experience into the fluxes?
 categories: news
 ---
 
