@@ -10,12 +10,13 @@ What does it feel like to dissolve your experience into the fluxes, cycles and i
 
 <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> is a collection of imaginal meditations that invite you to dissolve your boundaries with the infinity of nature. By embodying the Biosphere's breath, you are guided to journey, feel, and reimagine your relationship with the living world. 
 
+This <i>flux</i><strong>ART</strong> collaboration between artist <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> and research scientist <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni </a>is now available <a href = "https://www.youtube.com/@BreathingastheBiosphere">on Youtube</a> and on the <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> website.
+
 Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, the embodied imaginal journeys seek to awaken a sense of interdependence, fundamental goodness and empowerment, even in the face of fear, ecosystem grief, or other challenging emotions. May you experience the awe, nourishment and love that arise from your interconnection with ecosystem energy, water, and carbon fluxes.
 
 The project features selected guided meditations and imaginal journeys developed collaboratively and iteratively through conversations and experimentations between creative, contemplative practitioners and ecosystem scientists, exploring at each step areas of overlap between Buddha Nature and Earth system processes in flux as imaginal somatic experiences, individually as well as in collective attunement.
 
-The collection of guided meditations offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace.This <i>flux</i><strong>ART</strong> collaboration between artist Rosa Lewis and research scientist Maoya Bassiouni is now available <a href = "https://www.youtube.com/@BreathingastheBiosphere">on Youtube</a> and on the <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> website.
-
+The collection of guided meditations offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace. 
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe src="https://www.youtube.com/embed/X8M-ON_j5Po"
