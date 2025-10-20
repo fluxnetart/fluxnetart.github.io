@@ -28,6 +28,6 @@ The collection of guided meditations offer insights into how directly experienci
   </iframe>
 </div>
 <figcaption>
-  Rosa Lewis brings you into the imaginal experience of becoming the soil and sensing the intricate web of life below ground. Through embodied awareness, you explore the textures, cycles, and interconnections of minerals, organic matter, air, water, and living organisms, uncovering the soil’s inner flux and renewal as a mirror for your own Buddha nature. </br> 
+  Rosa Lewis brings you into the imaginal experience of becoming the soil and sensing the intricate web of life below ground. Through embodied awareness, you explore the textures, cycles, and interconnections of minerals, organic matter, air, water, and living organisms, uncovering the soil’s inner flux and renewal as a mirror for your own Buddha nature. <br> 
   <strong>Subscribe to <a href = "https://www.youtube.com/@BreathingastheBiosphere">Breathing as the Biosphere on Youtube</a> to discover more imaginal journeys by Rosa Lewis and friends</strong>
 </figcaption>
