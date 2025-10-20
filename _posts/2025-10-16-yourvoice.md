@@ -5,7 +5,6 @@ excerpt: Sara Bouchard's is weaving carbon cycle science, data and crowd-sourced
 categories: news
 ---
 
-Your voice can become part of a fluxART composition!
 
 Inspired by the carbon cycle, "En Masse" is an electroacoustic composition for 12-voice choir and percussion, weaving together science, data and personal reflection, created by composer and artist in residence <a href = "https://fluxnetart.github.io/Sara">Sara Bouchard</a> with collaborator Chris Gough.
 
