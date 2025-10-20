@@ -66,23 +66,6 @@ permalink: /artists/
   </div>
 </div>
 
-
-<div class="row">
-  <div class="column">
-  <figure>
-    <a href="https://fluxnetart.github.io/David/">
-      <img src="https://fluxnetart.github.io/images/Dave.jpg">
-    </a>
-    </figure>
-  </div>
-
-  <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers us a space to breathe, to rest, and to contemplate Tara, who appears in a green body that represents nature’s infinitely varied forms of life, awareness, and beauty. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
-
-
-  </div>
-</div>
-
 <div class="row">
   <div class="column">
   <figure>
@@ -109,6 +92,22 @@ permalink: /artists/
 
   <div class="column">
     <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and dissolve their boundaries with the infinity of nature in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of interdependence and fundamental goodness. <b><br><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+  <figure>
+    <a href="https://fluxnetart.github.io/David/">
+      <img src="https://fluxnetart.github.io/images/Dave.jpg">
+    </a>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers us a space to breathe, to rest, and to contemplate Tara, who appears in a green body that represents nature’s infinitely varied forms of life, awareness, and beauty. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
+
+
   </div>
 </div>
 
