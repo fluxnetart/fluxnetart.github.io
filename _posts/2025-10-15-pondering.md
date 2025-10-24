@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pondering documents the canopy of the Deschutes National Forest
-excerpt: Julia Oldham visits the the Deschutes National Forest every 2 to 4 weeks and takes slow-motion drone shots
+title: Pondering documents canopy across seasons
+excerpt: Julia Oldham visits the Deschutes National Forest every 2 to 4 weeks and takes slow-motion drone shots
 categories: news
 ---
 
