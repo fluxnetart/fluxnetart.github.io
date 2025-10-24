@@ -105,7 +105,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork invites offers a kind of mirror of nature’s infinitely varied forms of life and invites us to deepen our experience of interdependence in nature. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers a kind of mirror of nature’s varied forms of life and invites us to deepen our experience of interdependence in nature. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
 
 
   </div>
