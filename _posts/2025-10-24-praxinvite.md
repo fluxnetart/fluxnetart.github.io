@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You’re invited to PRAx! Creative Curiosity Meets Flux Science, 22 January, 2026 at PRAx
+title: You’re invited to PRAx! Creative Curiosity Meets Flux Science, 22 January, 2026
 excerpt: Come experience ecosystem fluxes and reimagine the infinite interconnections that sustain life on Earth.
 categories: news
 ---
