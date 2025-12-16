@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breathing as the Biosphere YouTube Channel
+title: Breathing as the Biosphere Spotify & YouTube Channel
 excerpt: Rosa Lewis takes you on imaginal journeys to explore the ever-changing nature of ecosystems in flux.
 categories: news
 ---
@@ -10,9 +10,12 @@ What does it feel like to dissolve your experience into the fluxes, cycles and i
 
 <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> is a collection of imaginal meditations that invite you to dissolve your boundaries with the infinity of nature. By embodying the Biosphere's breath, you are guided to journey, feel, and reimagine your relationship with the living world. 
 
-This <i>flux</i><strong>ART</strong> collaboration between artist <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> and research scientist <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni </a>is now available <a href = "https://www.youtube.com/@BreathingastheBiosphere">on Youtube</a> and on the <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> website.
+This <i>flux</i><strong>ART</strong> collaboration between artist <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> and research scientist <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni </a>is now available as a <a href = "https://open.spotify.com/show/1525pYDIu4DT1MLiY2pbVd">Spotify podcasy</a>, a <a href = "https://www.youtube.com/@BreathingastheBiosphere">Youtube channel</a>, and on the <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> website.
 
 Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, the embodied imaginal journeys seek to awaken a sense of interdependence, fundamental goodness and empowerment, even in the face of fear, ecosystem grief, or other challenging emotions. May you experience the awe, nourishment and love that arise from your interconnection with ecosystem energy, water, and carbon fluxes.
+
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/episode/0u3D3jrKchzARlzXWY9cCE?utm_source=generator" width="100%" height="352"  frameBorder="0" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The project features selected guided meditations and imaginal journeys developed collaboratively and iteratively through conversations and experimentations between creative, contemplative practitioners and ecosystem scientists, exploring at each step areas of overlap between Buddha Nature and Earth system processes in flux as imaginal somatic experiences, individually as well as in collective attunement.
 
@@ -29,5 +32,5 @@ The collection of guided meditations offer insights into how directly experienci
 </div>
 <figcaption>
   Rosa Lewis brings you into the imaginal experience of becoming the soil and sensing the intricate web of life below ground. Through embodied awareness, you explore the textures, cycles, and interconnections of minerals, organic matter, air, water, and living organisms, uncovering the soil’s inner flux and renewal as a mirror for your own Buddha nature. <br> 
-  <strong>Subscribe to <a href = "https://www.youtube.com/@BreathingastheBiosphere">Breathing as the Biosphere on Youtube</a> to discover more imaginal journeys by Rosa Lewis and friends</strong>
+  <strong>Subscribe to Breathing as the Biosphere on <a href = "https://open.spotify.com/show/1525pYDIu4DT1MLiY2pbVd">Spotify</a> or on<a href = "https://www.youtube.com/@BreathingastheBiosphere"> Youtube</a> to discover more imaginal journeys by Rosa Lewis and friends</strong>
 </figcaption>
