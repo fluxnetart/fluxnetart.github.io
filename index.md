@@ -4,11 +4,9 @@ layout: default
 
 <a href = "https://fluxnet.org/">FLUXNET</a> is a global network of micrometeorological tower sites that measure the exchanges of carbon dioxide, water vapor, and energy between the land surface and atmosphere, they are tracking the biosphere's breath. 
 
- <a href = "https://fluxnetart.github.io/"><i>flux</i>ART</a> collaborations use creative inquiry to explore and experience how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with the biosphere, the infinite interconnections that sustain life on Earth. 
+ <i>flux</i>ART collaborations use creative inquiry to explore and experience how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with the biosphere, the infinite interconnections that sustain life on Earth. 
 
- <i>flux</i>ART projects are featured at the Patricia Valian Reser Center for Creative Arts (PRAx) exhibit <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i>Currents: Experiments in Art-Science Collaboration</i></a>, opening 22 January 2026 in Corvallis OR
-
-
+<i>flux</i>ART projects will be showcased at the Patricia Valian Reser Center for Creative Arts (PRAx, Corvallis OR) in the exhibition <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i>Currents</i>: Experiments in Art-Science Collaboration</a>, 22 January - 7 March 2026, including an opening celebration featuring an <i>flux</i>ART musical performance <a href="https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration"> (Event info and ticketing here)</a>
 
 
 <figure style="text-align: center;">
