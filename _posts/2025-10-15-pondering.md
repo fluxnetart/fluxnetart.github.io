@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pondering documents canopy across seasons
-excerpt: Julia Oldham visits the Deschutes National Forest every 2 to 4 weeks and takes slow-motion drone shots
+excerpt: Julia Oldham monthly slow-motion drone shots invites us on a yearlong journey of shifting light, colors and foliage in the Deschutes National Forest in Oregon
 categories: projects
 ---
 
