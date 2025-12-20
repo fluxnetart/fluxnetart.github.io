@@ -4,9 +4,7 @@ layout: default
 
 <a href = "https://fluxnet.org/">FLUXNET</a> is a global network of micrometeorological tower sites that measure the exchanges of carbon dioxide, water vapor, and energy between ecosystems and atmosphere, they are tracking the biosphere's breath. 
 
-With support from the NSF, FLUXNET invited artists to engage with a community of scientists, their global datasets and the ecosystems they study in a yearlong residency. They explore climate change, drought and fire disturbances, the renewing rhythms of landscapes, and the often-invisible processes and infinite interconnections that sustain life on Earth — turning flux science into stories and embodied experiences of nature’s resilience.
-
-Through creative inquiry, <i>flux</i>ART collaborations explored how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with environmental change. 
+ <i>flux</i>ART collaborations use creative inquiry to explore how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with environmental change and the often invisible processes and interactions that sustain life on Earth – turning flux science into stories and embodied experiences of nature’s resilience.
 
 Projects emerging from this exchange will be showcased from 22 January to 7 March 2026 at the Patricia Valian Reser Center for Creative Arts (PRAx) in the exhibition <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i>Currents: Experiments in Art-Science Collaboration</i></a>. Meet the artists and join us at PRAx on 22 January, 2026 for the opening celebration and <i>En Masse</i> musical performance. <a href="https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">Event info and ticketing</a>
 
@@ -22,4 +20,4 @@ Projects emerging from this exchange will be showcased from 22 January to 7 Marc
     <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">
     <p style="margin: 0;">follow us <a href="https://www.instagram.com/fluxnet.art/">@fluxnet.art</a></p>
 </div>
- 
+
