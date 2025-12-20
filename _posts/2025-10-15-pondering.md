@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pondering documents canopy across seasons
-excerpt: Julia Oldham monthly slow-motion drone shots invites us on a yearlong journey of shifting light, colors and foliage in the Deschutes National Forest in Oregon
+title: Pondering
+excerpt: Julia Oldham slow-motion drone shots invites us on a yearlong journey of shifting light, colors and foliage in the Deschutes National Forest in Oregon
 categories: projects
 ---
 
