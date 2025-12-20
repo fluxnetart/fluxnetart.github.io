@@ -31,11 +31,11 @@ Scientists around the world have set up nearly 1,000 towers instrumented to cons
 
 <a href = "https://fluxnet.org/">FLUXNET</a> is much more than its datasets. It is a scientific community dedicated to understanding and communicating how ecosystems function and how Earth systems are changing. Having flux data in one place allows scientists to do big-picture thinking about climate change and develop models. Scientists also partner and engage with stakeholders to address applied environmental challenges with more local societal benefits. <a href = "https://fluxnet.org/">FLUXNET</a> data and models are used for scientific discoveries and to inform local and international ecosystem management efforts, including climate change adaptation and mitigation strategies.
 
-<h4>Why <i>flux</i><b>ART</b>?</h4>
+<h4>Why <i>flux</i>ART?</h4>
 
 The intricate nature of our planet’s future and the uncertainties it carries, offers countless opportunities for us to promote climate action and nurture healthy ecosystems. The bridge between the scientific achievements necessary for these goals and actual global change is constructed by our collective imagination and calls for collective healing. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
 
-To break these barriers and reimagine transformative engagement with the public we are piloting <i>flux</i><b>ART</b>, an artist in residency program in partnership with <a href = "https://prax.oregonstate.edu/">PRAx</a>. This novel outreach initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
+To break these barriers and reimagine transformative engagement with the public we are piloting <i>flux</i>ART, an artist in residency program in partnership with <a href = "https://prax.oregonstate.edu/">PRAx</a>. This novel outreach initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
 
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/logos.png">

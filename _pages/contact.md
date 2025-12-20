@@ -48,7 +48,7 @@ permalink: /contact/
   </div>
   <div class="column-caption">
     <figcaption><b>Maoya Bassiouni</b><br>
-      Director, <i>flux</i><b>ART</b><br>
+      Director, <i>flux</i>ART<br>
       Chair, FLUXNET Outreach Working Group, UC Berkeley<br>
       maoya@berkeley.edu</figcaption>
   </div>
