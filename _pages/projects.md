@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-permalink: /news/
+title: Projects
+permalink: /projects/
 ---
 {% for post in site.posts %}
 {% if post.categories contains 'news' %}
