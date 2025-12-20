@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You’re invited to PRAx! Creative Curiosity x Flux Science
-excerpt: Come experience ecosystem fluxes and reimagine the infinite interconnections that sustain life on Earth @ PRAx, Corvallis OR, 22-23 January, 2026 
+excerpt: Come experience ecosystem fluxes and reimagine the infinite interconnections that sustain life on Earth @ PRAx, Corvallis OR, 22 January, 2026 
 categories: news
 ---
 
@@ -17,7 +17,7 @@ Your responses will help us gauge potential participation as we finalize activit
 
 <figure style="text-align: center;" >
   <img src="https://fluxnetart.github.io/images/praxinvite.png" style="max-height: 777px; height: auto;">
-  <figcaption>You’re invited! Creative Curiosity Meets Flux Science (21-23 January, 2026 @ PRAx). Please use <a href = "https://forms.gle/Xau9CK1pG1ntgVcYA">this form</a> to express your interest in attending this special fluxART event. Contact maoya@berkeley.edu for more information
+  <figcaption>You’re invited! Creative Curiosity Meets Flux Science (22 January, 2026 @ PRAx). Please use <a href = "https://forms.gle/Xau9CK1pG1ntgVcYA">this form</a> to express your interest in attending this special <i>flux</i>ART event. Contact maoya@berkeley.edu for more information
 </figcaption>
 </figure>
 
