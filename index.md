@@ -4,9 +4,9 @@ layout: default
 
 <a href = "https://fluxnet.org/">FLUXNET</a> is a global network of micrometeorological tower sites that measure the exchanges of carbon dioxide, water vapor, and energy between ecosystems and atmosphere, they are tracking the biosphere's breath. 
 
- In a yearlong residency, artists engaged with FLUXNET scientists and the ecosystems they study. Together they explored how unexpected beauty can emerge from the concept of <i>flux</i> and transform our relationship with environmental change and the often invisible processes that sustain life on Earth. <i>flux</i>ART collaborations used creative inquiring to turn flux science into stories and embodied experiences of nature’s resilience.
+ In a yearlong residency, artists engaged with FLUXNET scientists and the ecosystems they study. <i>flux</i>ART collaborations explored how unexpected beauty can emerge from the concept of <i>flux</i> and used creative inquiring to turn flux science into stories and embodied experiences of nature’s resilience – transforming our relationship with environmental change and the often invisible processes that sustain life on Earth.
 
-Projects emerging from <i>flux</i>ART will be showcased from 22 January to 7 March 2026 at the Patricia Valian Reser Center for Creative Arts (PRAx) in the exhibition <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i>Currents: Experiments in Art-Science Collaboration</i></a>. Meet the artists and join us at PRAx on 22 January, 2026 for the opening celebration and <i>En Masse</i> musical performance. <a href="https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">Event info and ticketing</a>
+<i>flux</i>ART projects will be showcased from 22 January to 7 March 2026 at the Patricia Valian Reser Center for Creative Arts (PRAx) in the exhibition <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i>Currents: Experiments in Art-Science Collaboration</i></a>. Meet the artists and join us at PRAx on 22 January, 2026 for the opening celebration and <i>En Masse</i> musical performance. <a href="https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">Event info and ticketing</a>
 
 
 <figure style="text-align: center;">
