@@ -35,7 +35,7 @@ permalink: /artists/
 }
 </style>
 
-<i>flux</i><b>Art</b> is blending art and science to empower society to feel ecosystem dynamics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a> .
+<i>flux</i>ART is blending art and science to empower society to feel ecosystem dynamics and environmental change. For a period of one year, artists and scientists engage in collaborative inquiry and curiosity-driven exploration about <a href = "https://fluxnet.org/">FLUXNET</a> .
 
 
 <div class="row">
