@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Breathing as the Biosphere
-excerpt: Rosa Lewis and friends guide you in imaginal meditations and invite you to experience the ever-changing nature of ecosystems in flux.
+title: Breathing as the Biosphere Imaginal Journeys
+excerpt: Rosa Lewis and friends guide you to experience the ever-changing nature of ecosystems in flux and connect to a felt sense of wholeness.
 categories: projects
 ---
 
