@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 {% for post in site.posts %}
-{% if post.categories contains 'news' %}
+{% if post.categories contains 'projects' %}
 {% include post-grid.html %}
 {% endif %}
 {% endfor %}

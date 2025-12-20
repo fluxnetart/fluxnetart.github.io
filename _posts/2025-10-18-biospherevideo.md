@@ -2,7 +2,7 @@
 layout: post
 title: Breathing as the Biosphere Spotify & YouTube Channel
 excerpt: Rosa Lewis takes you on imaginal journeys to explore the ever-changing nature of ecosystems in flux.
-categories: news
+categories: projects
 ---
 
 

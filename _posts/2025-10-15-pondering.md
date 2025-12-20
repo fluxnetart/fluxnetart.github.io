@@ -2,7 +2,7 @@
 layout: post
 title: Pondering documents canopy across seasons
 excerpt: Julia Oldham visits the Deschutes National Forest every 2 to 4 weeks and takes slow-motion drone shots
-categories: news
+categories: projects
 ---
 
 “Pondering” (2025-) is an ongoing, 4-channel video documentation of a field research site in the Deschutes National Forest by  video artist <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a>. To create “Pondering,” she visits the site every 2 to 4 weeks and takes numerous slow-motion drone shots, filming from the ground to the canopy. She stitch together 4 of these shots from (approximately) each month to create a ongoing, vertically moving portrait of seasonal changes. Nestled among the ponderosa pines that she is filming is a research tower, Ameriflux US-Me4, that is equipped with remote sensing tools utilized by scientists at Oregon State University. Scientists routinely climb this tower to install and adjust devices and to gather data.
