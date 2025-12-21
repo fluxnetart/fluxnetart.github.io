@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pondering
-excerpt: Julia Oldham slow-motion drone shots invites us on a yearlong journey of shifting light, colors and foliage in the Deschutes National Forest in Oregon
+excerpt: Julia Oldham takes slow-motion drone shots and invites us on a yearlong journey of shifting light, colors and foliage in the Deschutes National Forest in Oregon
 categories: projects
 ---
 

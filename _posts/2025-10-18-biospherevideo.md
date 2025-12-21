@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breathing as the Biosphere Imaginal Journeys
-excerpt: Rosa Lewis and friends guide you to experience the ever-changing nature of ecosystems in flux and connect to a felt sense of wholeness.
+excerpt: Rosa Lewis and friends guide you in experiencing the ever-changing nature of ecosystems in flux and connecting to a felt sense of wholeness.
 categories: projects
 ---
 
@@ -10,7 +10,7 @@ What does it feel like to dissolve your experience into the fluxes, cycles and i
 
 <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> is a collection of imaginal meditations that invite you to dissolve your boundaries with the infinity of nature. By embodying the Biosphere's breath, you are guided to journey, feel, and reimagine your relationship with the living world. 
 
-This <i>flux</i>ART collaboration between artist <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> and research scientist <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni </a>is now available as a <a href = "https://open.spotify.com/show/1525pYDIu4DT1MLiY2pbVd">Spotify podcasy</a>, a <a href = "https://www.youtube.com/@BreathingastheBiosphere">Youtube channel</a>, and on the <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> website.
+This <i>flux</i>ART collaboration between artist <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> and research scientist <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni </a>is an ongoing project that you can follow on <a href = "https://open.spotify.com/show/1525pYDIu4DT1MLiY2pbVd">Spotify</a> and on the <a href = "https://biosphere-breath.github.io/">Breathing as the Biosphere</a> website. 
 
 Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, the embodied imaginal journeys seek to awaken a sense of interdependence, fundamental goodness and empowerment, even in the face of fear, ecosystem grief, or other challenging emotions. May you experience the awe, nourishment and love that arise from your interconnection with ecosystem energy, water, and carbon fluxes.
 
