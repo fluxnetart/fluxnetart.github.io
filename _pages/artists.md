@@ -48,7 +48,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating a multi-channel video installation that explores ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest USA. <b><a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating singel and multi-channel video installations that explore ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest USA. <b><a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and dissolve their boundaries with the infinity of nature in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of wholeness and fundamental goodness. <b><br><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and dissolve their boundaries with the infinity of nature in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of wholeness. <b><br><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
