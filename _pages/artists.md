@@ -91,7 +91,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and dissolve their boundaries with the infinity of nature in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of wholeness. <b><br><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and dissolve their boundaries with the infinity of nature in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of wholeness. <b><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
