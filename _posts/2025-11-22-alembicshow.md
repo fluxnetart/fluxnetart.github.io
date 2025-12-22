@@ -7,7 +7,7 @@ categories: news
 
 Come experience ecosystem fluxes and reimagine the infinite interconnections and transformation that sustain life on Earth, opening 19 October, 2025. The Berkeley Alembic hosted a special showcase featuring <i>flux</i>ART works-in-progress including:
 
-* <a href = "https://fluxnetart.github.io/orange/">September: Orange</a>, a video installation that explores ecological cycles through color data, offering a dynamic and expansive visual examination of changing landscapes marked by wildfires by <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a>.
+* <a href = "https://fluxnetart.github.io/orange/">September: Orange 8</a>, a video installation that explores ecological cycles through color data, offering a dynamic and expansive visual examination of changing landscapes marked by wildfires by <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a>.
 
 * <a href = "https://fluxnetart.github.io/Mandala/">Ecosystem mandalas</a>, data visualizations that represent the radiant giving and receiving of living soils and plants interacting with climate by <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni</a>.
 
