@@ -13,7 +13,7 @@ Come experience ecosystem fluxes and reimagine the infinite interconnections and
 
 * <a href = "https://fluxnetart.github.io/biospherevideo/"> Breathing as the Biosphere</a>, imaginal journeys and meditations that guide people into embodying ecosystem fluxes and dissolving their boundaries with the infinity of nature by <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> and firends.
 
-* <a href = "https://fluxnetart.github.io/alembicshow/">Avalokitesvara</a>, a visonary painting of the bodhisattva of compassion inspiring us to attune and listen to the world around us with our more that human ears by <a href = "https://transcendentbird.com/">Krisztina Lazar</a>a
+* <a href = "https://fluxnetart.github.io/alembicshow/">Avalokitesvara</a>, a visonary painting of the bodhisattva of compassion inspiring us to attune and listen to the world around us with our more that human ears by <a href = "https://transcendentbird.com/">Krisztina Lazar</a>
 
 
 <figure style="text-align: center;" >
