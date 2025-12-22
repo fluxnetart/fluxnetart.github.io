@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You’re invited to PRAx! Creative Curiosity x Flux Science
-excerpt: Come experience ecosystem fluxes and reimagine the infinite interconnections that sustain life on Earth @ PRAx, Corvallis OR, 22 January, 2026 
+excerpt: Meet the artists and join us for an opening celebration at the Patricia Valian Reser Center for Creative Arts (PRAx) on 22 January, 2026  
 categories: news
 ---
 
