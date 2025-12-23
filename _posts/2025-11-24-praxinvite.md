@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You’re invited to PRAx! Creative Curiosity x Flux Science
+title: You’re invited! Creative Curiosity x Flux Science
 excerpt: Meet the artists and join us for an opening celebration at the Patricia Valian Reser Center for Creative Arts (PRAx) on 22 January, 2026  
 categories: news
 ---
