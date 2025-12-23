@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recording sound inside of a tree
-excerpt: Artist Sara Bouchard visited the Rice Rivers Center to record the inside of a tree.
+excerpt: Artist Sara Bouchard visited the Rice Rivers Center to listen to and record the plant tissue that carries water and minerals from roots up through the stem and to the leaves.
 categories: news
 ---
 
