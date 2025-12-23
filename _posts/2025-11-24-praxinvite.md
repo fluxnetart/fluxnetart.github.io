@@ -13,9 +13,12 @@ This special evening will offer the opportunity to explore artworks from interna
 
 <strong>Currents: Experiments in Art-Science Collaboration: <a href="https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">event info and ticketing</a></strong>
 
+Contact maoya@berkeley.edu for more information
+
 <figure style="text-align: center;" >
   <img src="https://fluxnetart.github.io/images/praxinvite.png" style="max-height: 777px; height: auto;">
-  <figcaption>You’re invited! Creative Curiosity Meets Flux Science (22 January, 2026 @ PRAx). This event includes an evening opening reception, featuring several international art-science collaborations and a musical performances, as well as conversations with <a href = "https://fluxnetart.github.io/artists/">FLUXNET artists in residence</a>. Contact maoya@berkeley.edu for more information
+  <figcaption>You’re invited! Creative Curiosity Meets Flux Science (22 January, 2026 @ PRAx). This event includes an evening opening reception, featuring several international art-science collaborations and a musical performances, as well as conversations with <a href = "https://fluxnetart.github.io/artists/">FLUXNET artists in residence</a>. This program is supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and also made possible through a partnership with the Patricia Valian Reser Center for Creative Arts (PRAx). 
 </figcaption>
 </figure>
+
 
