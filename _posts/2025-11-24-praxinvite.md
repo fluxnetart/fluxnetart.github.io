@@ -16,7 +16,7 @@ This special evening will offer the opportunity to explore artworks from interna
 Contact maoya@berkeley.edu for more information
 
 <figure style="text-align: center;" >
-  <img src="https://fluxnetart.github.io/images/currents_flier.png" style="max-height: 555px; height: auto;">
+  <img src="https://fluxnetart.github.io/images/currents_flier.png" style="max-height: 777px; height: auto;">
   <figcaption>The <i>flux</i>ART program is supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and also made possible through a partnership with the Patricia Valian Reser Center for Creative Arts (PRAx). Image credits: Julia Oldham, Agnes Meyer-Brandis, Mallery Quetawki. 
 </figcaption>
 </figure>
