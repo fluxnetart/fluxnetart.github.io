@@ -13,7 +13,7 @@ This special event will offer the opportunity to explore artworks from internati
 
 <strong>Currents: Experiments in Art-Science Collaboration: <a href="https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">PRAx event info and ticketing</a></strong>
 
-<strong>Treebound: <a href = "https://events.oregonstate.edu/event/cffs-speaks-lecture-reception-with-timo-vesala">CFFS Speaks info and ticketing</a></strong>
+<strong>Treebound — Puuhunsidotut: <a href = "https://events.oregonstate.edu/event/cffs-speaks-lecture-reception-with-timo-vesala">CFFS Speaks info and ticketing</a></strong>
 
 <figure style="text-align: center;" >
   <img src="https://fluxnetart.github.io/images/currents_flier.png" style="max-height: 777px; height: auto;">
