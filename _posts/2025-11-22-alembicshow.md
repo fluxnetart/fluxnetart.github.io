@@ -9,7 +9,7 @@ Come experience ecosystem fluxes and reimagine the infinite interconnections and
 
 * <a href = "https://fluxnetart.github.io/orange/">September: Orange 8</a>, a video installation that explores ecological cycles through color data, offering a dynamic and expansive visual examination of changing landscapes marked by wildfires by <a href = "https://fluxnetart.github.io/Julia/">Julia Oldham</a>.
 
-* <a href = "https://fluxnetart.github.io/Mandala/">Ecosystem mandalas</a>, data visualizations that represent the radiant giving and receiving of living soils and plants interacting with climate by <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni</a>.
+* <a href = "https://fluxnetart.github.io/Mandala/">Ecosystem mandalas</a>, data visualizations that represent the radiant giving and receiving of breathing soils and plants interacting with climate by <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni</a>.
 
 * <a href = "https://fluxnetart.github.io/biospherevideo/"> Breathing as the Biosphere</a>, imaginal journeys and meditations that guide people into embodying ecosystem fluxes and dissolving their boundaries with the infinity of nature by <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> and friends.
 
