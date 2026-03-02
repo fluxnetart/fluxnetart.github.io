@@ -1,15 +1,15 @@
 ---
 layout: post
 title: You’re invited! Creative Curiosity x Flux Science
-excerpt: Meet the fluxART collaborations and join us for an opening celebration at the Patricia Valian Reser Center for Creative Arts (PRAx) on 22 January, 2026  
+excerpt: Meet the fluxART collaborators and join us for an opening celebration at the Patricia Valian Reser Center for Creative Arts (PRAx) on 22 January, 2026  
 categories: news
 ---
 
 Come experience ecosystem fluxes and reimagine the infinite interconnections that sustain life on Earth. Together we will explore how artistic inquiry can transform flux science and how scientific curiosity fosters artistic creativity. 
 
-Meet the <i>flux</i>ART collaborations and join us for an opening celebration at the <a href = "https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">Patricia Valian Reser Center for Creative Arts (PRAx)</a> on 22-23 January, 2026, Corvallis, OR. 
+Meet the <i>flux</i>ART collaborators and join us for an opening celebration of Currents at the <a href = "https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">Patricia Valian Reser Center for Creative Arts (PRAx)</a> on 22-23 January, 2026, Corvallis, OR. 
 
-This special event will offer the opportunity to explore artworks from international art-science programs including, the <a href = "https://fluxnetart.github.io/artists/"><i>flux</i>ART artists-in-residence cohort</a> from the global FLUXNET network, the <a href = "https://prax.oregonstate.edu/initiatives/ll-stewart-fellowship/2024-awardees">PRAx Collaborative Faculty Fellowship</a> from Oregon State University, <a href = "climatewhirl.fi/en">Climate Whirl</a> Art&Science Program and <a href = "https://www.periferia.helsinki.fi/">Periferia Forest Art Lab</a> from the University of Helsinki, Finland and <a href = "https://itoc.alaska.edu/">In a Time of Change</a> from the Bonanza Creek Long-Term Ecological Research Program, Alaska. The event will  feature talks from each program and a <i>flux</i>ART musical performance on 22 Januray at PRAx, as well as a cinematic lecture by Timo Vesala on 23 January at Center for the Future of Forests and Society (CFFS). 
+This special event will offer the opportunity to explore artworks from international art-science programs including, the <a href = "https://fluxnetart.github.io/artists/"><i>flux</i>ART artists-in-residence cohort</a> from the global FLUXNET network, the <a href = "https://prax.oregonstate.edu/initiatives/ll-stewart-fellowship/2024-awardees">PRAx Collaborative Faculty Fellowship</a> from Oregon State University, <a href = "climatewhirl.fi/en">Climate Whirl</a> Art&Science Program and <a href = "https://www.periferia.helsinki.fi/">Periferia Forest Art Lab</a> from the University of Helsinki, Finland and <a href = "https://itoc.alaska.edu/">In a Time of Change</a> incubator from the Bonanza Creek Long-Term Ecological Research Program, Alaska. The event will  feature talks from each program and a <i>flux</i>ART musical performance on 22 Januray at PRAx, as well as a cinematic lecture by Timo Vesala on 23 January at Center for the Future of Forests and Society (CFFS). 
 
 <strong>Currents: Experiments in Art-Science Collaboration: <a href="https://prax.oregonstate.edu/events/opening-celebration-currents-experiments-art-science-collaboration">PRAx event info and ticketing</a></strong>
 

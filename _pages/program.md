@@ -13,9 +13,9 @@ permalink: /program/
   gtag('config', 'G-BZ7FX1WQPT');
 </script>
 
-<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel ecosystem dynamics and environmental change.</b> For a period of one year, scientists and artists engage in collaborative inquiry and curiosity-driven exploration about FLUXNET.
+<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel ecosystem dynamics and environmental change.</b> For a period of one year, artists and scientists engaged in creative inquiry and curiosity-driven exploration about FLUXNET.
 
-This NSF-funded pilot artist in residence program is being offered for the first time in 2024-25. Projects emerging from <i>flux</i>ART collaborations are featured at the Patricia Valian Reser Center for the Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i> Currents</i> Exhibit</a>, 22 January - 7 March 2026 in Corvallis OR.
+This NSF-funded artist in residence program was offered for the first time in 2024-25 and <i>flux</i>ART projects were featured at the Patricia Valian Reser Center for the Creative Arts (<a href = "https://prax.oregonstate.edu/">PRAx</a>), <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i> Currents</i> Exhibit</a>, 22 January - 7 March 2026 in Corvallis OR.
 
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/metolius.JPG">
@@ -40,6 +40,8 @@ To break these barriers and reimagine transformative engagement with the public 
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/logos.png">
 </figure>
+
+<figcaption><br>The <i>flux</i>ART is made possible through the <a href = "https://fluxnet.org/">FLUXNET Community Coordination Project</a> supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and the U.S. Department of Agriculture (NIFA Award 2023-67012-40086).<br><br></figcaption>
 
 <div style="display: flex; align-items: center; justify-content: center; padding-top: 10px;">
     <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">

@@ -6,7 +6,7 @@ layout: default
 
  In a yearlong residency, artists engaged with FLUXNET scientists, global data, and the ecosystems they study, exploring how unexpected beauty can emerge from the concept of <i>flux</i>. Using creative inquiry, <i>flux</i>ART turned flux science into stories and embodied experiences of nature’s resilience – transforming our relationship with environmental change and the invisible processes that sustain life on Earth.
 
-<i>flux</i>ART projects are showcased in <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i>Currents: Experiments in Art-Science Collaboration</i></a> from 22 January to 7 March 2026 at the Patricia Valian Reser Center for Creative Arts (PRAx). 
+<i>flux</i>ART was showcased in <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i>Currents: Experiments in Art-Science Collaboration</i></a> from 22 January to 7 March 2026 at the Patricia Valian Reser Center for Creative Arts (PRAx). 
 
 
 <figure style="text-align: center;">
