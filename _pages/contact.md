@@ -80,7 +80,12 @@ permalink: /contact/
 </div>
 
 <div class="row">
-  <p><strong>Partners</strong><br><br></p>
+  <div class="column-image">
+    <p><strong>Partners</strong><br><br></p>
+  </div>
+</div>
+
+<div class="row">
   <div class="column-image">
     <figure>
       <img src="https://fluxnetart.github.io/images/Carly.jpg">
