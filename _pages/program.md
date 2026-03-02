@@ -25,7 +25,7 @@ This NSF-funded artist in residence program was offered for the first time in 20
 
 <h4>What is FLUXNET?</h4>
 
-Our understanding of climate change depends on our understanding of ecosystem fluxes—how things like carbon, water, and energy move between the biosphere and the atmosphere. These fluxes are regulated by ecosystem processes including turbulent transport of mass and energy, evapotranspiration, photosynthesis and soil respiration, and are also affected by human activities and natural disturbances.
+Our understanding of climate change depends on our understanding of ecosystem fluxes—how carbon, water, and energy move between the biosphere and the atmosphere. These fluxes are regulated by ecosystem processes including turbulent transport of mass and energy, evapotranspiration, photosynthesis and soil respiration, and are also affected by human activities and natural disturbances.
 
 Scientists around the world have set up nearly 1,000 towers instrumented to constantly collect data about carbon, water, and energy fluxes – they are observing how the biosphere breathes. The key measurement technique used to collect these flux data is called <a href = "https://www.youtube.com/watch?v=CR4Anc8Mkas">eddy covariance</a>. It is the gold standard to measure total fluxes at the ecosystem scale without probing every plant and inch of soil on the landscape. All of this data is shared through a global ‘network of networks’ called <a href = "https://fluxnet.org/">FLUXNET</a> with a mission to facilitate collaboration and data sharing.
 
@@ -33,9 +33,9 @@ Scientists around the world have set up nearly 1,000 towers instrumented to cons
 
 <h4>Why <i>flux</i>ART?</h4>
 
-The complex nature of our planet’s future and the uncertainties it carries, offers opportunities for us to promote climate action and nurture healthy ecosystems. The bridge between the scientific achievements necessary for these goals and actual global change is constructed by our collective imagination and calls for collective healing. This includes how scientists, artists, and the public reimagining and relate to the biosphere and experience Earth system science. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
+The bridge between scientific advances, healthy ecosystems, and climate action is constructed through our collective imagination and calls for collective healing. This includes how scientists, artists, and the public reimagining and relate to the complexities and uncertainties of the biosphere and experience Earth system science. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
 
-To break these barriers and transform climate imaginaries and environmental futures, we are piloting <i>flux</i>ART, an artist in residency program. This novel initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
+To break these barriers and transform climate imaginaries and environmental futures, the <i>flux</i>ART, initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
 
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/logos.png">
