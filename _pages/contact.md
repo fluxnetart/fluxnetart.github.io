@@ -57,6 +57,31 @@ permalink: /contact/
 <div class="row">
   <div class="column-image">
     <figure>
+      <img src="https://fluxnetart.github.io/images/Kyle.png">
+    </figure>
+  </div>
+  <div class="column-caption">
+    <figcaption><b>Kyle Delwiche</b><br>
+      Deputy Director, FLUXNET Community Council, UC Berkeley<br>
+      kdelwiche@berkeley.edu<br></figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column-image">
+    <figure>
+      <img src="https://fluxnetart.github.io/images/emma_robert.png">
+    </figure>
+  </div>
+  <div class="column-caption">
+    <figcaption><b>Emma Reich</b> and <b>Robert Shortt</b> <br>
+                   FLUXNET Outreach Working Group</figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column-image">
+    <figure>
       <img src="https://fluxnetart.github.io/images/Carly.jpg">
     </figure>
   </div>
@@ -81,30 +106,6 @@ permalink: /contact/
   </div>
 </div>
 
-<div class="row">
-  <div class="column-image">
-    <figure>
-      <img src="https://fluxnetart.github.io/images/Kyle.png">
-    </figure>
-  </div>
-  <div class="column-caption">
-    <figcaption><b>Kyle Delwiche</b><br>
-      Deputy Director, FLUXNET Community Council, UC Berkeley<br>
-      kdelwiche@berkeley.edu<br></figcaption>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column-image">
-    <figure>
-      <img src="https://fluxnetart.github.io/images/emma_robert.png">
-    </figure>
-  </div>
-  <div class="column-caption">
-    <figcaption><b>Emma Reich</b> and <b>Robert Shortt</b> <br>
-                   FLUXNET Outreach Working Group</figcaption>
-  </div>
-</div>
 
 <div style="display: flex; align-items: center; justify-content: center; padding-top: 10px;">
     <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">
