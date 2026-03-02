@@ -74,12 +74,13 @@ permalink: /contact/
     </figure>
   </div>
   <div class="column-caption">
-    <figcaption><b>Emma Reich</b> and <b>Robert Shortt</b> <br>
-                   FLUXNET Outreach Working Group</figcaption>
+    <figcaption><b>Emma Reich</b>, <b>Robert Shortt</b>, and others from <br>
+                   the FLUXNET Outreach Working Group</figcaption>
   </div>
 </div>
 
 <div class="row">
+  <p><strong>Partners</strong></p>
   <div class="column-image">
     <figure>
       <img src="https://fluxnetart.github.io/images/Carly.jpg">
@@ -88,8 +89,7 @@ permalink: /contact/
   <div class="column-caption">
     <figcaption><b>Carly Lettero</b><br>
       Associate Director of Arts, Science, Humanities, and Technology Integration, PRAx<br>
-      Program Manager, Spring Creek Project<br>
-      carly.lettero@oregonstate.edu</figcaption>
+      Program Manager, Spring Creek Project</figcaption>
   </div>
 </div>
 
@@ -101,8 +101,7 @@ permalink: /contact/
   </div>
   <div class="column-caption">
     <figcaption><b>Ashley Stull Meyers</b><br>
-      Horning Chief Curator of Art, Science, and Technology, PRAx<br>
-      ashley.stullmeyers@oregonstate.edu</figcaption>
+      Horning Chief Curator of Art, Science, and Technology, PRAx</figcaption>
   </div>
 </div>
 
