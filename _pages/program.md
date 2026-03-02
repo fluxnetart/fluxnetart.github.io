@@ -35,10 +35,10 @@ Scientists around the world have set up nearly 1,000 towers instrumented to cons
 
 The bridge between scientific advances, healthy ecosystems, and climate action is constructed through our collective imagination and calls for collective healing. This includes how scientists, artists, and the public reimagining and relate to the complexities and uncertainties of the biosphere and experience Earth system science. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
 
-To break these barriers and transform climate imaginaries and environmental futures, the <i>flux</i>ART, initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s imagination and to strengthen communication between academics and society toward more actionable research. 
+To break these barriers and transform climate imaginaries and environmental futures, the <i>flux</i>ART, initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s experience and to strengthen communication between academics and society toward more actionable research. 
 
 <figure style="text-align: center;">
-  <img src="https://fluxnetart.github.io/images/logos.png">
+  <img src="https://fluxnetart.github.io/images/logo_3.png">
 </figure>
 
 <figcaption><br>The <i>flux</i>ART is made possible through the <a href = "https://fluxnet.org/">FLUXNET Community Coordination Project</a> supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and the U.S. Department of Agriculture (NIFA Award 2023-67012-40086).<br><br></figcaption>
