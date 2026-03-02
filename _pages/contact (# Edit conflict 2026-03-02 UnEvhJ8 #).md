@@ -75,7 +75,7 @@ permalink: /contact/
   </div>
   <div class="column-caption">
     <figcaption><b>Emma Reich</b>, <b>Robert Shortt</b>, and others from <br>
-                   the FLUXNET <a href = "https://fluxnet.org/community/fluxnet-working-groups/outreach-committee/">Outreach Working Group</a></figcaption>
+                   the FLUXNET Outreach Working Group</figcaption>
   </div>
 </div>
 
