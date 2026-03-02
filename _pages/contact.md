@@ -81,7 +81,7 @@ permalink: /contact/
 
 <div class="row">
   <div class="column-image">
-    <p><strong>Partners</strong><br><br></p>
+    <p><strong>Partners</strong></p>
   </div>
 </div>
 
