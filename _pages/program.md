@@ -22,6 +22,11 @@ This NSF-funded artist in residence program was offered for the first time in 20
   <figcaption>image by Alexander Irving</figcaption>
 </figure>
 
+<h4>Why <i>flux</i>ART?</h4>
+
+The bridge between scientific advances, healthy ecosystems, and climate action is constructed through our collective imagination and calls for collective healing. This includes how scientists, artists, and the public experience Earth system science to reimagine and relate to the complexities and uncertainties of the biosphere. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
+
+To break these barriers and transform climate imaginaries and environmental futures, the <i>flux</i>ART, initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s experience and to strengthen communication between academics and society toward more actionable research. 
 
 <h4>What is FLUXNET?</h4>
 
@@ -30,12 +35,6 @@ Our understanding of climate change depends on our understanding of ecosystem fl
 Scientists around the world have set up nearly 1,000 towers instrumented to constantly collect data about carbon, water, and energy fluxes – they are observing how the biosphere breathes. The key measurement technique used to collect these flux data is called <a href = "https://www.youtube.com/watch?v=CR4Anc8Mkas">eddy covariance</a>. It is the gold standard to measure total fluxes at the ecosystem scale without probing every plant and inch of soil on the landscape. All of this data is shared through a global ‘network of networks’ called <a href = "https://fluxnet.org/">FLUXNET</a> with a mission to facilitate collaboration and data sharing.
 
 <a href = "https://fluxnet.org/">FLUXNET</a> is much more than its datasets. It is a scientific community dedicated to understanding and communicating how ecosystems function and how Earth systems are changing. Having flux data in one place allows scientists to do big-picture thinking about climate change and develop models. Scientists also partner and engage with stakeholders to address applied environmental challenges with more local societal benefits. <a href = "https://fluxnet.org/">FLUXNET</a> data and models are used for scientific discoveries and to inform local and international ecosystem management efforts, including climate change adaptation and mitigation strategies.
-
-<h4>Why <i>flux</i>ART?</h4>
-
-The bridge between scientific advances, healthy ecosystems, and climate action is constructed through our collective imagination and calls for collective healing. This includes how scientists, artists, and the public reimagining and relate to the complexities and uncertainties of the biosphere and experience Earth system science. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
-
-To break these barriers and transform climate imaginaries and environmental futures, the <i>flux</i>ART, initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s experience and to strengthen communication between academics and society toward more actionable research. 
 
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/logo_3.png">
