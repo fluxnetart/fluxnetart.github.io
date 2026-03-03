@@ -16,9 +16,7 @@ Using the metaphors of the biosphere’s breath as imaginal doorways into the de
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/episode/0u3D3jrKchzARlzXWY9cCE?utm_source=generator" width="100%" height="352"  frameBorder="0" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-The project features selected guided meditations and imaginal journeys developed collaboratively and iteratively through conversations and experimentations between creative, contemplative practitioners and ecosystem scientists, exploring at each step areas of overlap between Buddha Nature and Earth system processes in flux as imaginal somatic experiences, individually as well as in collective attunement.
-
-The collection of guided meditations offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace. The Breathing as the Biosphere< collaboration is an ongoing project that you can follow on <a href = "https://open.spotify.com/show/1525pYDIu4DT1MLiY2pbVd">Spotify</a> and on the Breathing as the Biosphere <a href = "https://biosphere-breath.github.io/">website</a>. 
+This project is an ongoing collaboration that you can follow on <a href = "https://open.spotify.com/show/1525pYDIu4DT1MLiY2pbVd">Spotify</a> and on the Breathing as the Biosphere <a href = "https://biosphere-breath.github.io/">website</a>. The featured guided meditations and imaginal journeys were developed collaboratively and iteratively through conversations and experimentations between creative, contemplative practitioners and ecosystem scientists, exploring at each step areas of overlap between Buddha Nature and Earth system processes in flux as imaginal somatic experiences, individually as well as in collective attunement. The collection offer insights into how directly experiencing and embracing the ever-changing nature of ecosystems can create a sense of belonging and peace.  
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe src="https://www.youtube.com/embed/X8M-ON_j5Po"
