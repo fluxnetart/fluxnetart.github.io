@@ -48,7 +48,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Julia Oldham</b> (Eugene, OR) is creating singel and multi-channel video installations that explore ecological cycles through color data using a range of lens-based technologies in collaboration with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest USA. <b><a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Julia Oldham</b> (Eugene, OR) created single and multi-channel video installations that explore ecological cycles through color data using a range of lens-based technologies in partnership with <b>Chris Still</b> (Oregon State University). By transforming scientific imagery and field data into immersive experiences, Julia’s artwork offers a dynamic and expansive visual examination of changing landscapes in the Pacific Northwest USA. <b><a href="https://fluxnetart.github.io/Julia/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -62,7 +62,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) is creating paintings and ceramic works using natural pigments and materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in collaboration with <b> Marcy Litvak</b> (University of New Mexico). By integrating scientific data patterns and Indigenous knowledge, Mallery's art conveys ecological and cultural stories of dryland ecosystems. <b><a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) created paintings and ceramic works using natural pigments and materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in partnership with <b> Marcy Litvak</b> (University of New Mexico). By integrating scientific data patterns and Indigenous knowledge, Mallery's art conveys ecological and cultural stories of dryland ecosystems. <b><a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Sara Bouchard</b> (Richmond, VA) is creating an electroacoustic composition for 12-voice choir and percussion which explores the role of community and networks in locating one’s own voice within a shifting landscape in collaboration with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecosystem science with personal and collective experiences of climate change, interweaving musical performance, field recordings, crowd-sourced text, and flux data. <b><a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Sara Bouchard</b> (Richmond, VA) created an electroacoustic composition for 12-voice choir and percussion which explores the role of community and networks in locating one’s own voice within a shifting landscape in partnership with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecosystem science with personal and collective experiences of climate change, interweaving musical performance, field recordings, crowd-sourced text, and flux data. <b><a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) is creating imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and dissolve their boundaries with the infinity of nature in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of wholeness. <b><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) created imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and dissolve their boundaries with the infinity of nature in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways into the depths of experience, Rosa’s artwork helps people connect to a sense of wholeness. <b><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -105,7 +105,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) is creating an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in collaboration with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers a kind of mirror of nature’s varied forms of life and invites us to deepen our experience of interdependence in nature. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) created an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers a kind of mirror of nature’s varied forms of life and invites us to deepen our experience of interdependence in nature. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
 
 
   </div>
