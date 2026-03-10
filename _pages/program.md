@@ -24,9 +24,9 @@ This NSF-funded artist in residence program was offered for the first time in 20
 
 <h4>Why <i>flux</i>ART?</h4>
 
-The bridge between scientific advances, healthy ecosystems, and climate action is constructed through our collective imagination and calls for collective healing. This includes how scientists, artists, and the public experience Earth system science to reimagine and relate to the complexities and uncertainties of the biosphere. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
+The bridge between scientific advances, healthy ecosystems, and climate action is constructed through our collective imagination and calls for collective healing. This includes how scientists, artists, and the public experience Earth system science and relate to the complexities and uncertainties of the biosphere. While both scientists and artists share a creative curiosity to observe and interpret how the world works, scientific outreach efforts often fail to lead society to fully feel and understand environmental change in a way that is empowering. This in turn limits the segment of the population that is inspired by science and driven to contribute to sustainable futures.
 
-To break these barriers and transform climate imaginaries and environmental futures, the <i>flux</i>ART, initiative aims to contemplate this biosphere’s breath, both to illuminate flux science in the general public’s experience and to strengthen communication between academics and society toward more actionable research. 
+To break these barriers and transform climate imaginaries and environmental futures, the <i>flux</i>ART, initiative aims to contemplate this biosphere’s breath and reimagine our relationship with environmental change – both to illuminate flux science in the general public’s experience and to strengthen communication between academics and society toward more actionable research. 
 
 <h4>What is FLUXNET?</h4>
 
