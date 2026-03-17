@@ -62,7 +62,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) created paintings and ceramic works using natural pigments and plant materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in partnership with <b>Marcy Litvak</b> (University of New Mexico). By integrating scientific data patterns and Indigenous knowledge, Mallery's art combines ecological and cultural stories, portraying the dance between dryland ecosystems and people as they breathe to balance and sustain one another.  <b><a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) created paintings and ceramic works using natural pigments and plant materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in partnership with <b>Marcy Litvak</b> (University of New Mexico). By integrating scientific data patterns and Indigenous knowledge, Mallery's art combines ecological and cultural stories, portraying the dance between dryland ecosystems and people as they breathe to balance and sustain one another. <b><a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Sara Bouchard</b> (Richmond, VA) created an electroacoustic composition for 12-voice choir and percussion, which navigates the threads of interconnection among individuals, communities and ecosystems and promotes a culture of care amidst the climate crisis in partnership with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecological concepts with themes of ritual and incorporates field recordings, crowd-sourced text and scientific data into the musical score.<b><a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Sara Bouchard</b> (Richmond, VA) created an electroacoustic composition for 12-voice choir and percussion, which navigates the threads of interconnection among individuals, communities and ecosystems and promotes a culture of care amidst the climate crisis in partnership with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecological concepts with themes of ritual and incorporates field recordings, crowd-sourced text and scientific data into the musical score. <b><a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) created imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and experience interdependent ecological processes found in nature in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways to look at the full spectrum of experience, Rosa’s artwork helps people connect to a sense of wholeness<b><a href="https://fluxnetart.github.io/Rosa/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) created imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and experience interdependent ecological processes found in nature in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways to look at the full spectrum of experience, Rosa’s artwork helps people connect to a sense of wholeness<b><a href="https://fluxnetart.github.io/Rosa/"> (see more ...)</a></b></figcaption>
   </div>
 </div>
 
