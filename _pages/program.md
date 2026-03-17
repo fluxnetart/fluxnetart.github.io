@@ -13,9 +13,14 @@ permalink: /program/
   gtag('config', 'G-BZ7FX1WQPT');
 </script>
 
-<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel ecosystem dynamics and environmental change.</b> For a period of one year, artists and scientists engaged in creative inquiry and curiosity-driven exploration about FLUXNET.
+<b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel Earth system dynamics.</b>
 
-This NSF-funded artist in residence program was offered for the first time in 2024-25 and <i>flux</i>ART projects were featured in the <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i> Currents</i> Exhibit</a> at the Patricia Valian Reser Center for the Creative Arts (PRAx), 22 January - 7 March 2026.
+<i>flux</i>ART is a NSF-funded artist in residence program, offered for the first time in 2024-25 and projects were featured in the <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i> Currents</i> Exhibit</a> at the Patricia Valian Reser Center for the Creative Arts (PRAx), 22 January - 7 March 2026. 
+
+In a yearlong residency, <i>flux</i>ART invited artists to engage with FLUXNET scientists, the ecosystems they study, and the datasets offered by the global network, revealing how unexpected beauty can emerge from the concept of flux and transform our relationship with environmental change.
+
+Using creative inquiry and curiosity-driven exploration, they explored climate change, drought and fire disturbances, the renewing rhythms of landscapes, and the often invisible processes that sustain life on Earth – turning flux science into stories and embodied experiences of nature’s resilience.
+
 
 <figure style="text-align: center;">
   <img src="https://fluxnetart.github.io/images/metolius.JPG">
