@@ -62,7 +62,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) created paintings and ceramic works using natural pigments and materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in partnership with <b> Marcy Litvak</b> (University of New Mexico). By integrating scientific data patterns and Indigenous knowledge, Mallery's art conveys ecological and cultural stories of dryland ecosystems. <b><a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Mallery Quetawki</b> (Pueblo of Zuni, NM) created paintings and ceramic works using natural pigments and plant materials collected traditionally from flux tower sites in the Sevilleta National Wildlife Refuge in partnership with <b>Marcy Litvak</b> (University of New Mexico). By integrating scientific data patterns and Indigenous knowledge, Mallery's art combines ecological and cultural stories, portraying the dance between dryland ecosystems and people as they breathe to balance and sustain one another.  <b><a href="https://fluxnetart.github.io/Mallery/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Sara Bouchard</b> (Richmond, VA) created an electroacoustic composition for 12-voice choir and percussion which explores the role of community and networks in locating one’s own voice within a shifting landscape in partnership with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecosystem science with personal and collective experiences of climate change, interweaving musical performance, field recordings, crowd-sourced text, and flux data. <b><a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></b></figcaption>
+    <figcaption><b>Sara Bouchard</b> (Richmond, VA) created an electroacoustic composition for 12-voice choir and percussion, which navigates the threads of interconnection among individuals, communities and ecosystems and promotes a culture of care amidst the climate crisis in partnership with <b>Chris Gough</b> (Virginia Commonwealth University). Using the carbon cycle as a framework, Sara’s artwork bridges ecological concepts with themes of ritual and incorporates field recordings, crowd-sourced text and scientific data into the musical score.<b><a href="https://fluxnetart.github.io/Sara/">(see more ...)</a></b></figcaption>
   </div>
 </div>
 
