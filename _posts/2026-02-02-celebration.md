@@ -13,17 +13,19 @@ Artists and FLUXNET scientists gathered in Corvallis, OR 21-23 January, 2026 to 
 <img src="https://fluxnetart.github.io/images/group_me4.png" style="max-height: 777px; height: auto;">
 </figure>
 
-Events included a field visit led by scientist Chad Hanson (Oregon State University) to the Metolius old aged ponderosa pine Ameriflux tower (US-Me4), a key research site where artist Julia Oldham collected field recordings and drone imagery during her residency, particularly for her 4-chanel video project <a href = "https://fluxnetart.github.io/pondering/">Pondering</a>. 
+Events kicked off with a field visit led by scientist Chad Hanson (Oregon State University) to the Metolius old aged ponderosa pine Ameriflux tower (US-Me4), a key research site where artist Julia Oldham collected field recordings and drone imagery during her residency, particularly for her 4-chanel video project <a href = "https://fluxnetart.github.io/pondering/">Pondering</a>. 
 
-Prof. Timo Vesala (University of Helsinki) gave a visual lecture weaving together personal anecdotes and reflections with film excerpts at the Center for the Future of Forests and Society. <a href = "https://events.oregonstate.edu/event/cffs-speaks-lecture-reception-with-timo-vesala">Treebound – Puuhunsidotut</a> explores the life of trees and their relationship to humans as Timo tries to find answers to pressing environmental, social, and economic questions about forests through cinematography.
+
+Prof. Timo Vesala (University of Helsinki) gave a visual lecture weaving together personal anecdotes and reflections with film excerpts at the Center for the Future of Forests and Society on 23 January. <a href = "https://events.oregonstate.edu/event/cffs-speaks-lecture-reception-with-timo-vesala">Treebound – Puuhunsidotut</a> explores the life of trees and their relationship to humans as Timo tries to find answers to pressing environmental, social, and economic questions about forests through cinematography.
 
 <figure style="text-align: center;" >
 <img src="https://fluxnetart.github.io/images/julia_sara_ensemble.png" style="max-height: 777px; height: auto;">
 </figure>
 
+Julia Oldham’s immersive audiovisual installation <a href = "https://fluxnetart.github.io/orange/">September: Orange</a> was on view in the Black Box Ray Theater 5 - 24 January, 2026, inviting visitors on a journey through PhenoCam timelapses across 24 sites increasingly marked by wildfire. 
+
 The premiere of Sara Bouchard’s electroacoustic composition <a href = "https://news.vcu.edu/article/2026/03/vcuarts-professor-gives-voice-to-a-single-atoms-journey"><i>En Masse</i></a> was performed on 22 January, 2026 by the Oregon State Vocal Ensemble and Parker Williams in Detrick Concert Hall. Sara’s piece sings the carbon cycle, from air, wood, soil, fire, sonifying rising atmospheric CO2 data and dissolving climate anxiety into shared breath. 
 
-Julia Oldham’s immersive audiovisual installation <a href = "https://fluxnetart.github.io/orange/">September: Orange</a> was on view in the Black Box Ray Theater 5 - 24 January, 2026, inviting visitors on a journey through PhenoCam timelapses across 24 sites increasingly marked by wildfire. 
 
 <figure style="text-align: center;" >
 <img src="https://fluxnetart.github.io/images/currents.png" style="max-height: 777px; height: auto;">
