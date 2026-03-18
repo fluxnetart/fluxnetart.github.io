@@ -5,15 +5,15 @@ excerpt: Artworks from the 2024-25 fluxART cohort were brought to life at Patric
 categories: news
 ---
 
-After a yearlong residency exploring climate change, drought and fire disturbances, the renewing rhythms of landscapes, and the often invisible processes that sustain life on Earth, <i>flux</i>ART was brought to life at the Patricia Valian Reser Center for the Creative Arts (PRAx).
+After a yearlong residency exploring climate change, drought and fire disturbances, the renewing rhythms of landscapes, and the often invisible processes that sustain life on Earth, <i>flux</i>ART was brought to life at Oregon State University's Patricia Valian Reser Center for the Creative Arts (PRAx).
 
-Artists and FLUXNET scientists gathered in Corvallis OR 21-23 January, 2026 to celebrate <i>flux</i>ART, drawing several hundreds of visitors to experience their work on the opening evening of PRAx’s exhibition <a href ="https://prax.oregonstate.edu/visual-arts/past-exhibitions/currents-experiments-art-science-collaboration">Currents: Experiments in Art-Science Collaboration</a>. The gallery featured ten international artists, five of which engaged with FLUXNET research and scientists via the <a href = "https://fluxnetart.github.io/"><i>flux</i>ART</a> residency directed by Maoya Bassiouni as well as <a href = "http://climatewhirl.fi/en">Climate Whirl</a> Art&Science Program and <a href = "https://www.periferia.helsinki.fi/">Periferia Forest Art Lab</a> curated by Ulla Taipale. 
+Artists and FLUXNET scientists gathered in Corvallis, OR 21-23 January, 2026 to celebrate <i>flux</i>ART, drawing several hundreds of visitors to experience their work on the opening evening of PRAx’s exhibition <a href ="https://prax.oregonstate.edu/visual-arts/past-exhibitions/currents-experiments-art-science-collaboration">Currents: Experiments in Art-Science Collaboration</a>. The gallery featured ten international artists, five of which engaged with FLUXNET research and scientists via the <a href = "https://fluxnetart.github.io/"><i>flux</i>ART</a> residency directed by Maoya Bassiouni as well as <a href = "http://climatewhirl.fi/en">Climate Whirl</a> Art&Science Program and <a href = "https://www.periferia.helsinki.fi/">Periferia Forest Art Lab</a> curated by Ulla Taipale. 
 
 <figure style="text-align: center;" >
 <img src="https://fluxnetart.github.io/images/group_me4.png" style="max-height: 777px; height: auto;">
 </figure>
 
-Events included a field visit led by Chad Hanson (Oregon State University) to the Metolius old aged ponderosa pine core Ameriflux site (US-Me4). Special guest from the University of Helsinki, Timo Vesala gave a cinematic lecture, <a href = "https://events.oregonstate.edu/event/cffs-speaks-lecture-reception-with-timo-vesala">Treebound – Puuhunsidotut</a>, that explores the life of trees and their relationship to humans at the Center for the Future of Forests and Society.
+Events included a field visit led by Chad Hanson to the Metolius old aged ponderosa pine core Ameriflux site (US-Me4). Special guest from the University of Helsinki, Timo Vesala gave a cinematic lecture, <a href = "https://events.oregonstate.edu/event/cffs-speaks-lecture-reception-with-timo-vesala">Treebound – Puuhunsidotut</a>, that explores the life of trees and their relationship to humans at the Center for the Future of Forests and Society.
 
 <figure style="text-align: center;" >
 <img src="https://fluxnetart.github.io/images/julia_sara_ensemble.png" style="max-height: 777px; height: auto;">
