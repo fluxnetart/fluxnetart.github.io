@@ -21,7 +21,9 @@ Prof. Timo Vesala (University of Helsinki) gave a visual lecture weaving togethe
 <img src="https://fluxnetart.github.io/images/julia_sara_ensemble.png" style="max-height: 777px; height: auto;">
 </figure>
 
-The premiere of Sara Bouchard’s electroacoustic composition <a href = "https://news.vcu.edu/article/2026/03/vcuarts-professor-gives-voice-to-a-single-atoms-journey"><i>En Masse</i></a> was performed on 22 Jan, 2026 by the Oregon State Vocal Ensemble and Parker Williams in Detrick Concert Hall. Sara’s piece sings the carbon cycle, from air, wood, soil, fire, sonifying rising atmospheric CO2 data and dissolving climate anxiety into shared breath. Julia Oldham’s immersive audiovisual installation <a href = "https://fluxnetart.github.io/orange/">September: Orange</a> was on view in the black box Ray Theater 5 - 24 January, 2026, inviting visitors on a journey through PhenoCam timelapses across 24 sites increasingly marked by wildfire. 
+The premiere of Sara Bouchard’s electroacoustic composition <a href = "https://news.vcu.edu/article/2026/03/vcuarts-professor-gives-voice-to-a-single-atoms-journey"><i>En Masse</i></a> was performed on 22 Jan, 2026 by the Oregon State Vocal Ensemble and Parker Williams in Detrick Concert Hall. Sara’s piece sings the carbon cycle, from air, wood, soil, fire, sonifying rising atmospheric CO2 data and dissolving climate anxiety into shared breath. 
+
+Julia Oldham’s immersive audiovisual installation <a href = "https://fluxnetart.github.io/orange/">September: Orange</a> was on view in the black box Ray Theater 5 - 24 January, 2026, inviting visitors on a journey through PhenoCam timelapses across 24 sites increasingly marked by wildfire. 
 
 <figure style="text-align: center;" >
 <img src="https://fluxnetart.github.io/images/currents.png" style="max-height: 777px; height: auto;">
