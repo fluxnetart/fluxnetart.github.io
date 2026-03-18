@@ -13,7 +13,7 @@ Artists and FLUXNET scientists gathered in Corvallis, OR 21-23 January, 2026 to 
 <img src="https://fluxnetart.github.io/images/group_me4.png" style="max-height: 777px; height: auto;">
 </figure>
 
-Events kicked off with a field visit led by scientist Chad Hanson (Oregon State University) to the Metolius old aged ponderosa pine Ameriflux tower (US-Me4), a key research site where artist Julia Oldham collected field recordings and drone imagery during her residency, particularly for her 4-chanel video project <a href = "https://fluxnetart.github.io/pondering/">Pondering</a>. 
+Events kicked off with a field visit led by scientist Chad Hanson (Oregon State University) to the Metolius old aged ponderosa pine Ameriflux tower (US-Me4), a key research site where artist Julia Oldham collected field recordings and drone imagery during her residency, particularly for her 4-channel video project <a href = "https://fluxnetart.github.io/pondering/">Pondering</a>. 
 
 
 Prof. Timo Vesala (University of Helsinki) gave a visual lecture weaving together personal anecdotes and reflections with film excerpts at the Center for the Future of Forests and Society on 23 January. <a href = "https://events.oregonstate.edu/event/cffs-speaks-lecture-reception-with-timo-vesala">Treebound – Puuhunsidotut</a> explores the life of trees and their relationship to humans as Timo tries to find answers to pressing environmental, social, and economic questions about forests through cinematography.
