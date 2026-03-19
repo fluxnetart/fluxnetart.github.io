@@ -15,7 +15,7 @@ permalink: /program/
 
 <b><a href = "https://fluxnet.org/">FLUXNET</a> is blending art and science to empower society to feel Earth system dynamics.</b>
 
-<i>flux</i>ART is a NSF-funded artist in residence program, offered for the first time in 2024-25 and projects were featured in the <a href = "https://prax.oregonstate.edu/visual-arts/currents-experiments-art-science-collaboration"><i> Currents</i> Exhibit</a> at the Patricia Valian Reser Center for the Creative Arts (PRAx), 22 January - 7 March 2026. 
+<i>flux</i>ART is a NSF-funded artist in residence program, offered for the first time in 2024-25 and projects were featured in the <a href = "https://fluxnetart.github.io/celebration/"><i> Currents</i> Exhibit</a> at the Patricia Valian Reser Center for the Creative Arts (PRAx), 22 January - 7 March 2026. 
 
 In a yearlong residency, <i>flux</i>ART invited artists to engage with FLUXNET scientists, the ecosystems they study, and the datasets offered by the global network, revealing how unexpected beauty can emerge from the concept of flux and transform our relationship with environmental change.
 
