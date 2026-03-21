@@ -14,7 +14,7 @@ layout: default
 </figure>
 
 
-<figcaption><br>The <i>flux</i>ART is made possible through the <a href = "https://fluxnet.org/">FLUXNET Community Coordination Project</a> supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and the U.S. Department of Agriculture (NIFA Award 2023-67012-40086).<br><br></figcaption>
+<figcaption><br><i>flux</i>ART is made possible through the <a href = "https://fluxnet.org/">FLUXNET Community Coordination Project</a> supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) and the U.S. Department of Agriculture (NIFA Award 2023-67012-40086).<br><br></figcaption>
 
 <div style="display: flex; align-items: center; justify-content: center; padding-top: 10px;">
     <img src="https://fluxnetart.github.io/images/insta.png" style="margin-right: 10px;">
