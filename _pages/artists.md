@@ -91,7 +91,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) created imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and experience interdependent ecological processes found in nature in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways to look at the full spectrum of experience, Rosa’s artwork helps people connect to a sense of wholeness<b><a href="https://fluxnetart.github.io/Rosa/"> (see more ...)</a></b></figcaption>
+    <figcaption><b>Rosa Lewis</b> (Amsterdam, NL) created imaginal meditations and a video mandala that invite people to embody ecosystem fluxes and experience interdependent ecological processes in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). Using the metaphors of the biosphere’s breath as imaginal doorways to look at the full spectrum of experience, Rosa’s artwork invite people connect to a sense of wholeness<b><a href="https://fluxnetart.github.io/Rosa/"> (see more ...)</a></b></figcaption>
   </div>
 </div>
 
@@ -105,7 +105,7 @@ permalink: /artists/
   </div>
 
   <div class="column">
-    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) created an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers a kind of mirror of nature’s varied forms of life and invites us to deepen our experience of interdependence in nature. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
+    <figcaption><b>David Glowacki</b> (Santiago de Compostela, Spain) created an immersive installation combining laser-cut sculpture, generative physics simulations, and a gentle soundscape that offers a meditation on the breath of the biosphere in partnership with <b>Maoya Bassiouni</b> (University of California, Berkeley). David's artwork offers a kind of mirror of nature’s varied forms of life. <b><a href="https://fluxnetart.github.io/David/">(see more ...)</a></b></figcaption>
 
 
   </div>
