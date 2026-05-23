@@ -10,7 +10,7 @@ layout: default
 
 
 <figure style="text-align: center;">
-  <img src="https://fluxnetart.github.io/images/logos.png">
+  <img src="https://fluxnetart.github.io/images/logo2.png">
 </figure>
 
 
