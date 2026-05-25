@@ -6,7 +6,7 @@ categories: projects
 ---
 
 
-<strong><i>Embody a soil microbe in the carbon cycle or a cloud in the water cycle to awaken your Buddha nature</strong></i>
+<strong><i>Embody a soil microbe in the carbon cycle or a cloud in the water cycle to awaken your Buddha nature</i></strong>
 
 Ecosystems are chaotic systems where the whole is more than just the sum of their parts. Environmental scientist <a href = "https://fluxnetart.github.io/Rosa/">Maoya Bassiouni</a>  analyzes data from hundreds of flux towers worldwide to reveal how small processes connecting soils, leaves and the atmosphere work together to shape larger patterns and cycles we observe in nature. Mystic <a href = "https://fluxnetart.github.io/Rosa/">Rosa Lewis</a> mirrors this inquiry through meditation practices grounded in her awakening experience. She invites us to feel those same ecosystem processes and patterns of exchange, embracing flux and the continuum between grief and love as pathways to wholeness.
 
