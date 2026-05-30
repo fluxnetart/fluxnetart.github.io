@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Art-science celebration and exhibit
+title: PRAx art-science celebration and exhibit
 excerpt: Artworks from the 2024-25 fluxART cohort were brought to life at Patricia Valian Reser Center for the Creative Arts and art-science enthusiasts gathered to celebrate.  
 categories: news
 ---
