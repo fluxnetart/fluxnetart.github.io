@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your clips wanted for video mandala
-excerpt: We are creating a crowd-sourced video mandala featuring clips of people connecting with nature in contemplative ways from around the world.  
+excerpt: April 2025. Rosa Lewis is creating a crowd-sourced video mandala featuring clips of people connecting with nature in contemplative ways from around the world.  
 categories: news
 ---
 

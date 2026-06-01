@@ -1,11 +1,11 @@
 ---
 layout: post
 title: PRAx art-science celebration and exhibit
-excerpt: Artworks from the 2024-25 fluxART cohort were brought to life at Patricia Valian Reser Center for the Creative Arts and art-science enthusiasts gathered to celebrate.  
+excerpt: January 2026. Artworks from the fluxART cohort were brought to life at Patricia Valian Reser Center for the Creative Arts (PRAx) and art-science enthusiasts gathered to celebrate.  
 categories: news
 ---
 
-After a yearlong residency exploring climate change, drought, fire disturbances, and the renewing rhythms of landscapes <i>flux</i>ART was brought to life at Oregon State University's Patricia Valian Reser Center for the Creative Arts (PRAx).
+In January 2026, and after a yearlong residency exploring climate change, drought, fire disturbances, and the renewing rhythms of landscapes <i>flux</i>ART was brought to life at Oregon State University's PRAx center for creative arts.
 
 Artists and FLUXNET scientists gathered in Corvallis, OR 21-23 January, 2026 to celebrate <i>flux</i>ART, drawing several hundreds of visitors to experience their work at the opening event of PRAx’s exhibition. <a href ="https://prax.oregonstate.edu/visual-arts/past-exhibitions/currents-experiments-art-science-collaboration">Currents: Experiments in Art-Science Collaboration</a> featured ten international artists, five of which engaged with FLUXNET research and scientists via the <a href = "https://fluxnetart.github.io/"><i>flux</i>ART</a> residency directed by Maoya Bassiouni as well as <a href = "http://climatewhirl.fi/en">Climate Whirl</a> Art&Science Program and <a href = "https://www.periferia.helsinki.fi/">Periferia Forest Art Lab</a> curated by Ulla Taipale. 
 

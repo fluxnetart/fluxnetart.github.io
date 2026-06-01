@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sharing a colorful perspective on ecosystem data
-excerpt: In April 2025, artist Julia Oldham was invited to give a talk in the Ecoinformatics Lecture series at Northern Arizona University.
+excerpt: April 2025. Artist Julia Oldham was invited to give a talk in the Ecoinformatics Lecture series at Northern Arizona University.
 categories: news
 ---
 

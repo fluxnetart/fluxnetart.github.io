@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your voice can become part of a fluxART composition!
-excerpt: Sara Bouchard's is weaving carbon cycle science, data and crowd-sourced text in her electroacoustic composition "En Masse"
+excerpt: September 2025. Sara Bouchard's is weaving carbon cycle science, data and crowd-sourced text in her electroacoustic composition "En Masse"
 categories: news
 ---
 

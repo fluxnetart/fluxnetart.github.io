@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fluxART at the 2024 AGU annual meeting
-excerpt: In December, 2024, fluxART made multiple appearances at the American Geosciences Union’s annual meeting in Washington DC, showcasing how art-science collaborations can transform our relationship with environmental data and help reimagine climate action.
+excerpt: December 2024. fluxART made multiple appearances at the American Geosciences Union’s annual meeting in Washington DC, showcasing how art-science collaborations can transform our relationship with environmental data and help reimagine climate action.
 categories: news
 ---
 

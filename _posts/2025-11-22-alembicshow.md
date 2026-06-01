@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embodying the Biosphere's Breath Berkeley Showcase
-excerpt: Come experience ecosystem fluxes and reimagine the infinite interconnections that sustain life on Earth at the Berkeley Alembic, opening 19 October, 2025
+excerpt: October 2025. Come experience ecosystem fluxes and reimagine the infinite interconnections that sustain life on Earth at the Berkeley Alembic.
 categories: news
 ---
 

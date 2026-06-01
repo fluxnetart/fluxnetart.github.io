@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listening to living trees
-excerpt: Artist Sara Bouchard visited the Rice Rivers Center to record the plant tissue that carries water and minerals from roots up through the stem and to the leaves.
+excerpt: November 2025. Artist Sara Bouchard visited the Rice Rivers Center to record the plant tissue that carries water and minerals from roots up through the stem and to the leaves.
 categories: news
 ---
 

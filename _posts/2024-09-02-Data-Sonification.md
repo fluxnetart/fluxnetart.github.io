@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listening to the landscape and unlocking flux data with sound
-excerpt: In September 2024, artist Sara Bouchard led a workshop on data sonification exploring how sound unlocks new ways of connecting with the environment.
+excerpt: September 2024. Artist Sara Bouchard led a workshop on data sonification exploring how sound unlocks new ways of connecting with the environment.
 categories: news
 ---
 

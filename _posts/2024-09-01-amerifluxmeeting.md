@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Art Meets Science at the 2024 Ameriflux Meeting
-excerpt: In September 2024, fluxArt artists in residence participated in the Annual Ameriflux Meeting in Berkeley, CA, to promote creative dialogue with the flux science community.
+excerpt: September 2024. fluxArt artists in residence participated in the Annual Ameriflux Meeting in Berkeley, CA, to promote creative dialogue with the flux science community.
 categories: news
 ---
 
@@ -24,9 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
-
-
-by [Emma Reich](https://egreich.github.io/), Nothern Arizona University (egr65@nau.edu)
 
 Fostering creative spaces for art and science to interact is of particular importance, because it generates conditions for novel ideas and meaningful impact beyond each discipline. Following this, in early September the FLUXNET Outreach Working Group took to the 2024 Ameriflux Annual Meeting to promote a dialogue between the FLUXNET artists in residence and the greater flux tower community.
 
@@ -119,6 +116,8 @@ The NSF-funded pilot FLUXNET artist residency program aims to reimagine transfor
 
 Over the next year, the artists will continue collaborating to produce flux-relevant art with their artist-scientist pairs. In January 2026, an exhibit and performance showing will be held at the Patricia Valian Reser Center for the Creative Arts (PRAx) in Corvallis OR to highlight the art created during the residencies. To learn more, see the FLUXNET Artist Residency page or contact the FLUXNET Outreach Committee.
 
+
+New story by [Emma Reich](https://egreich.github.io/), Nothern Arizona University (egr65@nau.edu)
 
 We thank the Ameriflux Management Program for sponsoring travel grants supporting artists to attend the Ameriflux annual meeting. We acknowledge funding from the NSF AccelNet award 2113978, from Virginia Commonweath University and the L.L. Stewart Faculty Fellowships through PRAx and Oregon State University’s Office of the Provost. We are grateful to the FLUXNET Community Council, FLUXNET Outreach Working Group, and our partners at the PRAx center for facilitating this program.
 
